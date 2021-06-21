@@ -7,3 +7,4 @@ Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
+* Alfian Yusuf Abdullah, [Git](https://github.com/alfianyusufabdullah).
