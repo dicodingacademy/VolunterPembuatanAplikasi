@@ -11,4 +11,4 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
-* Garin Yudha, [LinkedIn](https://www.linkedin.com/in/garinyr/).
+* Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
