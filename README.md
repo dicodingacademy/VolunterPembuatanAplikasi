@@ -1,7 +1,7 @@
 # Volunter Pembuatan Aplikasi
 Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
 
-**\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio)**
+**\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio).**
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
@@ -11,3 +11,4 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
+* Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
