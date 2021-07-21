@@ -15,3 +15,4 @@ Berikut daftar Volunter yang diterima:
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Moh. Aflah Azzaky, [Linkedin](https://www.linkedin.com/in/aflah-azzaky-1806/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
+* Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
