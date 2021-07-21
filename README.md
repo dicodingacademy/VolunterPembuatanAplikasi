@@ -12,4 +12,7 @@ Berikut daftar Volunter yang diterima:
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
+* Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
+* Moh. Aflah Azzaky, [Linkedin](https://www.linkedin.com/in/aflah-azzaky-1806/).
+* Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
