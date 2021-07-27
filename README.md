@@ -27,3 +27,4 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Abdul Aziz, [LinkedInt](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Dedy Setiawan, [LinkedLn](https://www.linkedin.com/in/dedystiawan/).
+* Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
