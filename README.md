@@ -17,4 +17,8 @@ Berikut daftar Volunter yang diterima:
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
+* Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
+* Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
+* Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
+* Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Dyelvio Wijaya, [Github](https://github.com/DyelvioWijaya).
