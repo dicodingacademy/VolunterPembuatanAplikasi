@@ -21,3 +21,4 @@ Berikut daftar Volunter yang diterima:
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
+* Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
