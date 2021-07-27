@@ -5,9 +5,9 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 Berikut daftar Volunter yang diterima:
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
+* Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
-* Alfian Yusuf Abdullah, [Git](https://github.com/alfianyusufabdullah).
+* Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
@@ -30,3 +30,5 @@ Berikut daftar Volunter yang diterima:
 * Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
+* Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
+* Budi Liauw, [GitHub](https://github.com/budiliauw87/).
