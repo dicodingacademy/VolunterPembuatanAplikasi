@@ -24,3 +24,4 @@ Berikut daftar Volunter yang diterima:
 * Dyelvio Wijaya, [Github](https://github.com/DyelvioWijaya).
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/)
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
+* Muhamad Abdul Aziz, [LinkedInt](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
