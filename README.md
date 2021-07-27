@@ -25,3 +25,4 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/)
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 * Muhamad Abdul Aziz, [LinkedInt](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
+* Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
