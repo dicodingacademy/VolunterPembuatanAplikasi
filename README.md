@@ -29,3 +29,4 @@ Berikut daftar Volunter yang diterima:
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
+* Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
