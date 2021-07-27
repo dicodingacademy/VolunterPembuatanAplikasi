@@ -28,3 +28,4 @@ Berikut daftar Volunter yang diterima:
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Dedy Setiawan, [LinkedLn](https://www.linkedin.com/in/dedystiawan/).
 * Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
+* Tanti Cahya Herdiyani, [GitHub Tanti](https://github.com/tantiich/).
