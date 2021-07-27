@@ -1,5 +1,5 @@
-# Volunter Pembuatan Aplikasi
-Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
+# Volunteer Pembuatan Aplikasi
+Repository ini digunakan sebagai sayembara pencarian volunteer untuk pembuatan aplikasi Dicoding. Jika Anda tertarik untuk menjadi Volunteer, silakan lakukan PR(pull-request) pada berkas ini ya. Silakan gunakan format berikut:
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio).**
 
@@ -21,3 +21,4 @@ Berikut daftar Volunter yang diterima:
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
+* Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
