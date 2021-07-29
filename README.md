@@ -17,12 +17,14 @@ Berikut daftar Volunter yang diterima:
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
+* Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
+* Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
-* Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/)
+* Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
@@ -31,4 +33,13 @@ Berikut daftar Volunter yang diterima:
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
+* Sudarminto Senlau, [Linkedin](https://www.linkedin.com/in/sudarminto-senlau/).
+* Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Brian Kheng, [GitHub](https://github.com/BrianKheng).
+* Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
+* Teja Semadi, [GitHub](https://github.com/tejaDEV14).
+* Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
+* Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
+* Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
+* Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
