@@ -52,3 +52,4 @@ Berikut daftar Volunter yang diterima:
 * Mohammad Syailendra Kusumah, [Linkedin](https://www.linkedin.com/in/syailendra/).
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
+* Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
