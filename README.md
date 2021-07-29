@@ -24,7 +24,7 @@ Berikut daftar Volunter yang diterima:
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
-* Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/)
+* Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
@@ -34,3 +34,4 @@ Berikut daftar Volunter yang diterima:
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Brian Kheng, [GitHub](https://github.com/BrianKheng).
