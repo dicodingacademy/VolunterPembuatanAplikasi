@@ -42,3 +42,4 @@ Berikut daftar Volunter yang diterima:
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
 * Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
+* Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
