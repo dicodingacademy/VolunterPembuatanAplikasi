@@ -37,3 +37,4 @@ Berikut daftar Volunter yang diterima:
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
+* Teja Semadi, [GitHub](https://github.com/tejaDEV14).
