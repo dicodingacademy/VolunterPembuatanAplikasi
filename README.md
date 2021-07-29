@@ -35,3 +35,4 @@ Berikut daftar Volunter yang diterima:
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
+* Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
