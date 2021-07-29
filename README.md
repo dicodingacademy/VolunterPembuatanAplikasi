@@ -38,3 +38,4 @@ Berikut daftar Volunter yang diterima:
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
+* Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
