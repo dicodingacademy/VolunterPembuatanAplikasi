@@ -60,3 +60,4 @@ Berikut daftar Volunter yang diterima:
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
+* 
