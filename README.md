@@ -45,3 +45,4 @@ Berikut daftar Volunter yang diterima:
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
 * Mohammad Syailendra Kusumah, [Linkedin](https://www.linkedin.com/in/syailendra/).
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
+* Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
