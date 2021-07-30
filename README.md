@@ -61,3 +61,4 @@ Berikut daftar Volunter yang diterima:
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
+* Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
