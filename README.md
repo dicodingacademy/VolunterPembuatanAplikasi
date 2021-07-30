@@ -64,3 +64,4 @@ Berikut daftar Volunter yang diterima:
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
+* Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
