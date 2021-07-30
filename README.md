@@ -66,3 +66,4 @@ Berikut daftar Volunter yang diterima:
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
+* Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
