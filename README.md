@@ -17,4 +17,4 @@ Berikut daftar Volunter yang diterima:
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
-* Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/)
+* Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
