@@ -59,4 +59,11 @@ Berikut daftar Volunter yang diterima:
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
+* Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
+* Alfadila Anas, [GeoIT.dev](https://geoit.dev).
+* Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
+* Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
+* Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
+* Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
+* Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
