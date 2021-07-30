@@ -63,3 +63,4 @@ Berikut daftar Volunter yang diterima:
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
+* Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
