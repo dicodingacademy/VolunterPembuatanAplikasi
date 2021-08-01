@@ -4,6 +4,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio).**
 
 Berikut daftar Volunter yang diterima:
+* Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
