@@ -69,3 +69,4 @@ Berikut daftar Volunter yang diterima:
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
+* Ilham Wisnu Perwira Wardhana, [LinkedIn](https://www.linkedin.com/in/ilham-wisnu-2769b1210/).
