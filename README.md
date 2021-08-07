@@ -69,4 +69,4 @@ Berikut daftar Volunter yang diterima:
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
-* Jessi K. M. J. Ropa, [GitHub](https://www.linkedin.com/in/jessiropa/).
+* Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
