@@ -8,6 +8,7 @@ Berikut daftar Volunter yang diterima:
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
+* Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
