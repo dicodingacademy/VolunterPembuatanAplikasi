@@ -59,6 +59,7 @@ Berikut daftar Volunter yang diterima:
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
+* Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
@@ -70,3 +71,8 @@ Berikut daftar Volunter yang diterima:
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
+* Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
+* Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
+* Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
+* M. Safii, [GitHub](https://github.com/msafii85).
+* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
