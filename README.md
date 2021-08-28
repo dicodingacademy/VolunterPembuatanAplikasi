@@ -78,3 +78,4 @@ Berikut daftar Volunter yang diterima:
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
+* I Putu Rama Anadya, [Linkedin](https://www.linkedin.com/in/i-putu-rama-anadya-448a60174/).
