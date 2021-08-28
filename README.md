@@ -77,4 +77,5 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * M. Safii, [GitHub](https://github.com/msafii85).
-* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
+* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).\\
+* Karunia Sentosa, [GitHub](https://github.com/dibalikpohon).
