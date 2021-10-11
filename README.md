@@ -79,3 +79,4 @@ Berikut daftar Volunter yang diterima:
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Mohammad Ardi Trisnaldi 23, [Linkedin](https://www.linkedin.com/in/mohammad-ardi-trisnaldi/)
+* Kedr cuy
