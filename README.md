@@ -4,6 +4,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio).**
 
 Berikut daftar Volunter yang diterima:
+* Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
@@ -17,6 +18,8 @@ Berikut daftar Volunter yang diterima:
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
+* Muhammad Hamdan, [Instagram](https://www.instagram.com/m._.hamdan/).
+* Nur Alamsyah, [GitHub](https://github.com/alamisaja).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
@@ -33,6 +36,7 @@ Berikut daftar Volunter yang diterima:
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
+* Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/)
 * Arief Aryudi Syidik, [Linkedin](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
@@ -59,6 +63,7 @@ Berikut daftar Volunter yang diterima:
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
+* Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
@@ -70,3 +75,14 @@ Berikut daftar Volunter yang diterima:
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
 * Arif Dewangga, [LinkedIn] (https://www.linkedin.com/in/dewanggaarif) .
+* Muhammad Raihan RTT, [Linkedin](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
+* Fahrul Razi, [LinkedIn](https://www.linkedin.com/in/fahrul-razi-a27111196/).
+* Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
+* D'Riski Maulana, [Linkedin](https://www.linkedin.com/in/driskimaulana/).
+* Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
+* Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
+* Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
+* Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
+* Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
+* M. Safii, [GitHub](https://github.com/msafii85).
+* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
