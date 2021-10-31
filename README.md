@@ -37,6 +37,7 @@ Berikut daftar Volunter yang diterima:
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 
 ### F
+* Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
 * Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
 * Fahrul Razi, [LinkedIn](https://www.linkedin.com/in/fahrul-razi-a27111196/).
