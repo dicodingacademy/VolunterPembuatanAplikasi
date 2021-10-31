@@ -74,6 +74,7 @@ Berikut daftar Volunter yang diterima:
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
+* Fahrul Razi, [LinkedIn](https://www.linkedin.com/in/fahrul-razi-a27111196/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * D'Riski Maulana, [Linkedin](https://www.linkedin.com/in/driskimaulana/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
