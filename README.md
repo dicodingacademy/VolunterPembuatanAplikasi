@@ -78,6 +78,7 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
+* Muhamad Septian Jaelani, [LinkedIn](https://www.linkedin.com/in/mseptianj/).
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
