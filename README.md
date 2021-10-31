@@ -36,6 +36,7 @@ Berikut daftar Volunter yang diterima:
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
+* Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/)
 * Arief Aryudi Syidik, [Linkedin](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
