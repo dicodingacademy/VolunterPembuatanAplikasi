@@ -113,6 +113,7 @@ Berikut daftar Volunter yang diterima:
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
+* Rozi Mulyadi, [Linkedin](https://www.linkedin.com/in/rozi-mulyadi-0242/).
 
 ### S
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
