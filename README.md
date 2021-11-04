@@ -116,15 +116,6 @@ Berikut daftar Volunter yang diterima:
 
 ### S
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
-* Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
-* Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
-* Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
-* Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
-* Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
-* Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
-* M. Safii, [GitHub](https://github.com/msafii85).
-* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
-* Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 * Sudarminto Senlau, [Linkedin](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 
@@ -138,6 +129,7 @@ Berikut daftar Volunter yang diterima:
 ### U
 ### V
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
+* Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 
 ### W
 ### X
