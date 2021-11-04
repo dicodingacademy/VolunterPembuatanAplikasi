@@ -129,6 +129,7 @@ Berikut daftar Volunter yang diterima:
 ### U
 ### V
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
+* Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 
 ### W
 ### X
