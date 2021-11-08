@@ -32,6 +32,7 @@ Berikut daftar Volunter yang diterima:
 * Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
+* Dimas Panuji Wicaksono, [dimspawn.github.io](https://dimspawn.github.io).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
 * Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
