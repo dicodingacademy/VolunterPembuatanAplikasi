@@ -29,6 +29,7 @@ Berikut daftar Volunter yang diterima:
 ### C
 ### D
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
+* Deri Kurniawan, [LinkedIn](https://www.linkedin.com/in/deri-kurniawan/).
 * Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
