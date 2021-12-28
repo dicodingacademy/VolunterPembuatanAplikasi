@@ -131,7 +131,7 @@ Berikut daftar Volunter yang diterima:
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
 
 ### W
-* Wahyu Rahmaditama Putera, [GitHub](hhttps://github.com/wahyurp).
+* Wahyu Rahmaditama Putera, [GitHub](https://github.com/wahyurp).
 
 ### X
 ### Y
