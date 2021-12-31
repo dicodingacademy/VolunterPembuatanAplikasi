@@ -93,6 +93,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Raihan RTT, [Linkedin](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Muh Suryadi Triputra Rahman, [LinkedIn](https://www.linkedin.com/in/msuryaditriputra/).
 
 ### N
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
