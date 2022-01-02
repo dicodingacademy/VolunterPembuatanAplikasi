@@ -69,6 +69,7 @@ Berikut daftar Volunter yang diterima:
 
 ### I
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
+* Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
 
 ### J
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
