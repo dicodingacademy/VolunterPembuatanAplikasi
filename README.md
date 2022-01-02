@@ -136,6 +136,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Muhammad Ramadhan Kurniawan, [LinkedIn](https://www.linkedin.com/in/muhammadramadhankurniawan/).
 
 ### N
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
