@@ -96,6 +96,7 @@ Berikut daftar Volunter yang diterima:
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
+* Mochan Putra Hendra, [Linkedin](https://www.linkedin.com/in/mochan-putra/).
 * Moh. Aflah Azzaky, [LinkedIn](https://www.linkedin.com/in/aflah-azzaky-1806/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
