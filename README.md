@@ -70,6 +70,7 @@ Berikut daftar Volunter yang diterima:
 
 ### I
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
+* Imamuzzaki Abu Salam, [LinkedIn](https://www.linkedin.com/in/imamuzzaki-abu-salam/) [Github](https://github.com/ImBIOS).
 * Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
 
 ### J
