@@ -53,6 +53,7 @@ Berikut daftar Volunter yang diterima:
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Fitri Hanung Wibowo, [Linkedin](https://www.linkedin.com/in/fitri-hanung-wibowo/).
+* Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/)
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
 
 ### G
