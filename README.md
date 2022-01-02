@@ -10,6 +10,7 @@ Berikut daftar Volunter yang diterima:
 ### A
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
+* Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
