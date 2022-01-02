@@ -92,6 +92,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Muhammad Raihan RTT, [Linkedin](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
+* Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/)
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 
