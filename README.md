@@ -133,6 +133,7 @@ Berikut daftar Volunter yang diterima:
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
+* Rizki Muhammad Naufal Irsyad, [GitHub](https://github.com/nflirsyad).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 
 ### S
