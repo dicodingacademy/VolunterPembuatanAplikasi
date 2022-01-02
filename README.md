@@ -99,6 +99,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Muhammad Azar Nuzy, [LinkedIn](https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
+* Muhammad Hafiz Fadlillah, [LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-095417202/).
 * Muhammad Hamdan, [Instagram](https://www.instagram.com/m._.hamdan/).
 * Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
@@ -114,7 +115,7 @@ Berikut daftar Volunter yang diterima:
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Nur Alamsyah, [GitHub](https://github.com/alamisaja).
 * Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/).
-* Nurul Silpia, [Linkedin](www.linkedin.com/in/nurul-silpia-3107/)
+* Nurul Silpia, [Linkedin](www.linkedin.com/in/nurul-silpia-3107/).
 
 ### O
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
