@@ -23,6 +23,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).\
 * Ahmad Nurdiansah, [Github](https://github.com/nordeeen).
+* Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
@@ -148,6 +149,7 @@ Berikut daftar Volunter yang diterima:
 ### R
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
+* Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
@@ -157,6 +159,7 @@ Berikut daftar Volunter yang diterima:
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Robertus Adrian, [Github](https://github.com/robertusAdrian).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto)
+* Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
 
 ### S
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
