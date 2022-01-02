@@ -129,6 +129,7 @@ Berikut daftar Volunter yang diterima:
 ### U
 ### V
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
+* Vini Jumatul Fitri, [LinkdIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/)
 
 ### W
 ### X
