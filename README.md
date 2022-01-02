@@ -183,6 +183,8 @@ Berikut daftar Volunter yang diterima:
 * Vini Jumatul Fitri, [LinkedIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/).
 
 ### W
+* Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
+
 ### X
 ### Y
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
