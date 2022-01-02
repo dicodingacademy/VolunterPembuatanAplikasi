@@ -71,6 +71,7 @@ Berikut daftar Volunter yang diterima:
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 
 ### J
+* Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
 * Joko Ardiyanto, [LinkedIn](https://www.linkedin.com/in/joko-a-b848a0131).
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
