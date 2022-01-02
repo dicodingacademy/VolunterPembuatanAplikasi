@@ -47,6 +47,7 @@ Berikut daftar Volunter yang diterima:
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
+* Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
 
 ### F
 * Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
