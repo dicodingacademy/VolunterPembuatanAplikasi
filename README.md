@@ -156,6 +156,7 @@ Berikut daftar Volunter yang diterima:
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
+* Thoriq Harizul Ahsan, [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 
