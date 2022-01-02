@@ -29,6 +29,7 @@ Berikut daftar Volunter yang diterima:
 
 ### C
 ### D
+* Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
 * Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
