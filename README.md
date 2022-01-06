@@ -7,11 +7,6 @@ Silakan gunakan format berikut:
 _Catatan : Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
-* Oon Arfiandwi, [oo.or.id](https://oo.or.id).
-* Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
-* Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
-* Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
-=======
 ### A
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
