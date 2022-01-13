@@ -141,6 +141,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Raihan Fais Sya'bani [Linkedin](https://www.linkedin.com/in/mraihanfs/).
 * Muhammad Raihan RTT, [Linkedin](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
 * Muhammad Ramadhan, [GitHub](https://github.com/MadhanRa).
+* Muhammad Rio Ananta Firdaus, [LinkedIn](https://www.linkedin.con/in/rioananta).
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
@@ -216,4 +217,3 @@ Berikut daftar Volunter yang diterima:
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
-
