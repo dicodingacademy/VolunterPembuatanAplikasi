@@ -102,6 +102,7 @@ Berikut daftar Volunter yang diterima:
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
 
 ### K
+* Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/)
 
 ### L
