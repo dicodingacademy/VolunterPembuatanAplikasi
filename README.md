@@ -85,6 +85,7 @@ Berikut daftar Volunter yang diterima:
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 
 ### H
+* Haryo Dwi Setyoputro, [GitHub](https://github.com/haryodwi).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
 
