@@ -189,6 +189,7 @@ Berikut daftar Volunter yang diterima:
 ### S
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
+* Setiawan Bayu Pratama, [Linkedin](https://www.linkedin.com/in/uyabayu999/).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
 * Sofyan Setiawan, [LinkedIn](https://www.linkedin.com/in/sofyan-setiawan-8b323878/).
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
