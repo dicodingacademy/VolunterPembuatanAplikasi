@@ -164,6 +164,7 @@ Berikut daftar Volunter yang diterima:
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
+* Patrick Sinaga, [LinkedIn](https://www.linkedin.com/in/patricksinaga/)
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/)
 
 ### Q
