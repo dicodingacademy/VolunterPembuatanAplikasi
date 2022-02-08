@@ -218,6 +218,7 @@ Berikut daftar Volunter yang diterima:
 ### X
 ### Y
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
+* Yoga Pramudana Setiawan, [LinkedIn](https://www.linkedin.com/in/yogapramudana/)
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Yovan Madina Fumasa, [LinkedIn](https://www.linkedin.com/in/yovan-madina-fumasa-7aa516149/).
 * Yudi Setiawan, [GitHub](https://github.com/coderjava/).
