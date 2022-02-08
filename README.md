@@ -13,6 +13,7 @@ Berikut daftar Volunter yang diterima:
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
+* Adhellia Laras Tri Hastuti, [LinkedIn](https://www.linkedin.com/in/adhellia-laras).
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/)
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
