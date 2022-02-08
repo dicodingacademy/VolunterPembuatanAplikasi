@@ -108,6 +108,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
+* Levi Jovanatan, [LinkedIn](https://www.linkedin.com/in/jovanat4nz/).
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
