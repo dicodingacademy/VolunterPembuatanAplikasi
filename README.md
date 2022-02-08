@@ -146,6 +146,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Ramadhan, [GitHub](https://github.com/MadhanRa).
 * Muhammad Rio Ananta Firdaus, [LinkedIn](https://www.linkedin.con/in/rioananta).
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
+* Muhammad Syairozy Syauqi, [GitHub](https://github.com/Syairozys/).
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
