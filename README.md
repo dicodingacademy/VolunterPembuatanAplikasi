@@ -34,6 +34,7 @@ Berikut daftar Volunter yang diterima:
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
 
 ### B
+* Bagus Gandhi Pratama, [LinkedIn](https://www.linkedin.com/in/bagus-gandhi-pratama/).
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
