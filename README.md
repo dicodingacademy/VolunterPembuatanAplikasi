@@ -45,6 +45,7 @@ Berikut daftar Volunter yang diterima:
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
+* Dendi Fazar Zaman, [LinkedIn](https://www.linkedin.com/in/dendi-fazar-zaman/).
 * Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
