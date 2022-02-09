@@ -183,6 +183,7 @@ Berikut daftar Volunter yang diterima:
 * Rivaldi Agustinus Nugraha Siringoringo, [Github](https://github.com/ValdiANS/).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Robertus Adrian, [Github](https://github.com/robertusAdrian).
+* Rochman Setiono, [LinkedIn](https://www.linkedin.com/in/rochman-setiono-8212a4202/).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto)
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
 
