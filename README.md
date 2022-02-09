@@ -60,6 +60,7 @@ Berikut daftar Volunter yang diterima:
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
 
 ### F
+* Fadlan Bima Hermawan, [LinkedIn](https://www.linkedin.com/in/fadlan-bima-hermawan-870617218/).
 * Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
 * Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
