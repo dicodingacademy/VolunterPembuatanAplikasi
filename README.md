@@ -71,6 +71,7 @@ Berikut daftar Volunter yang diterima:
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
+* Fida' Mardliyah, [LinkedIn](https://www.linkedin.com/in/fida-mardliyah-3119b8143/).
 * Fiki Aviantono, [Github](https://github.com/fikia13)
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
