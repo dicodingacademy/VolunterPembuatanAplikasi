@@ -36,6 +36,7 @@ Berikut daftar Volunter yang diterima:
 ### B
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
+* Bryan Santoso, [GitHub](https://github.com/bryansantoso85).
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 
