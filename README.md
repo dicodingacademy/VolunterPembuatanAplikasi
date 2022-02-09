@@ -13,11 +13,11 @@ Berikut daftar Volunter yang diterima:
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
-* Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/)
+* Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
-* Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).\
+* Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Ahmad Nurdiansah, [Github](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
@@ -25,7 +25,7 @@ Berikut daftar Volunter yang diterima:
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
-* Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
+* Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/).
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
@@ -71,7 +71,7 @@ Berikut daftar Volunter yang diterima:
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
-* Fiki Aviantono, [Github](https://github.com/fikia13)
+* Fiki Aviantono, [Github](https://github.com/fikia13).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
@@ -105,6 +105,7 @@ Berikut daftar Volunter yang diterima:
 ### K
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/)
+* Khamidah Ahmad Syauqi, [GitHub](https://github.com/syauqi-a).
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
@@ -122,7 +123,7 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
-* Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/)
+* Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/).
 * Muhamad Septian Jaelani, [LinkedIn](https://www.linkedin.com/in/mseptianj/).
 * Muhammad Al Faisal, [GitHub](https://github.com/faisalaja/).
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
@@ -164,7 +165,7 @@ Berikut daftar Volunter yang diterima:
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
-* Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/)
+* Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
 ### Q
 ### R
@@ -197,7 +198,7 @@ Berikut daftar Volunter yang diterima:
 
 ### T
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
-* Tata Redha Al fath. [LinkedIn](https://www.linkedin.com/in/tata-redha-al-fath-34034920a/)
+* Tata Redha Al fath. [LinkedIn](https://www.linkedin.com/in/tata-redha-al-fath-34034920a/).
 * Taufik Ramadhan, [Linkedin](https://github.com/taufikrmdhan).
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
