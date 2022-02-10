@@ -185,6 +185,7 @@ Berikut daftar Volunter yang diterima:
 * Robertus Adrian, [Github](https://github.com/robertusAdrian).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto)
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
+* Rahman Nurhidayat, [rahman-dev.netlify.app](https://rahman-dev.netlify.app/).
 
 ### S
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
