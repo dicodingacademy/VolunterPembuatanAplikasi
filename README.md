@@ -52,6 +52,7 @@ Berikut daftar Volunter yang diterima:
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
 * Dodi, [GitHub](https://github.com/dodichakill/).
+* Dwi Ari Setiawan, [LinkedIn](https://www.linkedin.com/in/dwiarisetiawan/).
 * Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
