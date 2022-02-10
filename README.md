@@ -113,6 +113,7 @@ Berikut daftar Volunter yang diterima:
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
+* M Halvi Rahman, [Github](https://github.com/HalviRahman).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Mochan Putra Hendra, [Linkedin](https://www.linkedin.com/in/mochan-putra/).
