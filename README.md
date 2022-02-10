@@ -132,6 +132,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Muhammad Azar Nuzy, [LinkedIn](https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/).
+* Muhammad Fadhil Hisyam, [GitHub](https://github.com/fadhil03).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
 * Muhammad Farroos Al-Ammaar, [LinkedIn](https://www.linkedin.com/in/muhammad-farroos/).
 * Muhammad Hafiz Fadlillah, [LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-095417202/).
