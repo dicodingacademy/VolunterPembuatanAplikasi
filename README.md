@@ -43,6 +43,7 @@ Berikut daftar Volunter yang diterima:
 ### C
 ### D
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
+* Daniel Kelvin.T, [LinkedIn](https://www.linkedin.com/in/daniel-kelvin-t-2419b5201/).
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
@@ -55,7 +56,6 @@ Berikut daftar Volunter yang diterima:
 * Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
-* Daniel Kelvin.T, [LinkedIn](https://www.linkedin.com/in/daniel-kelvin-t-2419b5201/)
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
