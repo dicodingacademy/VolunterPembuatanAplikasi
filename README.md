@@ -152,6 +152,7 @@ Berikut daftar Volunter yang diterima:
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 
 ### N
+* Nabil Qois, [Github](https://github.com/nabilqois).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
