@@ -110,7 +110,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
-* Letty Latifani Arifah [Github](https://github.com/LettyLatifah).
+* Letty Latifani Arifah, [Github](https://github.com/LettyLatifah).
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
