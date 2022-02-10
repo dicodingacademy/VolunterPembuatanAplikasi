@@ -170,6 +170,7 @@ Berikut daftar Volunter yang diterima:
 ### R
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
+* Rahida Rihhadatul Aisy, [Github](https://github.com/RahidaRA)
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Revo Faris Saifuddin, [Linkedin](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
