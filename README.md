@@ -164,7 +164,7 @@ Berikut daftar Volunter yang diterima:
 * Nur Alamsyah, [GitHub](https://github.com/alamisaja).
 * Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/).
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
-* Nungga Saputra, [LinkedIn] (https://www.linkedin.com/in/nunggasaputra/).
+* Nungga S, [LinkedIn](https://www.linkedin.com/in/nunggasaputra/).
 
 ### O
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
