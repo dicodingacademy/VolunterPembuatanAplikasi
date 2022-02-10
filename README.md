@@ -55,6 +55,7 @@ Berikut daftar Volunter yang diterima:
 * Dwi Rezki Agung, [dwi.rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
+* Dea Felycia Arista Purnama Sari, [LinkedIn](https://www.linkedin.com/in/dea-felycia-arista-purnama-sari-0934ba229/).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
