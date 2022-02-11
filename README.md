@@ -99,6 +99,7 @@ Berikut daftar Volunter yang diterima:
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
 
 ### J
+* Jericho Gunawan, [LinkedIn](https://www.linkedin.com/in/jericho-gunawan/).  
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
 * Joko Ardiyanto, [LinkedIn](https://www.linkedin.com/in/joko-a-b848a0131).
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
