@@ -89,6 +89,7 @@ Berikut daftar Volunter yang diterima:
 ### H
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
+* Hafizh Daffa Septianto, [LinkedIn](https://www.linkedin.com/in/hafizhdaffa/).
 
 ### I
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
