@@ -58,6 +58,7 @@ Berikut daftar Volunter yang diterima:
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
+* Eko Nur Cahyo, [GitHub](https://github.com/konucha).
 * Elmer Fiqi Tajusaladin, [LinkedIn](https://www.linkedin.com/in/elmerfiqi/).
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
 
