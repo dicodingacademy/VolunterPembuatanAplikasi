@@ -167,6 +167,7 @@ Berikut daftar Volunter yang diterima:
 
 ### O
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Okta Pratama, [GitHub](https://github.com/Oktapratama).
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
