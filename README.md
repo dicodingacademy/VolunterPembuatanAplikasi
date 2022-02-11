@@ -155,6 +155,7 @@ Berikut daftar Volunter yang diterima:
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Mikael Aldy Cahya P, [LinkedIn](https://www.linkedin.com/in/mikaelaldy).
 
 ### N
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
