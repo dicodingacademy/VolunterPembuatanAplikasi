@@ -19,6 +19,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
+* Ahmad Naufal Fadhil, [LinkedIn](https://www.linkedin.com/in/naufal360/).
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
