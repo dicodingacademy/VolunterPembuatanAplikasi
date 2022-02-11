@@ -32,6 +32,7 @@ Berikut daftar Volunter yang diterima:
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
+* Aziz Abdillah, [GitHub](https://github.com/Abidazl)
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
 
 ### B
