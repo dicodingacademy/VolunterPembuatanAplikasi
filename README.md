@@ -7,6 +7,7 @@ Silakan gunakan format berikut:
 _Catatan : Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 ### A
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
