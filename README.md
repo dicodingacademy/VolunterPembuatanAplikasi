@@ -200,6 +200,7 @@ Berikut daftar Volunter yang diterima:
 * Sofyan Setiawan, [LinkedIn](https://www.linkedin.com/in/sofyan-setiawan-8b323878/).
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
+* Susanto, [LinkedIn](https://www.linkedin.com/in/susanto-sus-24b572223/).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 
 ### T
