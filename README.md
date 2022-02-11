@@ -80,6 +80,7 @@ Berikut daftar Volunter yang diterima:
 * Fitri Hanung Wibowo, [Linkedin](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
+* Ferdio Nathaniel [LinkedIn](https://www.linkedin.com/in/ferdio-nathaniel-ba5b421b7/).
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
