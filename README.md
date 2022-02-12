@@ -41,8 +41,10 @@ Berikut daftar Volunter yang diterima:
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 
 ### C
+* Choridatul Bahiyyah, [LinkedIn](https://www.linkedin.com/in/choridatul-bahiyyah-66a3551ab/), [GitHub](https://github.com/choridah).
+
 ### D
-* Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
+* Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/)
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
