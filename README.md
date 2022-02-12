@@ -174,6 +174,7 @@ Berikut daftar Volunter yang diterima:
 
 ### Q
 ### R
+* R. A Galuh Khairunnisa, [GitHub](https://github.com/galuhkhr).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
 * Ravena, [GitHub](https://github.com/ravena4).
