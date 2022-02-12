@@ -24,6 +24,7 @@ Berikut daftar Volunter yang diterima:
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
+* Alfendio Alif Faudisyah, [LinkedIn](https://www.linkedin.com/in/alfendio).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
 * Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
@@ -33,7 +34,7 @@ Berikut daftar Volunter yang diterima:
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
-* Alfendio Alif Faudisyah [LinkedIn](https://www.linkedin.com/in/alfendio).
+
 
 ### B
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
