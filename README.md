@@ -70,7 +70,7 @@ Berikut daftar Volunter yang diterima:
 * Faris Muhammad, [LinkedIn](https://www.linkedin.com/in/farisjadul1/).
 * Fariz Kemal, [LinkedIn](https://www.linkedin.com/in/farizkemal/).
 * Fatih Inra Jaya, [LinkedIn](https://id.linkedin.com/in/fatih-inra-jaya).
-* Feibyoni Teteregoh, [linkedIn],(https://www.linkedin.com/in/feibyoni-teteregoh-49431b189).
+* Feibyoni Teteregoh, [linkedIn](https://www.linkedin.com/in/feibyoni-teteregoh-49431b189).
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
