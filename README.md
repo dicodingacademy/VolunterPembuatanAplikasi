@@ -117,6 +117,7 @@ Berikut daftar Volunter yang diterima:
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Mochan Putra Hendra, [Linkedin](https://www.linkedin.com/in/mochan-putra/).
 * Moh. Aflah Azzaky, [LinkedIn](https://www.linkedin.com/in/aflah-azzaky-1806/).
+* Moh Lutfi Fauzi, [GitHub](https://mohlutfifauzi.github.io/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Mohammad Syailendra Kusumah, [Linkedin](https://www.linkedin.com/in/syailendra/).
@@ -155,6 +156,7 @@ Berikut daftar Volunter yang diterima:
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+
 
 ### N
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
