@@ -85,7 +85,7 @@ Berikut daftar Volunter yang diterima:
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
-* Grace Dita Hutasoit, [LinkedIn](linkedin.com/in/grace-asmr-a95961231).
+* Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr).
 
 ### H
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
