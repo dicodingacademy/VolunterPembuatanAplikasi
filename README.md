@@ -26,7 +26,7 @@ Berikut daftar Volunter yang diterima:
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
-* Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
+* Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/).
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
@@ -73,7 +73,7 @@ Berikut daftar Volunter yang diterima:
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
-* Fiki Aviantono, [GitHub](https://github.com/fikia13)
+* Fiki Aviantono, [Github](https://github.com/fikia13).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
@@ -106,6 +106,7 @@ Berikut daftar Volunter yang diterima:
 
 ### K
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
+* Khamidah Ahmad Syauqi, [GitHub](https://github.com/syauqi-a).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
 
 ### L
@@ -124,7 +125,7 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
-* Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/)
+* Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/).
 * Muhamad Septian Jaelani, [LinkedIn](https://www.linkedin.com/in/mseptianj/).
 * Muhammad Al Faisal, [GitHub](https://github.com/faisalaja/).
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
@@ -170,7 +171,7 @@ Berikut daftar Volunter yang diterima:
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
-* Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/)
+* Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
 ### Q
 ### R
