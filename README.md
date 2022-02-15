@@ -182,6 +182,7 @@ Berikut daftar Volunter yang diterima:
 * Revo Faris Saifuddin, [LinkedIn](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4)
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
+* Ringgo Sahara Agsya Lova, [LinkedIn](https://id.linkedin.com/in/ringgo-agsya-8b0045202).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
