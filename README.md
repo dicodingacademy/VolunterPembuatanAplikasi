@@ -173,6 +173,8 @@ Berikut daftar Volunter yang diterima:
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/)
 
 ### Q
+* Qory Amanah Putra, [qoryap.my.id](https://qoryap.my.id)
+
 ### R
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
