@@ -85,6 +85,7 @@ Berikut daftar Volunter yang diterima:
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
+* Gregorius Michael Sela, [LinkedIn](https://www.linkedin.com/in/gregorius-michael-0ab85b192/).
 
 ### H
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
@@ -235,4 +236,5 @@ Berikut daftar Volunter yang diterima:
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
-* Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri)
+* * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri)
+
