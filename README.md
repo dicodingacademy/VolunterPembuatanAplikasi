@@ -110,6 +110,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
+* Lutfan Zainul Haq, [LinkedIn](https://www.linkedin.com/in/lutfan-zainul-haq-4373bb222/)
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
