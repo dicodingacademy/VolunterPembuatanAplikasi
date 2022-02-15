@@ -41,6 +41,7 @@ Berikut daftar Volunter yang diterima:
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 
 ### C
+* Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 ### D
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
