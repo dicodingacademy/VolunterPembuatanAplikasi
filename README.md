@@ -112,6 +112,7 @@ Berikut daftar Volunter yang diterima:
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
 
 ### M
+* M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
