@@ -110,6 +110,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
+* Luhung Damarran Achmad, [LinkedIn](https://www.linkedin.com/in/luhungachmad).
 
 ### M
 * M. Safii, [GitHub](https://github.com/msafii85).
