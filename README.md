@@ -201,6 +201,7 @@ Berikut daftar Volunter yang diterima:
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
+* Sopianah, [Github] (https://github.com/sopianah)
 
 ### T
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
