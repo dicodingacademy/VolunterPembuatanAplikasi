@@ -183,6 +183,7 @@ Berikut daftar Volunter yang diterima:
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4)
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
+* Rizal Rahmat Ramadhan, [LinkedIn](https://www.linkedin.com/in/rizal-rahmat-ramadhan-7532a320b/).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
 * Rizki Muhammad Naufal Irsyad, [GitHub](https://github.com/nflirsyad).
