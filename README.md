@@ -49,6 +49,7 @@ Berikut daftar Volunter yang diterima:
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladangtekno](https://www.ladangtekno.com/p/contact.html).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
+* Dimas Budi Utomo, [Github](https://github.com/dimas708).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
 * Dodi, [GitHub](https://github.com/dodichakill/).
