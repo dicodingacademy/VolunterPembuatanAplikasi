@@ -22,6 +22,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
+* Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
