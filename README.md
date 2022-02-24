@@ -114,6 +114,7 @@ Berikut daftar Volunter yang diterima:
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
 
 ### L
+* Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
 
 ### M
@@ -243,4 +244,3 @@ Berikut daftar Volunter yang diterima:
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
-
