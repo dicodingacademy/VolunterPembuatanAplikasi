@@ -66,6 +66,7 @@ Berikut daftar Volunter yang diterima:
 
 ### F
 * Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
+* Fahmi Nugroho Alibasyah, [LinkedIn](https://www.linkedin.com/in/fahmi-nugroho-7a1a6b1a0/).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
 * Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
 * Fahrul Razi, [LinkedIn](https://www.linkedin.com/in/fahrul-razi-a27111196/).
@@ -239,4 +240,4 @@ Berikut daftar Volunter yang diterima:
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
-* Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri)
+* Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
