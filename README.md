@@ -88,6 +88,7 @@ Berikut daftar Volunter yang diterima:
 * Fiki Aviantono, [GitHub](https://github.com/fikia13)
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
+* Fina Enno Rizki Oktavia Putri, [LinkedIn](https://www.linkedin.com/in/fina-enno-rizki-oktavia-putri-99a081164).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Fitri Hanung Wibowo, [Linkedin](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
