@@ -175,6 +175,7 @@ Berikut daftar Volunter yang diterima:
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
+* Permana, [GitHub.com](https://github.com/Permana4131).
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/)
 
 ### Q
@@ -242,3 +243,4 @@ Berikut daftar Volunter yang diterima:
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
+
