@@ -145,6 +145,7 @@ Berikut daftar Volunter yang diterima:
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
 * Mochan Putra Hendra, [Linkedin](https://www.linkedin.com/in/mochan-putra/).
 * Moh. Aflah Azzaky, [LinkedIn](https://www.linkedin.com/in/aflah-azzaky-1806/).
+* Moh. Rafli Fata Permana, [Github](https://github.com/mohrap/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Mohammad Syailendra Kusumah, [Linkedin](https://www.linkedin.com/in/syailendra/).
