@@ -103,10 +103,11 @@ Berikut daftar Volunter yang diterima:
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
+* Galih Muhammad Ramdan, [LinkedIn](https://www.linkedin.com/in/galih-muhammad-ramdan-a71387142/).
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
-* Gesang Budiono, [GitHub} (https://github.com/gesang909)
-* Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
+* Gesang Budiono, [GitHub} (https://github.com/gesang909).
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
+* Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
