@@ -217,6 +217,7 @@ Berikut daftar Volunter yang diterima:
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Revo Faris Saifuddin, [LinkedIn](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
+* Revyn Pradana Putra, [LinkedIn](https://www.linkedin.com/in/revyn-pradana-putra-136228215/).
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4)
 * Rifqi Hadi Firdaus, [Linkedin](https://www.linkedin.com/in/ridius/).
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
