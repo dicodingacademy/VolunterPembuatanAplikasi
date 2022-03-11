@@ -47,6 +47,7 @@ Berikut daftar Volunter yang diterima:
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
+* Bela Eka Putri [Github](https://github.com/belaekaputri).
 
 ### C
 * Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
