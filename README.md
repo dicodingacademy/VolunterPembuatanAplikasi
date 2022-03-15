@@ -121,6 +121,7 @@ Berikut daftar Volunter yang diterima:
 * Isham Fakhri Rahman, [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139).
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
 * Iqbal Febren Haryanto, [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
+* Ifaldy Prayanda Juarsa, [LikedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
 
 ### J
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
