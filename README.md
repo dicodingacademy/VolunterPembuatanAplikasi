@@ -243,6 +243,7 @@ Berikut daftar Volunter yang diterima:
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 * Syarapudin, [Linkedin](https://www.linkedin.com/in/Syarap-udin-b87354725/).
+* Sandy Julianto, [Linkedin](www.linkedin.com/in/sandy-julianto-a624b8234/).
 
 ### T
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
