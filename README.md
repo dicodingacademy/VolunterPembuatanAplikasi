@@ -256,6 +256,7 @@ Berikut daftar Volunter yang diterima:
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
+* Tio Ramadhan, [Linkedin](https://www.linkedin.com/in/tioramadhn/)
 
 ### U
 * Uray Syaziman, [GitHub](https://github.com/syaziman2020).
