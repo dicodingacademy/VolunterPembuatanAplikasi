@@ -255,6 +255,7 @@ Berikut daftar Volunter yang diterima:
 * Thoriq Harizul Ahsan, [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
+* Tri Putra Adimas Nugraha, [LinkedIn](https://linkedin.com/tri-putra-adimas-nugraha).
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
 
 ### U
