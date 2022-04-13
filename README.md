@@ -231,6 +231,7 @@ Berikut daftar Volunter yang diterima:
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto)
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
 * Ridwan Febnur Asri Redinda, [Github](https://github.com/ridwanfbnr).
+* Rifky Manuel Satyana, [LinkedIn](https://www.linkedin.com/in/rifky-satyana/).
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
