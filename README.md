@@ -35,6 +35,7 @@ Berikut daftar Volunter yang diterima:
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
+* Andrian Prasetya, [LinkedIn](https://www.linkedin.com/in/andrian-prasetya-9675331a5/).
 * Andre Suryana, [LinkedIn](https://www.linkedin.com/in/andresuryana/).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
