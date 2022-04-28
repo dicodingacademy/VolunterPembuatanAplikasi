@@ -99,6 +99,7 @@ Berikut daftar Volunter yang diterima:
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
 * Fatah RobbySalam, [GitHub](https://github.com/fthrobby).
+* Farul Ahmad Wananda, [LinkedIn](https://www.linkedin.com/in/farulwananda/).
 
 
 ### G
