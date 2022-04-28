@@ -239,6 +239,7 @@ Berikut daftar Volunter yang diterima:
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
+* Sandy Julianto, [Linkedin](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
@@ -247,7 +248,7 @@ Berikut daftar Volunter yang diterima:
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
-* Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
+* Syarapudin, [Linkedin](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 
 ### T
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
