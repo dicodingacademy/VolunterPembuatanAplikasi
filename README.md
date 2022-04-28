@@ -262,6 +262,7 @@ Berikut daftar Volunter yang diterima:
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 * Tri Putra Adimas Nugraha, [LinkedIn](https://linkedin.com/tri-putra-adimas-nugraha).
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
+* Tio Ramadhan, [Linkedin](https://www.linkedin.com/in/tioramadhn/)
 
 ### U
 * Uray Syaziman, [GitHub](https://github.com/syaziman2020).
