@@ -215,6 +215,7 @@ Berikut daftar Volunter yang diterima:
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
 * Ravena, [GitHub](https://github.com/ravena4).
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
+* Rendi Julianto [Github](https://github.com/rendijulianto).
 * Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Revo Faris Saifuddin, [LinkedIn](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4)
