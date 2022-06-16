@@ -295,6 +295,7 @@ Berikut daftar Volunter yang diterima:
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Tata Redha Al Fath. [LinkedIn](https://www.linkedin.com/in/tata-redha-al-fath-34034920a/).
 * Taufik Ramadhan, [LinkedIn](https://github.com/taufikrmdhan).
+* Tegar Naufal Hanip, [LinkedIn](https://www.linkedin.com/in/tegar-naufal-hanip-2b07761b9/).
 * Tederick Budiono, [GitHub](https://github.com/erickbdn).
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
