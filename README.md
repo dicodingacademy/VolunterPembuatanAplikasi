@@ -49,6 +49,7 @@ Berikut daftar Volunter yang diterima:
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
+* Bela Eka Putri [Github](https://github.com/belaekaputri).
 * Bimantara Majid, [LinkedIn](https://www.linkedin.com/in/bimantara-m-88b3a7206/).
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
