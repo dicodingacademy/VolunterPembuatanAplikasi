@@ -169,6 +169,8 @@ Berikut daftar Volunter yang diterima:
 * Moh. Rafli Fata Permana, [Github](https://github.com/mohrap/).
 * Moh. Ghufron, [Linkedin](https://www.linkedin.com/in/mohamad-ghufron/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
+* Muchamad Aidil Fatriansyah, [LinkedIn](https://www.linkedin.com/in/aidil-fatriansyah-6120a9220/).  
+* Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
@@ -215,10 +217,9 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
-* Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
+* Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
 
 ### N
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
