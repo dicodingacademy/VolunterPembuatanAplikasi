@@ -132,6 +132,7 @@ Berikut daftar Volunter yang diterima:
 
 ### K
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
+* Kennarddh, [GitHub](https://github.com/kennarddh).
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
 
