@@ -162,6 +162,7 @@ Berikut daftar Volunter yang diterima:
 * Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
 * Moch. Septian Firmansyah [GitHub](https://github.com/firmanseptian).
 * Moh. Aflah Azzaky, [LinkedIn](https://www.linkedin.com/in/aflah-azzaky-1806/).
+* Moh. Rafli Fata Permana, [Github](https://github.com/mohrap/).
 * Moh. Ghufron, [Linkedin](https://www.linkedin.com/in/mohamad-ghufron/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
