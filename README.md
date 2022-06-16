@@ -224,6 +224,7 @@ Berikut daftar Volunter yang diterima:
 * Mohammad Syailendra Kusumah, [Linkedin](https://www.linkedin.com/in/syailendra/).
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
+* Muh Fadhel, [Github](https://github.com/muhfadhel/).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
