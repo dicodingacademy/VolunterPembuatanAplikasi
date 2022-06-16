@@ -49,6 +49,7 @@ Berikut daftar Volunter yang diterima:
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
+* Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
 
 ### C
 * Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
@@ -132,6 +133,7 @@ Berikut daftar Volunter yang diterima:
 
 ### K
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
+* Kennarddh, [GitHub](https://github.com/kennarddh).
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
 
@@ -192,6 +194,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 * Muhammad Fauzi Maulana, [LinkedIn](https://www.linkedin.com/in/fauzimaulana/).
+* Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
 
 ### N
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
