@@ -63,6 +63,7 @@ Berikut daftar Volunter yang diterima:
 ### C
 * Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
 * Cefri Lupianto, [LinkedIn](https://www.linkedin.com/in/cefri-lupianto-290803174).
+* Chaira Q, [GitHub](https://github.com/hyraby).
 
 ### D
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
