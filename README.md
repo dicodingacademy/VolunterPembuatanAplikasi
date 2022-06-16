@@ -123,6 +123,7 @@ Berikut daftar Volunter yang diterima:
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
 * Gesang Budiono, [GitHub](https://github.com/gesang909).
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
+* Ghiyas Ash-Shidiqie, [LinkedIn](https://www.linkedin.com/in/ghiyasash-shidiqie/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 
 ### H
