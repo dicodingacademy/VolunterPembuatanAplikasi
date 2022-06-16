@@ -125,6 +125,7 @@ Berikut daftar Volunter yang diterima:
 ### I
 * Ifaldy Prayanda Juarsa, [LikedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
+* Indira Maretta Hulu, [LinkedIn](https://www.linkedin.com/in/indira-hulu-baa0691a0/).
 * Imamuzzaki Abu Salam, [LinkedIn](https://www.linkedin.com/in/imamuzzaki-abu-salam/).
 * Iqbal Febren Haryanto, [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
 * Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
