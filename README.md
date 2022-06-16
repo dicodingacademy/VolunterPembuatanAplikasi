@@ -147,6 +147,7 @@ Berikut daftar Volunter yang diterima:
 * Kennarddh, [GitHub](https://github.com/kennarddh).
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
+* Kevin Saputra, [Linkedin](https://www.linkedin.com/in/kevin-purnama-saputra-7bb438a9/).
 
 ### L
 * Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
