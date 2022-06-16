@@ -63,9 +63,10 @@ Berikut daftar Volunter yang diterima:
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 
 ### C
-* Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
 * Cefri Lupianto, [LinkedIn](https://www.linkedin.com/in/cefri-lupianto-290803174).
+* Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
 * Chaira Q, [GitHub](https://github.com/hyraby).
+* Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 
 ### D
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
