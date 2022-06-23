@@ -49,10 +49,11 @@ Berikut daftar Volunter yang diterima:
 * Anggi Nurul Fitriyani Az-zahra [GitHub](https://github.com/anggiazahra).
 * Annisa Gunawan, [LinkedIn](https://www.linkedin.com/in/annisa-gunawan-3509b8193/).
 * Anthony Surya, [GitHub](https://www.github.com/suryaanthony2/).
-* Ardiansyah, [Github](https://github.com/Ardii122)
+* Ardiansyah, [GitHub](https://github.com/Ardii122).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
+* Arfiansyah Sucitra, [GitHub](https://github.com/nietzid/).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
