@@ -181,6 +181,7 @@ Berikut daftar Volunter yang diterima:
 * Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
 * Luhung Damarran Achmad, [LinkedIn](https://www.linkedin.com/in/luhungachmad).
+* Lutfan Zainul Haq, [LinkedIn](https://www.linkedin.com/in/lutfan-zainul-haq-4373bb222/)
 * Lutfhi Adam Alghani, [GitHub](https://github.com/ALghani04).
 
 ### M
