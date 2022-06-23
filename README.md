@@ -78,16 +78,17 @@ Berikut daftar Volunter yang diterima:
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
+* Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
+* Dishanubari Pramudia, [LinkedIn](https://www.linkedin.com/in/dishanubari-pramudia-682409231/).
 * Dodi, [GitHub](https://github.com/dodichakill/).
 * Dwi Candra Permana, [GitHub](https://github.com/dwichan0905).
 * Dwi Rezki Agung, [rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
-* Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
