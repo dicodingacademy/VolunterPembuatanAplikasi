@@ -264,6 +264,7 @@ Berikut daftar Volunter yang diterima:
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Nur Alamsyah, [GitHub](https://github.com/alamisaja).
+* Nur Intan Aprilia, [GitHub](https://github.com/Intanaprilia).
 * Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/).
 * Nuril Hidayati, [LinkedIn](https://www.linkedin.com/in/nuril-hidayati/).
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
