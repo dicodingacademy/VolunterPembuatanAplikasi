@@ -74,6 +74,7 @@ Berikut daftar Volunter yang diterima:
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 
 ### D
+* Dinda Kalista Sarimu, [Github](https://github.com/dindakalista)
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
