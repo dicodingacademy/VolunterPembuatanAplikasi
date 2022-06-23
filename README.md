@@ -196,9 +196,10 @@ Berikut daftar Volunter yang diterima:
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
+* Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
+* Mochamad Yendra Priambada, [Linkedin](https://www.linkedin.com/in/yendrapriambada/).
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
 * Moch. Septian Firmansyah [GitHub](https://github.com/firmanseptian).
-* Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
 * Moh. Aflah Azzaky, [LinkedIn](https://www.linkedin.com/in/aflah-azzaky-1806/).
 * Moh. Rafli Fata Permana, [GitHub](https://github.com/mohrap/).
 * Moh. Ghufron, [LinkedIn](https://www.linkedin.com/in/mohamad-ghufron/).
