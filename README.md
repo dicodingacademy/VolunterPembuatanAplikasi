@@ -187,6 +187,7 @@ Berikut daftar Volunter yang diterima:
 * Lutfhi Adam Alghani, [GitHub](https://github.com/ALghani04).
 
 ### M
+* M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
