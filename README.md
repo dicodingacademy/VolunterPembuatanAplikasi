@@ -244,6 +244,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Nazir Azhari, [LinkedIn](https://www.linkedin.com/in/muhammad-nazir-azhari-55aa021a9/).
 * Muhammad Pazrin Andreanor, [GitHub](https://github.com/ryfazrin).
 * Muhammad Rafi, [GitHub](https://github.com/rafiarvy).
+* Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Muhammad Raihan Ekaputra, [Mathworks](https://www.mathworks.com/matlabcentral/profile/authors/19557924?s_tid=gn_comm).
 * Muhammad Raihan Fais Sya'bani [LinkedIn](https://www.linkedin.com/in/mraihanfs/).
@@ -257,11 +258,11 @@ Berikut daftar Volunter yang diterima:
 * Mohammad Syailendra Kusumah, [LinkedIn](https://www.linkedin.com/in/syailendra/).
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
+* Muhd Fikry Aulya, [Github](https://github.com/NastaRFEBE).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
 
 ### N
 * Najma, [LinkedIn](https://www.linkedin.com/in/najma-9537a2204/).
