@@ -233,6 +233,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Muhammad Azar Nuzy, [LinkedIn](https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/).
+* Muhammad Fachrurrazi, [LinkedIn](https://www.linkedin.com/in/muhammad-fachrurrazi-6484401a2/).
 * Muhammad Fajri Husaini, [LinkedIn](https://www.linkedin.com/in/m-fajri-husaini-716741215/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
@@ -379,6 +380,7 @@ Berikut daftar Volunter yang diterima:
 
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
+* Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zahro Saleh Artasya, [GitHub](https://github.com/ArtasyaZahro).
 * Zavier Ferodova Al Fitroh, [GitHub](https://github.com/zavierferodova).
 * Zianatul Muna, [GitHub](https://github.com/zianatulmuna).
