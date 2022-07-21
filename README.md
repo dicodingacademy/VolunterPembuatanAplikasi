@@ -61,6 +61,7 @@ Berikut daftar Volunter yang diterima:
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
+* Ahmad Muji, [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/).
 
 ### B
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
