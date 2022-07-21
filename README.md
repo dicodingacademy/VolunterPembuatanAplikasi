@@ -150,6 +150,7 @@ Berikut daftar Volunter yang diterima:
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
 * Ghiyas Ash-Shidiqie, [LinkedIn](https://www.linkedin.com/in/ghiyasash-shidiqie/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
+* Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
