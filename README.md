@@ -34,6 +34,7 @@ Berikut daftar Volunter yang diterima:
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
+* Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/)
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Alfiki Diastama Afan Firdaus, [LinkedIn](https://www.linkedin.com/in/alfiki/).
@@ -54,12 +55,12 @@ Berikut daftar Volunter yang diterima:
 * Ardiansyah, [GitHub](https://github.com/Ardii122).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
+* Arief Kurniawan [GitHub](https://github.com/arief-github).
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arfiansyah Sucitra, [GitHub](https://github.com/nietzid/).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
-* Arief Kurniawan [GitHub](https://github.com/arief-github).
 
 ### B
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
