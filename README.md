@@ -66,6 +66,7 @@ Berikut daftar Volunter yang diterima:
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
 
 ### B
+* Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
@@ -73,7 +74,6 @@ Berikut daftar Volunter yang diterima:
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 * Bela Eka Putri [GitHub](https://github.com/belaekaputri).
 * Bimantara Majid, [LinkedIn](https://www.linkedin.com/in/bimantara-m-88b3a7206/).
-* Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 
 ### C
 * Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
@@ -86,6 +86,7 @@ Berikut daftar Volunter yang diterima:
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
+* Daniel Syahputra, [LinkedIn](https://www.linkedin.com/in/daniel-syahputra-purba-940999175/)
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
@@ -105,7 +106,6 @@ Berikut daftar Volunter yang diterima:
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [Linkedin](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
-* Daniel Syahputra, [LinkedIn](https://www.linkedin.com/in/daniel-syahputra-purba-940999175/)
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
@@ -142,12 +142,12 @@ Berikut daftar Volunter yang diterima:
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Fina Enno Rizki Oktavia Putri, [LinkedIn](https://www.linkedin.com/in/fina-enno-rizki-oktavia-putri-99a081164).
 * Firma Mukarromah, [GitHub](https://github.com/FirmaMukarromah).
+* Firmansyah Adi Nugroho, [Github] https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Fitri Hanung Wibowo, [LinkedIn](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
-* Firmansyah Adi Nugroho, [Github] https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
@@ -169,6 +169,7 @@ Berikut daftar Volunter yang diterima:
 * Ifaldy Prayanda Juarsa, [LinkedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
 * Indira Maretta Hulu, [LinkedIn](https://www.linkedin.com/in/indira-hulu-baa0691a0/).
+* Indratama Pangasian Manalu, [Github](https://github.com/ianindratama).
 * Indrawan Mulyadi, [LinkedIn](www.linkedin.com/in/indrawan-mulyadi-7b0b961aa/).
 * Imamuzzaki Abu Salam, [LinkedIn](https://www.linkedin.com/in/imamuzzaki-abu-salam/).
 * Imam Rois Budiman, [LinkedIn](https://www.linkedin.com/in/imam-rois-budiman-288b9118b)
@@ -278,13 +279,13 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
 * Muhammad Rizky Maulana, [LinkedIn](https://www.linkedin.com/in/muhammad-rizky-maulana-198762170/).
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
+* Muhammad Wildan, [GitHub](https://github.com/MuhWilldan).
 * Muhammad Zufar Syah, [GitHub](https://github.com/zufarsyah/).
 * Muhd Fikry Aulya, [Github](https://github.com/NastaRFEBE).
 * Mukhammad Fahlevi Ali Rafsanjani, [LinkedIn](https://www.linkedin.com/in/fahlevialir/).
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Muhammad Wildan, [GitHub](https://github.com/MuhWilldan).
 
 
 ### N
@@ -341,13 +342,13 @@ Berikut daftar Volunter yang diterima:
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
 * Rizki Muhammad Naufal Irsyad, [GitHub](https://github.com/nflirsyad).
 * Rizki Tetania Mahalang N, [LinkedIn](https://www.linkedin.com/in/rizki-tetania-m-65285512b).
+* Rizky Anugrah Hasibuan [LinkedIn](https://www.linkedin.com/in/rizky-anugrah-a72a01229/).
 * Rivaldi Agustinus Nugraha Siringoringo, [GitHub](https://github.com/ValdiANS/).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Robertus Adrian, [GitHub](https://github.com/robertusAdrian).
 * Rozi Mulyadi, [LinkedIn](https://www.linkedin.com/in/rozi-mulyadi-0242/).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto).
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
-* Rizky Anugrah Hasibuan [LinkedIn](https://www.linkedin.com/in/rizky-anugrah-a72a01229/).
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
