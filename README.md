@@ -43,6 +43,7 @@ Berikut daftar Volunter yang diterima:
 * Amar Musaddad, [LikedIn](https://www.linkedin.com/in/amar-musaddad-423240231/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
+* Andi Raihan Arman, [LinkedIn](https://www.linkedin.com/in/andi-raihan-arman-96974b1b3/).
 * Andi Zulfikar Lavabetha, [LinkedIn](https://www.linkedin.com/in/andi-zulfikar-543982229/).
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * Andrian Prasetya, [LinkedIn](https://www.linkedin.com/in/andrian-prasetya-9675331a5/).
