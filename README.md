@@ -24,9 +24,10 @@ Berikut daftar Volunter yang diterima:
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
-* Ahmad Jibril Hemdi, [GitHub](https://github.com/brilboy).
+* Ahmad Fikri Firdiansyah, [Linkedin](https://www.linkedin.com/in/ahmad-fikri-firdiansyah-b51131173/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Ahmad Maulana S, [GitHub](https://github.com/AMLanas/).
+* Ahmad Muji, [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/).* Ahmad Jibril Hemdi, [GitHub](https://github.com/brilboy).
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Ahmad Siddiq, [LinkedIn](https://www.linkedin.com/in/ahmad-siddiq-528092230/).
@@ -62,7 +63,6 @@ Berikut daftar Volunter yang diterima:
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
-* Ahmad Muji, [Linkedin](https://www.linkedin.com/in/ahmad-muji-burohman/).
 
 ### B
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
