@@ -81,7 +81,7 @@ Berikut daftar Volunter yang diterima:
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 
 ### D
-* Dinda Kalista Sarimu, [Github](https://github.com/dindakalista)
+* Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
@@ -90,17 +90,18 @@ Berikut daftar Volunter yang diterima:
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
 * Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
+* Dian Puspitasari, [LinkedIn](https://www.linkedin.com/in/puspita23dian/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
+* Dinda Kalista Sarimu, [Github](https://github.com/dindakalista)
 * Dishanubari Pramudia, [LinkedIn](https://www.linkedin.com/in/dishanubari-pramudia-682409231/).
 * Dodi, [GitHub](https://github.com/dodichakill/).
 * Dwi Candra Permana, [GitHub](https://github.com/dwichan0905).
 * Dwi Rezki Agung, [rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
-* Dian Puspitasari, [LinkedIn](https://www.linkedin.com/in/puspita23dian/).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
