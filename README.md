@@ -87,6 +87,7 @@ Berikut daftar Volunter yang diterima:
 
 ### D
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
+* Daffa Fikri Alfiansyah, [Linkedin](https://www.linkedin.com/in/daffa-dappo-53abaa22b/).
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
 * Daniel Syahputra, [LinkedIn](https://www.linkedin.com/in/daniel-syahputra-purba-940999175/)
@@ -94,6 +95,7 @@ Berikut daftar Volunter yang diterima:
 * Dean Alif Ahmad, [GitHub](https://github.com/deanalifahmad).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
+* Deva Ega Marinda, [LinkedIn](https://www.linkedin.com/in/devaem/).
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
 * Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
@@ -110,7 +112,6 @@ Berikut daftar Volunter yang diterima:
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [Linkedin](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
-* Daffa Fikri Alfiansyah, [Linkedin](https://www.linkedin.com/in/daffa-dappo-53abaa22b/).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
