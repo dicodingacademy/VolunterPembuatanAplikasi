@@ -214,6 +214,7 @@ Berikut daftar Volunter yang diterima:
 * Lutfhi Adam Alghani, [GitHub](https://github.com/ALghani04).
 
 ### M
+* M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
 * M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
@@ -275,6 +276,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Nazir Azhari, [LinkedIn](https://www.linkedin.com/in/muhammad-nazir-azhari-55aa021a9/).
 * Muhammad Pazrin Andreanor, [GitHub](https://github.com/ryfazrin).
 * Muhammad Rafi, [GitHub](https://github.com/rafiarvy).
+* Muhammad Rafi Aziz, [GitHub](https://github.com/mraziz098/).
 * Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Muhammad Raihan Ekaputra, [Mathworks](https://www.mathworks.com/matlabcentral/profile/authors/19557924?s_tid=gn_comm).
@@ -294,8 +296,6 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Muhammad Rafi Aziz, [GitHub](https://github.com/mraziz098/).
-
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
