@@ -356,6 +356,7 @@ Berikut daftar Volunter yang diterima:
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
+* Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
