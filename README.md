@@ -228,6 +228,8 @@ Berikut daftar Volunter yang diterima:
 * Moh. Rafli Fata Permana, [GitHub](https://github.com/mohrap/).
 * Moh. Ghufron, [LinkedIn](https://www.linkedin.com/in/mohamad-ghufron/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
+* Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
+* Mohammad Fikry Al Akrom, [LinkedIn](https://www.linkedin.com/in/fikryakrom/).
 * Mohammad Syailendra Kusumah, [LinkedIn](https://www.linkedin.com/in/syailendra/).
 * Muammar Ahlan Abimanyu, [GitHub](https://github.com/muammarahlnn).
 * Muchamad Aidil Fatriansyah, [LinkedIn](https://www.linkedin.com/in/aidil-fatriansyah-6120a9220/).  
