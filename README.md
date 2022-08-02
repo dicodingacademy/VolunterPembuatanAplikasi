@@ -175,6 +175,7 @@ Berikut daftar Volunter yang diterima:
 * Havizh As Haq, [Linkedin](https://www.linkedin.com/in/havizh-as-haq-398677222/).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
+* Hamza Firdaus, [Github](https://github.com/hamzafrd).
 
 ### I
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
