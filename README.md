@@ -290,6 +290,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rafi, [GitHub](https://github.com/rafiarvy).
 * Muhammad Rafi Aziz, [GitHub](https://github.com/mraziz098/).
 * Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
+* Muhammad Rafif Suja' AR [LinkedIn](https://www.linkedin.com/in/muhammad-rafif-suja/)
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Muhammad Raihan Ekaputra, [Mathworks](https://www.mathworks.com/matlabcentral/profile/authors/19557924?s_tid=gn_comm).
 * Muhammad Raihan Fais Sya'bani [LinkedIn](https://www.linkedin.com/in/mraihanfs/).
