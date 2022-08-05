@@ -3,8 +3,8 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Rizal Hersani, [LinkedIn](https://www.linkedin.com/in/rizal-hersani-37a38a226/).**  
-_Catatan : Pastikan sesuai dengan urutan yang ada._
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).***  
+_Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
 ### A
