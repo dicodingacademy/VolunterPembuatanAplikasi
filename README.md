@@ -387,6 +387,7 @@ Berikut daftar Volunter yang diterima:
 * Stheven Erlangga Sanjaya, [GitHub](https://github.com/stheven26)
 * Steven Febrianto, [LinkedIn](https://www.linkedin.com/in/steven-febrianto-09b3701b3/).
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
+* Suhaefi Fauzian, [GitHub](https://suhaefi.github.io/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Surya Rosauli Pasaribu, [GitHub](https://github.com/asterisros).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
