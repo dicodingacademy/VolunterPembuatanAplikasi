@@ -87,6 +87,7 @@ Berikut daftar Volunter yang diterima:
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 
 ### D
+* Dafa Arif Nurkholis, [GitHub](https://github.com/Krafolis).
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
 * Daffa Fikri Alfiansyah, [LinkedIn](https://www.linkedin.com/in/daffa-dappo-53abaa22b/).
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
