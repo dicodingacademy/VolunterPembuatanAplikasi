@@ -346,6 +346,7 @@ Berikut daftar Volunter yang diterima:
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Soleh, [GitHub](https://github.com/rahmatsoleh).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
+* Rama Sakti Hafidz FA, [Website](https://smaispa.sch.id).
 * Ravena, [GitHub](https://github.com/ravena4).
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Rendi Julianto [GitHub](https://github.com/rendijulianto).
