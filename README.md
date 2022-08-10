@@ -358,6 +358,7 @@ Berikut daftar Volunter yang diterima:
 * Rifky Manuel S., [LinkedIn](https://www.linkedin.com/in/rifky-satyana/).
 * Rifqi Hadi Firdaus, [LinkedIn](https://www.linkedin.com/in/ridius/).
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
+* Rio Shollu Saputra, [LinkedIn](https://www.linkedin.com/in/rio-shollu-saputra-747310200/).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Rizal Rahmat Ramadhan, [LinkedIn](https://www.linkedin.com/in/rizal-rahmat-ramadhan-7532a320b/).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
