@@ -421,6 +421,7 @@ Berikut daftar Volunter yang diterima:
 
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
+* Wira Muhammad Alif, [LinkedIn](https://www.linkedin.com/in/wira-muhammad-alif/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
 ### X
