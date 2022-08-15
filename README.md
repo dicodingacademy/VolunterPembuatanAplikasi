@@ -65,7 +65,7 @@ Berikut daftar Volunter yang diterima:
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arfiansyah Sucitra, [GitHub](https://github.com/nietzid/).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
-* Aryaputra Haidar Akbar, [LinkedIn](https://www.linkedin.com/in/aryaputra-haidar-akbar-b122811b7/)
+* Aryaputra Haidar Akbar, [LinkedIn](https://www.linkedin.com/in/aryaputra-haidar-akbar-b122811b7/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
