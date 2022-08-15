@@ -15,6 +15,7 @@ Berikut daftar Volunter yang diterima:
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Achsanu Amala, [LinkedIn](https://www.linkedin.com/in/achsanu-amala-933a36216/).
 * Ade Adam Nisa Sabrina, [LinkedIn](https://www.linkedin.com/in/adeadamnisa/).
+* Ade Iskandar Zulkarnaen, [LinkedIn](https://www.linkedin.com/in/adeiskandarzulkarnaen/).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
