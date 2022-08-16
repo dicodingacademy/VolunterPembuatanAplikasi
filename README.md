@@ -8,6 +8,7 @@ _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
 ### A
+* Akhmad Aldi [LinkedIn](https://www.linkedin.com/in/akhmad-aldi-8449191a9/)
 * Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
