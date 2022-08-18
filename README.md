@@ -8,12 +8,13 @@ _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
 ### A
-* Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
+* Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Achsanu Amala, [LinkedIn](https://www.linkedin.com/in/achsanu-amala-933a36216/).
+* Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Ade Adam Nisa Sabrina, [LinkedIn](https://www.linkedin.com/in/adeadamnisa/).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
@@ -383,6 +384,14 @@ Berikut daftar Volunter yang diterima:
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
+* Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
+* Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
+* Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
+* Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
+* Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
+* Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
+* M. Safii, [GitHub](https://github.com/msafii85).
+* Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Shelly Victory, [LinkedIn](https://www.linkedin.com/in/shellyvictory/).
 * Sindy Chairunisa, [LinkedIn](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
