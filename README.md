@@ -215,6 +215,7 @@ Berikut daftar Volunter yang diterima:
 * Kemal Yazid Fauzi, [GitHub](https://github.com/KemalYF).
 * Kennarddh, [GitHub](https://github.com/kennarddh).
 * Kevin Saputra, [LinkedIn](https://www.linkedin.com/in/kevin-purnama-saputra-7bb438a9/).
+* Kelvin Anggara, [LinkdIn](https://www.linkedin.com/in/kanggara75/) | [GitHub](https://github.com/KAnggara75)
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kharisma Adrienufa, [LinkedIn](www.linkedin.com/in/kharisma-adrienufa-6b8814222)
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
