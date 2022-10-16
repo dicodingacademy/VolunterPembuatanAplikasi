@@ -3,7 +3,8 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 
 **\* Nama Lengkap, [Nama Portofolio](Alamat Portofolio).**
 
-Berikut daftar Volunter yang diterima:
+Berikut daftar Volunter yang diterima: 
+* Muzammilul Muttaqin, [LinkedIn](https://www.linkedin.com/in/muzammilul-muttaqin-183427211/)
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
@@ -78,4 +79,4 @@ Berikut daftar Volunter yang diterima:
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
-* Muzammilul Muttaqin, Github.com
+
