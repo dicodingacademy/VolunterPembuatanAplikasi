@@ -13,6 +13,7 @@ Berikut daftar Volunter yang diterima:
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
+* Achmad Hendarsyah, [Github](https://github.com/eruDev0).
 * Achsanu Amala, [LinkedIn](https://www.linkedin.com/in/achsanu-amala-933a36216/).
 * Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Ade Adam Nisa Sabrina, [LinkedIn](https://www.linkedin.com/in/adeadamnisa/).
@@ -240,6 +241,7 @@ Berikut daftar Volunter yang diterima:
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
 * Mediana Arofah, [LinkedIn](https://www.linkedin.com/in/mediana-arofah-6824131b6/).
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
+* Miftahudin Akbar, [GitHub](https://www.github.com/miptah21/).
 * Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
 * Mochamad Yendra Priambada, [LinkedIn](https://www.linkedin.com/in/yendrapriambada/).
 * Moch. Septian Firmansyah [GitHub](https://github.com/firmanseptian).
@@ -363,6 +365,7 @@ Berikut daftar Volunter yang diterima:
 * Rifky Manuel S., [LinkedIn](https://www.linkedin.com/in/rifky-satyana/).
 * Rifqi Hadi Firdaus, [LinkedIn](https://www.linkedin.com/in/ridius/).
 * Rifqi Naufal Tohari, [LinkedIn](https://www.linkedin.com/in/rifqi-naufal-tohari/).
+* Rijal Muhyidin, [LinkedIn](https://www.linkedin.com/in/rijalmyd/).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Riswan Gani Padilah, [LinkedIn](https://www.linkedin.com/in/riswan-gani-padilah-652998209/).
 * Rizki Fauzian R, [GitHub](https://github.com/rizkiramadhanx).
