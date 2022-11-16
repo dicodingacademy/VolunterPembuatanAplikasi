@@ -22,7 +22,7 @@ Berikut daftar Volunter yang diterima:
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
 * Aditya Ananda Ramadhani, [LinkedIn](https://www.linkedin.com/in/aditya-ananda-ramadhani-85a900212/).
 * Adrian Michael Duha, [LinkedIn](https://www.linkedin.com/in/adrian-michael-duha-03560b206/).
-* Afif Osamaladen, [GitHub](https://github.com/AfifOsama).
+* Afif Osamaladen, [GitHub](https://github.com/AfifOsama).,
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Agung Setyo Nugroho, [LinkedIn](https://www.linkedin.com/in/agung-setyo-nugroho-7867241a1/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
@@ -178,6 +178,7 @@ Berikut daftar Volunter yang diterima:
 * Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
 * Havizh As Haq, [LinkedIn](https://www.linkedin.com/in/havizh-as-haq-398677222/).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
+* Hendri Mardani, [LinkedIn](https://www.linkedin.com/in/hendri-mardani-1b6ba61a8/).
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
 
