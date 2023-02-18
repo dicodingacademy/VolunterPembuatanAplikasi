@@ -7,6 +7,7 @@ Silakan gunakan format berikut:
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
+
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
@@ -347,6 +348,7 @@ Berikut daftar Volunter yang diterima:
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
 ### Q
+
 ### R
 * Rachel Tsania Mumtaz, [LinkedIn](https://www.linkedin.com/in/rachel-tsania-mumtaz).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
@@ -437,6 +439,7 @@ Berikut daftar Volunter yang diterima:
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
 ### X
+
 ### Y
 * Yeremia Purba, [LinkedIn](https://www.linkedin.com/in/yeremia-purba-95997718b/).
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
