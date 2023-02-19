@@ -227,6 +227,7 @@ Berikut daftar Volunter yang diterima:
 * Luhung Damarran Achmad, [LinkedIn](https://www.linkedin.com/in/luhungachmad).
 * Lutfan Zainul Haq, [LinkedIn](https://www.linkedin.com/in/lutfan-zainul-haq-4373bb222/).
 * Lutfhi Adam Alghani, [GitHub](https://github.com/ALghani04).
+* Luthfiah Mufidah, [Linkedin](https://www.linkedin.com/in/luthfiahmf/).
 
 ### M
 * M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
