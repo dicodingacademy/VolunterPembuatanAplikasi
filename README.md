@@ -234,7 +234,6 @@ Berikut daftar Volunter yang diterima:
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
-* Mahira Putri, [LinkedIn](https://www.linkedin.com/in/mahiraputri14).
 * Marchelia Naba, [LinkedIn](https://www.linkedin.com/in/marchelianaba/).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
 * Mas 'Edi, [GitHub](https://github.com/eldy54).
@@ -455,3 +454,5 @@ Berikut daftar Volunter yang diterima:
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/)
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
+
+* Mahira Putri, [LinkedIn](https://www.linkedin.com/in/mahiraputri14).
