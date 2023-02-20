@@ -126,6 +126,7 @@ Berikut daftar Volunter yang diterima:
 * Elmer Fiqi Tajusaladin, [LinkedIn](https://www.linkedin.com/in/elmerfiqi/).
 * Eric Firmansyah Sumanto [LinkedIn](https://www.linkedin.com/in/eric-firmansyah-573500172/).
 * Erpan Pamuji, [LinkedIn](https://www.linkedin.com/in/erpan-pamuji-176ba9187/).
+* Ersa Sa'dul, [LinkedIn](https://www.linkedin.com/in/ersadul/)
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
 
 ### F
