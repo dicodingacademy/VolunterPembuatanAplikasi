@@ -108,6 +108,7 @@ Berikut daftar Volunter yang diterima:
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
+* Dimas Maulana Ishaq, [GitHub](https://github.com/dimas-ishaq). 
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
 * Dinda Kalista Sarimu, [GitHub](https://github.com/dindakalista)
 * Dishanubari Pramudia, [LinkedIn](https://www.linkedin.com/in/dishanubari-pramudia-682409231/).
