@@ -25,6 +25,7 @@ Berikut daftar Volunter yang diterima:
 * Afif Osamaladen, [GitHub](https://github.com/AfifOsama).
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Agung Setyo Nugroho, [LinkedIn](https://www.linkedin.com/in/agung-setyo-nugroho-7867241a1/).
+* Ahmad Azzam Alhanafi, [LinkedIn](https://www.linkedin.com/in/azzamhanafi/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Ahmad Fikri Firdiansyah, [LinkedIn](https://www.linkedin.com/in/ahmad-fikri-firdiansyah-b51131173/).
