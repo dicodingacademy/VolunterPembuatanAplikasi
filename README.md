@@ -404,6 +404,7 @@ Berikut daftar Volunter yang diterima:
 * Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 * Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
 * Salwa Tasya Fathira Purba, [LinkedIn](https://www.linkedin.com/in/salwa-tasya-fathira-purba-aa063125b/).
+
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
