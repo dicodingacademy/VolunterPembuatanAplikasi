@@ -2,8 +2,7 @@
 Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).   
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
-
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**  Muh. Haikal Hanis, [LinkedIn](https://www.linkedin.com/in/haikal-h-425895138/).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -315,6 +314,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Muh. Haikal Hanis, [LinkedIn](https://www.linkedin.com/in/haikal-h-425895138/)
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
