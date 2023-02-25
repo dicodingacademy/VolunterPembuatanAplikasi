@@ -439,6 +439,7 @@ Berikut daftar Volunter yang diterima:
 ### X
 ### Y
 * Yeremia Purba, [LinkedIn](https://www.linkedin.com/in/yeremia-purba-95997718b/).
+* Yoga Dimas Pambudi, [LinkedIn](https://www.linkedin.com/in/yoga-dimas-b61b07190/).
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Yonix Adhiraksa, [LinkedIn](https://www.linkedin.com/in/yonix-adhiraksa-1ab970141/).
