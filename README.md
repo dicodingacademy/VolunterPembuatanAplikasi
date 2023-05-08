@@ -119,6 +119,7 @@ Berikut daftar Volunter yang diterima:
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
 
 ### E
+* Eduard Elmansius Zebua [linkedin](https://www.linkedin.com/in/eduard-elmansius-zebua/).
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Edward Simanjuntak, [GitHub](https://github.com/edsmjtk).
 * Eko Bagus Yanuar, [LinkedIn](https://www.linkedin.com/in/eko-bagus-yanuar-611086193/).
