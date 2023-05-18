@@ -60,6 +60,7 @@ Berikut daftar Volunter yang diterima:
 * Anjar Dwimursito, [GitHub](https://github.com/anjardm)
 * Annisa Gunawan, [LinkedIn](https://www.linkedin.com/in/annisa-gunawan-3509b8193/).
 * Anthony Surya, [GitHub](https://www.github.com/suryaanthony2/).
+* Apriliana Pramesinta K, [GitHub](https://github.com/apriliana2001/).
 * Ardiansyah, [GitHub](https://github.com/Ardii122).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
