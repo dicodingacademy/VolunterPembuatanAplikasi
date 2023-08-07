@@ -105,6 +105,7 @@ Berikut daftar Volunter yang diterima:
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
 * Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
 * Dian Puspitasari, [LinkedIn](https://www.linkedin.com/in/puspita23dian/).
+* Diaz Aditya Yudha, [LinkedIn](https://www.linkedin.com/in/diaz-aditya-yudha-4b7bb81ba/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
