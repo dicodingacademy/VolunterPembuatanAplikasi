@@ -117,6 +117,7 @@ Berikut daftar Volunter yang diterima:
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [LinkedIn](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
+* Diyawan, [Linkedin](https://www.linkedin.com/in/diyawan-dawan-a22394215).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
@@ -127,6 +128,7 @@ Berikut daftar Volunter yang diterima:
 * Eric Firmansyah Sumanto [LinkedIn](https://www.linkedin.com/in/eric-firmansyah-573500172/).
 * Erpan Pamuji, [LinkedIn](https://www.linkedin.com/in/erpan-pamuji-176ba9187/).
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
+
 
 ### F
 * Fachry Husaini, [LinkedIn](https://www.linkedin.com/in/fachry-husaini-249387232/).
