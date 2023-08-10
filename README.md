@@ -321,6 +321,7 @@ Berikut daftar Volunter yang diterima:
 * Najma, [LinkedIn](https://www.linkedin.com/in/najma-9537a2204/).
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
 * Naufan Irfanda, [GitHub](https://github.com/NaufanIr).
+* Nazla Abay Daud Istanto, [GitHub](https://github.com/Nazlaabay).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
 * Nidya Putri Andini, [LinkedIn](https://www.linkedin.com/in/nidya-putri-andini-707762181/).
 * Ni Luh Melika Candra Widyani Mas, [LinkedIn](https://www.linkedin.com/in/melika-candra/).
@@ -334,7 +335,6 @@ Berikut daftar Volunter yang diterima:
 * Nuril Hidayati, [LinkedIn](https://www.linkedin.com/in/nuril-hidayati/).
 * Nurul Huda, [GitHub](https://github.com/rulhuda).
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
-* Nazla Abay Daud Istanto, [GitHub](https://github.com/Nazlaabay).
 
 ### O
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
