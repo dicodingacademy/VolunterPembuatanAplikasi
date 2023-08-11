@@ -172,6 +172,7 @@ Berikut daftar Volunter yang diterima:
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
@@ -315,6 +316,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* M. Zahran Yudha, [Github](https://github.com/captainPijay)
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
