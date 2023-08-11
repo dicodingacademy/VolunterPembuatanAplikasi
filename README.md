@@ -31,6 +31,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Ahmad Jibril Hemdi, [GitHub](https://github.com/brilboy).
 * Ahmad Maulana S, [GitHub](https://github.com/AMLanas/).
+* Ahmad Ma'ruf, [Github](https://github.com/ahmaruff).
 * Ahmad Muji, [LinkedIn](https://www.linkedin.com/in/ahmad-muji-burohman/).
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
