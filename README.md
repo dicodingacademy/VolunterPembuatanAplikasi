@@ -6,7 +6,7 @@ Silakan gunakan format berikut:
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
-Berikut daftar Volunter yang diterima:slew
+Berikut daftar Volunter yang diterima:
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
@@ -257,11 +257,11 @@ Berikut daftar Volunter yang diterima:slew
 * Muchamad Aidil Fatriansyah, [LinkedIn](https://www.linkedin.com/in/aidil-fatriansyah-6120a9220/).
 * Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
 * Muh Fadhel, [GitHub](https://github.com/muhfadhel/).
-* Muhamad Dwirizqy Wimbassa, [LinkedIn](https://www.linkedin.com/in/thenameisk/).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
+* Muhamad Dwirizqy Wimbassa, [LinkedIn](https://www.linkedin.com/in/thenameisk/).
 * Muhamad Fauzan, [LinkedIn](https://www.linkedin.com/in/muhamad-fauzan12/)
 * Muhamad Iksan, [LinkedIn](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
