@@ -322,6 +322,7 @@ Berikut daftar Volunter yang diterima:
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
 * Naufan Irfanda, [GitHub](https://github.com/NaufanIr).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
+* Ngatour Rohman, [GitHub](https://github.com/NgatourRohman).
 * Nidya Putri Andini, [LinkedIn](https://www.linkedin.com/in/nidya-putri-andini-707762181/).
 * Ni Luh Melika Candra Widyani Mas, [LinkedIn](https://www.linkedin.com/in/melika-candra/).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
