@@ -5,6 +5,7 @@ Silakan gunakan format berikut:
 
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
+* Fauzi Irfan S, [Github](https://github.com/weedstream).
 
 Berikut daftar Volunter yang diterima:
 ### A
