@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-  **\* Wahyu Sahri, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).**  
+  **\* Nama Lengkap, [Nama Portofolio](Alamat Protofolio).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -338,6 +338,7 @@ Berikut daftar Volunter yang diterima:
 ### O
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Wahyu S, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
