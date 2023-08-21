@@ -177,6 +177,7 @@ Berikut daftar Volunter yang diterima:
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
 * Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
 * Havizh As Haq, [LinkedIn](https://www.linkedin.com/in/havizh-as-haq-398677222/).
+* Helista Prisila Br Kaban, [GitHub](https://github.com/elista31).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
