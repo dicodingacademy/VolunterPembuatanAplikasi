@@ -315,7 +315,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Muchammad Farros Ilman Haq, [Github](https://github.com/farrosilman).
+* Muchammad Farros Ilman Haq, [GitHub](https://github.com/farrosilman).
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
