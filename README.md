@@ -331,6 +331,7 @@ Berikut daftar Volunter yang diterima:
 * Nur Intan Aprilia, [GitHub](https://github.com/Intanaprilia).
 * Nur Iqu Luqmanul Hakim, [LinkedIn](https://www.linkedin.com/in/nur-iqu-040521194/).
 * Nuraeni, [LinkedIn](https://www.linkedin.com/in/nuraeni-23a905143/).
+* Nuratun Islamiah, [GitHub](https://github.com/railaadiandra).
 * Nuril Hidayati, [LinkedIn](https://www.linkedin.com/in/nuril-hidayati/).
 * Nurul Huda, [GitHub](https://github.com/rulhuda).
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
@@ -352,7 +353,6 @@ Berikut daftar Volunter yang diterima:
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Soleh, [GitHub](https://github.com/rahmatsoleh).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
-* Nuratun Islamiah, [GitHub](https://github.com/railaadiandra).
 * Ravena, [GitHub](https://github.com/ravena4).
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Rendi Julianto [GitHub](https://github.com/rendijulianto).
