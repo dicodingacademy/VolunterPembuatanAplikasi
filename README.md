@@ -440,7 +440,7 @@ Berikut daftar Volunter yang diterima:
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
-* Wahyu Ardyanto, [LinkedIn](https://www.linkedin.com/in/wahyu-ardyanto-ramadhan-7130611a7/)
+* Wahyu Ardyanto, [LinkedIn](https://www.linkedin.com/in/wahyu-ardyanto-ramadhan-7130611a7/).
 
 ### X
 ### Y
