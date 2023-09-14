@@ -117,6 +117,7 @@ Berikut daftar Volunter yang diterima:
 * Dodi, [GitHub](https://github.com/dodichakill/).
 * Dwi Candra Permana, [GitHub](https://github.com/dwichan0905).
 * Dwi Rezki Agung, [rezkiagung.com](https://dwi.rezkiagung.com).
+* Dwi Prana Sitepu, [GitHub](https://github.com/HenryStp).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [LinkedIn](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
@@ -184,7 +185,6 @@ Berikut daftar Volunter yang diterima:
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
-* Henry Sitepu, [GitHub](https://github.com/HenryStp).
 
 ### I
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
