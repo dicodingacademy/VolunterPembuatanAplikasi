@@ -342,6 +342,7 @@ Berikut daftar Volunter yang diterima:
 
 ### O
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
+* Octa Travelian Purnomo, [GitHub](https://github.com/octatra).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 
 ### P
