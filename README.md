@@ -209,6 +209,7 @@ Berikut daftar Volunter yang diterima:
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
 * Jhonathan Oktavianus, [LinkedIn](https://www.linkedin.com/in/jhonathan-oktavianus-7852ab227/).
 * Jodi Putra Pratama,[GitHub](https://github.com/Jodiputra24).
+* Johan, [LinkedIn](https://www.linkedin.com/in/johan-jayjo/).  
 * Joko Ardiyanto, [LinkedIn](https://www.linkedin.com/in/joko-a-b848a0131).
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
