@@ -40,6 +40,7 @@ Berikut daftar Volunter yang diterima:
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/)
+* Aldy Ngere, [LinkedIn](https://www.linkedin.com/in/aldy-ngere-254028256/)
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Alfiki Diastama Afan Firdaus, [LinkedIn](https://www.linkedin.com/in/alfiki/).
