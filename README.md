@@ -355,6 +355,7 @@ Berikut daftar Volunter yang diterima:
 ### R
 * Rachel Tsania Mumtaz, [LinkedIn](https://www.linkedin.com/in/rachel-tsania-mumtaz).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
+* Rafli Fadilah,[LinkedIn](https://www.linkedin.com/in/rafli-fadilah-88595a177/).
 * Rahmat Soleh, [GitHub](https://github.com/rahmatsoleh).
 * Rahmat Syarif Azhari, [GitHub](https://github.com/zack-rahmat).
 * Ravena, [GitHub](https://github.com/ravena4).
