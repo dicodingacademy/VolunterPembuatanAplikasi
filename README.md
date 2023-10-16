@@ -400,6 +400,7 @@ Berikut daftar Volunter yang diterima:
 * Sopianah, [GitHub] (https://github.com/sopianah).
 * Stefanus Dany S. S, [LinkedIn](https://www.linkedin.com/in/stefanusdany/).
 * Stheven Erlangga Sanjaya, [GitHub](https://github.com/stheven26)
+* Stephen Wau, [LinkedIn](https://www.linkedin.com/in/stephen-wau/).
 * Steven Febrianto, [LinkedIn](https://www.linkedin.com/in/steven-febrianto-09b3701b3/).
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sulaiman, [LinkedIn](https://www.linkedin.com/in/sulaiman-a184a5208/).
