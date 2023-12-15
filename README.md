@@ -363,6 +363,7 @@ Berikut daftar Volunter yang diterima:
 * Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Revo Faris Saifuddin, [LinkedIn](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
 * Revyn Pradana Putra, [LinkedIn](https://www.linkedin.com/in/revyn-pradana-putra-136228215/).
+* Reza Ramdan Permana, [GitHub](https://github.com/RezaR2P).
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4).
 * Richard Sepriyadi Osman, [LinkedIn](https://www.linkedin.com/in/richardso54).
 * Ridwan Febnur Asri Redinda, [GitHub](https://github.com/ridwanfbnr).
@@ -385,7 +386,7 @@ Berikut daftar Volunter yang diterima:
 * Rozi Mulyadi, [LinkedIn](https://www.linkedin.com/in/rozi-mulyadi-0242/).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto).
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
-* Reza Ramdan Permana, [GitHub](https://github.com/RezaR2P).
+
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
