@@ -184,6 +184,7 @@ Berikut daftar Volunter yang diterima:
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
+* Hamizan Hibatullah, [LinkedIn](https://www.linkedin.com/in/hamizanhibatullah/).
 
 ### I
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
@@ -203,7 +204,6 @@ Berikut daftar Volunter yang diterima:
 * Ivan Helmiyanto, [GitHub](https://github.com/Ivanhelmiyanto1)
 * Izzafi Ramdhani Al-kaff, [GitHub](https://github.com/zafiramdhani).
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
-* Hamizan Hibatullah, [LinkedIn](https://www.linkedin.com/in/hamizanhibatullah/).
 
 ### J
 * Jasti Ohanna, [LinkedIn](https://www.linkedin.com/in/jasti-ohanna-267463218/).
