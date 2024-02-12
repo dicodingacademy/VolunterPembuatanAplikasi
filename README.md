@@ -266,7 +266,6 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
 * Muhamad Fauzan, [LinkedIn](https://www.linkedin.com/in/muhamad-fauzan12/)
-* Muhammad Farhan Fathurrohman, [GitHub](https://github.com/farhanfath).
 * Muhamad Iksan, [LinkedIn](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/).
 * Muhamad Irvan Dandung, [dandoeng.tech](https://dandoeng.tech/). 
 * Muhamad Qosim, [LinkedIn](https://www.linkedin.com/in/muhamad-qosim-042740216/).
@@ -321,6 +320,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Muhammad Farhan Fathurrohman, [GitHub](https://github.com/farhanfath).
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
