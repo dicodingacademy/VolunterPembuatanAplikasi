@@ -360,6 +360,7 @@ Berikut daftar Volunter yang diterima:
 * Ravena, [GitHub](https://github.com/ravena4).
 * Rendi Putra Pradana, [GitHub](https://github.com/rendiputra).
 * Rendi Julianto [GitHub](https://github.com/rendijulianto).
+* Rendi Sutendi, [GitHub](https://github.com/RendiS10).
 * Reno Wardy, [LinkedIn](https://www.linkedin.com/in/renowardy/).
 * Revo Faris Saifuddin, [LinkedIn](https://www.linkedin.com/in/revo-faris-saifuddin-82551118b/).
 * Revyn Pradana Putra, [LinkedIn](https://www.linkedin.com/in/revyn-pradana-putra-136228215/).
