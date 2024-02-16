@@ -223,7 +223,7 @@ Berikut daftar Volunter yang diterima:
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kharisma Adrienufa, [LinkedIn](www.linkedin.com/in/kharisma-adrienufa-6b8814222)
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
-* Khairunas Rhamadhani Wiasanto, [LinkedIn](https://www.linkedin.com/in/khairunas-rhamadhani-wiasanto-2186481b9/)
+* Khairunas Rhamadhani Wiasanto, [Linkedin](https://www.linkedin.com/in/khairunas-rhamadhani-wiasanto-2186481b9/).
 
 ### L
 * Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
