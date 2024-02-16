@@ -434,6 +434,7 @@ Berikut daftar Volunter yang diterima:
 * Via Triwahyuni, [GitHub](https://github.com/ViaChan/).
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
 * Vini Jumatul Fitri, [LinkedIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/).
+* Vina Nur, [Github](https://github.com/vinaanurfauziah/).
 * Vinna Setiawan, [Github](https://github.com/vinnaseti).
 * Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 
