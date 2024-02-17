@@ -390,7 +390,7 @@ Berikut ini adalah daftar Volunteer yang diterima:
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
-* Samuel Bhasarie, [LinkedIn](https://www.linkedin.com/in/samb974/).
+* Samuel A. Bhasarie, [LinkedIn](https://www.linkedin.com/in/samb974/).
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
