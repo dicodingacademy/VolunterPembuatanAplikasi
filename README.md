@@ -429,6 +429,7 @@ Berikut daftar Volunter yang diterima:
 ### U
 * Ulfah Musahada Musyi, [Linkedin](https://www.linkedin.com/in/ulfah-musahada/).
 * Uray Syaziman, [GitHub](https://github.com/syaziman2020).
+* Urjel Arnold Benamen, [LinkedIn](https://www.linkedin.com/in/april-arn-628ab02a4/).
 
 ### V
 * Via Triwahyuni, [GitHub](https://github.com/ViaChan/).
