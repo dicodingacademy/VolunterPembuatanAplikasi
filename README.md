@@ -6,7 +6,7 @@ Silakan gunakan format berikut:
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
-Berikut daftar Volunter yang diterima:
+Berikut ini adalah daftar Volunteer yang diterima:
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
@@ -390,6 +390,7 @@ Berikut daftar Volunter yang diterima:
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
+* Samuel A. Bhasarie, [LinkedIn](https://www.linkedin.com/in/samb974/).
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
