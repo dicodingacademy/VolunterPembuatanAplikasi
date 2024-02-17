@@ -419,6 +419,7 @@ Berikut daftar Volunter yang diterima:
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
 * Theodorus Richard Anggarda, [GitHub](https://github.com/lBlanc99).
+* The, Manuel Eric Saputra, [LinkedIn](https://www.linkedin.com/in/manuel-eric-saputra/).
 * Thoriq Harizul Ahsan, [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/).
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
 * Tio Ramadhan, [LinkedIn](https://www.linkedin.com/in/tioramadhn/).
