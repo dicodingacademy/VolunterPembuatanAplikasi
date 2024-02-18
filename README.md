@@ -255,6 +255,7 @@ Berikut daftar Volunter yang diterima:
 * Moh. Ghufron, [LinkedIn](https://www.linkedin.com/in/mohamad-ghufron/).
 * Mohamad Arif Mujaki, [LinkedIn](https://www.linkedin.com/in/arif-mujaki-98374aaa/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
+* Muhammad Fahmi Assidiq, [GitHub](https://github.com/mfahmiq/).
 * Mohammad Fikry Al Akrom, [LinkedIn](https://www.linkedin.com/in/fikryakrom/).
 * Mohammad Syailendra Kusumah, [LinkedIn](https://www.linkedin.com/in/syailendra/).
 * Muammar Ahlan Abimanyu, [GitHub](https://github.com/muammarahlnn).
@@ -286,6 +287,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Bayu Faqih,  [LinkedIn](https://www.linkedin.com/in/muhammad-b-b88b68139/)
 * Muhammad Fajri Husaini, [LinkedIn](https://www.linkedin.com/in/m-fajri-husaini-716741215/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
+* Muhammad Fahmi Assidiq, [GitHub](https://github.com/mfahmiq).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
 * Muhammad Farroos Al-Ammaar, [LinkedIn](https://www.linkedin.com/in/muhammad-farroos/).
 * Muhammad Fauzi Maulana, [LinkedIn](https://www.linkedin.com/in/fauzimaulana/).
