@@ -17,6 +17,7 @@ Berikut daftar Volunter yang diterima:
 * Achsanu Amala, [LinkedIn](https://www.linkedin.com/in/achsanu-amala-933a36216/).
 * Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Ade Adam Nisa Sabrina, [LinkedIn](https://www.linkedin.com/in/adeadamnisa/).
+* Ade Alvi, [LinkedIn](https://www.linkedin.com/in/adealvi/).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
