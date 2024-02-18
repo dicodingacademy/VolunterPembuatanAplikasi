@@ -457,5 +457,6 @@ Berikut daftar Volunter yang diterima:
 * Zavier Ferodova Al Fitroh, [GitHub](https://github.com/zavierferodova).
 * Zianatul Muna, [GitHub](https://github.com/zianatulmuna).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
-* Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/)
+* Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/).
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
+* Zulfirman, [LinkedIn](https://www.linkedin.com/in/zul-firman-5070ba299/).
