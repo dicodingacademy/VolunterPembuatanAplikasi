@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).** 
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -47,6 +47,7 @@ Berikut daftar Volunter yang diterima:
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
 * Alpha Fausta Ikrar Setyadi [LinkedIn](https://www.linkedin.com/in/alpha-fausta-ikrar-setyadi-81937a193/).
 * Alwan Dwi Putra, [LinkedIn](https://www.linkedin.com/in/alwandwiputra/).
+* Alwan Dzaki Syaeffudin, [LinkedIn](https://www.linkedin.com/in/alwndzk/).
 * Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
 * Amar Musaddad, [LikedIn](https://www.linkedin.com/in/amar-musaddad-423240231/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
