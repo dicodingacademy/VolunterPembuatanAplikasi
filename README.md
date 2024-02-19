@@ -309,6 +309,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Ramadhan, [GitHub](https://github.com/MadhanRa).
 * Muhammad Rifqi, [GitHub](https://github.com/flotus24). 
 * Muhammad Rif'an Dzulqornain, [GitHub](https://github.com/MuhammadRifan).
+* Muhammad Ridha, [Github](https://github.com/ridhamu).
 * Muhammad Rio Ananta Firdaus, [LinkedIn](https://www.linkedin.con/in/rioananta).
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
 * Muhammad Rizky Maulana, [LinkedIn](https://www.linkedin.com/in/muhammad-rizky-maulana-198762170/).
