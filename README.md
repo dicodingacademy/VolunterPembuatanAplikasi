@@ -150,6 +150,7 @@ Berikut daftar Volunter yang diterima:
 * Fatah RobbySalam, [GitHub](https://github.com/fthrobby).
 * Fathan Azka Pradana, [LinkedIn](https://www.linkedin.com/in/fathan-azka-pradana-63a067207).
 * Fatih Inra Jaya, [LinkedIn](https://id.linkedin.com/in/fatih-inra-jaya).
+* Febri Laksana, [LinkedIn](https://www.linkedin.com/in/febri-laksana-0b3041273?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
