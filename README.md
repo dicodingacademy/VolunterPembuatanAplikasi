@@ -274,6 +274,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Al Arif Baihaqi Warkani, [GitHub](https://github.com/muhammadarif321).
 * Muhammad Al Arif Baihaqi Warkani, [LinkedIn](https://www.linkedin.com/in/muhammad-al-arif-baihaqi-warkani-b0b156200/).
 * Muhammad Al Faisal, [GitHub](https://github.com/faisalaja/).
+* Muhammad Al Fajar, [Github](https://github.com/alfa03r/).
 * Muhammad Alfian Pratama, [LinkedIn](https://www.linkedin.com/in/muhammadalfianpratama/).
 * Muhammad Alfyando, [LinkedIn](https://www.linkedin.com/in/alfyandoo/).
 * Muhammad Ali Akbar, [GitHub](https://github.com/aliakb13).
