@@ -348,6 +348,7 @@ Berikut daftar Volunter yang diterima:
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
 * Paskah Prabu Wahyu Martinus, [LinkedIn](https://www.linkedin.com/in/paskahprabu21/).
 * Permana, [GitHub.com](https://github.com/Permana4131).
+* Pieter Vardi, [GitHub](https://github.com/pietervardi).
 * Prayoga Dinata, [LinkedIn](https://www.linkedin.com/in/prayoga-dinata-168780122/).
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
