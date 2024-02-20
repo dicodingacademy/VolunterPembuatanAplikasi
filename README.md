@@ -205,6 +205,7 @@ Berikut daftar Volunter yang diterima:
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
 
 ### J
+* Jahfal Azzuhri Subroto, [LinkedIn](https://www.linkedin.com/in/jahfal-azzuhri-subroto-b22255217)
 * Jasti Ohanna, [LinkedIn](https://www.linkedin.com/in/jasti-ohanna-267463218/).
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
 * Jhonathan Oktavianus, [LinkedIn](https://www.linkedin.com/in/jhonathan-oktavianus-7852ab227/).
