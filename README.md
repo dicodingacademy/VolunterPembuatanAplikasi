@@ -213,6 +213,7 @@ Berikut daftar Volunter yang diterima:
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
 * Juan, [LinkedIn](https://www.linkedin.com/in/camejuanm)
+* Johan, [GitHub](https://github.com/johansitanggang)
 
 ### K
 * Kamarudin Anhar, [Kalibrr](https://cand-data.kalibrr.com/www.kalibrr.com/profile/88R4ENZFXB7RNPZ3XEJCMGP2LFEUMZPQ76JUKGD8-62e14e97.pdf).
