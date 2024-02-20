@@ -164,8 +164,8 @@ Berikut daftar Volunter yang diterima:
 * Fitri Hanung Wibowo, [LinkedIn](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
-* Faiza Adzra, [LinkedIn](https://www.linkedin.com/in/faiza-adzra-izzati-42b556222/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
+* * Faiza Adzra, [LinkedIn](https://www.linkedin.com/in/faiza-adzra-izzati-42b556222/).
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
