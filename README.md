@@ -300,6 +300,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Nazir Azhari, [LinkedIn](https://www.linkedin.com/in/muhammad-nazir-azhari-55aa021a9/).
 * Muhammad Pazrin Andreanor, [GitHub](https://github.com/ryfazrin).
 * Muhammad Rafi, [GitHub](https://github.com/rafiarvy).
+* Muhammad Rafi Aria Sarosa, [GitHub](https://github.com/Rfiraf).
 * Muhammad Rafi Aziz, [GitHub](https://github.com/mraziz098/).
 * Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
