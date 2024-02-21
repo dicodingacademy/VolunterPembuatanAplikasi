@@ -8,6 +8,7 @@ _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
 ### A
+* Akbar Fauzan Warahidayat [Github](https://github.com/AkbarFauzanWarahidayat).
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
@@ -72,7 +73,6 @@ Berikut daftar Volunter yang diterima:
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
-* Akbar Fauzan Warahidayat [Github](https://github.com/AkbarFauzanWarahidayat).
 
 ### B
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
