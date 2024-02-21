@@ -198,6 +198,7 @@ Berikut daftar Volunter yang diterima:
 * Iqbal Rafiud Dajat, [LinkedIn](https://www.linkedin.com/in/iqbal-r-d-346010195/).
 * Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
 * Irvan Naufali Rahmanto, [LinkedIn](https://www.linkedin.com/in/irvanrahmanto/).
+* Isadora Rahmawati, [LinkediIn](https://www.linkedin.com/in/isadora-rahmawati-1411a9a9/)
 * Isham Fakhri Rahman, [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139).
 * Isroq Atun Nisa, [GitHub](https://github.com/nisaisroq).
 * Ivan Helmiyanto, [GitHub](https://github.com/Ivanhelmiyanto1)
