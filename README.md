@@ -353,6 +353,7 @@ Berikut daftar Volunter yang diterima:
 
 ### Q
 ### R
+* Ramon Hidayat, [Linkedin](www.linkedin.com/in/ramon-hidayat-123a961aa).
 * Rachel Tsania Mumtaz, [LinkedIn](https://www.linkedin.com/in/rachel-tsania-mumtaz).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
 * Rahmat Soleh, [GitHub](https://github.com/rahmatsoleh).
