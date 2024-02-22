@@ -257,6 +257,7 @@ Berikut daftar Volunter yang diterima:
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Mohammad Fikry Al Akrom, [LinkedIn](https://www.linkedin.com/in/fikryakrom/).
 * Mohammad Syailendra Kusumah, [LinkedIn](https://www.linkedin.com/in/syailendra/).
+* Monica Oktaviona, [LinkedIn](https://www.linkedin.com/in/monicaoktaviona/).
 * Muammar Ahlan Abimanyu, [GitHub](https://github.com/muammarahlnn).
 * Muchamad Aidil Fatriansyah, [LinkedIn](https://www.linkedin.com/in/aidil-fatriansyah-6120a9220/).
 * Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
