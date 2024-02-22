@@ -374,6 +374,7 @@ Berikut daftar Volunter yang diterima:
 * Riswan Gani Padilah, [LinkedIn](https://www.linkedin.com/in/riswan-gani-padilah-652998209/).
 * Rizki Fauzian R, [GitHub](https://github.com/rizkiramadhanx).
 * Rizal Rahmat Ramadhan, [LinkedIn](https://www.linkedin.com/in/rizal-rahmat-ramadhan-7532a320b/).
+* Rizaldy Ali Machfuddin, [Github](https://github.com/RizaldyAli).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
 * Rizki Muhammad Aulia Arsyad, [LinkedIn](https://www.linkedin.com/in/rzkarsyad/).
 * Rizki Muhammad Naufal Irsyad, [GitHub](https://github.com/nflirsyad).
