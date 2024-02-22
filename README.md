@@ -421,6 +421,7 @@ Berikut daftar Volunter yang diterima:
 * Theodorus Richard Anggarda, [GitHub](https://github.com/lBlanc99).
 * Thoriq Harizul Ahsan, [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/).
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
+* Tiaranisa Rabi'ah Sridewi, [LinkedIn](https://www.linkedin.com/in/tiaranisa-rabi-ah-s-9223442b2/)
 * Tio Ramadhan, [LinkedIn](https://www.linkedin.com/in/tioramadhn/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
