@@ -237,6 +237,7 @@ Berikut daftar Volunter yang diterima:
 * M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
+* Made Darmadi Kusuma [Github](https://www.linkedin.com/in/made-darmadi-kusuma-639aa0244/).
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
 * Marchelia Naba, [LinkedIn](https://www.linkedin.com/in/marchelianaba/).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
