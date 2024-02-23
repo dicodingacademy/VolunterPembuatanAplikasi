@@ -149,6 +149,7 @@ Berikut daftar Volunter yang diterima:
 * Farul Ahmad Wananda, [LinkedIn](https://www.linkedin.com/in/farulwananda/).
 * Fatah RobbySalam, [GitHub](https://github.com/fthrobby).
 * Fathan Azka Pradana, [LinkedIn](https://www.linkedin.com/in/fathan-azka-pradana-63a067207).
+* Fath' Hani Sarli Bajsair, [Linkedin](https://www.linkedin.com/in/fathhanisarlibajsair)
 * Fatih Inra Jaya, [LinkedIn](https://id.linkedin.com/in/fatih-inra-jaya).
 * Felix Fernando, [LinkedIn](https://www.linkedin.com/in/felix-fernando-8974061b9/).
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
