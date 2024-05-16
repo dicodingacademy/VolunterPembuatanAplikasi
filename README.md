@@ -237,6 +237,7 @@ Berikut daftar Volunter yang diterima:
 * M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
+* Machfud Ichsan Khoirudin, [github](https://github.com/machfudik).
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
 * Marchelia Naba, [LinkedIn](https://www.linkedin.com/in/marchelianaba/).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
@@ -320,7 +321,6 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
-* Machfud Ichsan Khoirudin, [github](https://github.com/machfudik).
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
