@@ -339,6 +339,7 @@ Berikut daftar Volunter yang diterima:
 * Nuril Hidayati, [LinkedIn](https://www.linkedin.com/in/nuril-hidayati/).
 * Nurul Huda, [GitHub](https://github.com/rulhuda).
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
+* Ni Putu Amelia Devasya Putri, [LinkedIn](https://www.linkedin.com/in/amelia-devasya17/).
 
 ### O
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
