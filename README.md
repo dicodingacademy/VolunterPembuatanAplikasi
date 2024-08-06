@@ -452,6 +452,7 @@ Berikut daftar Volunter yang diterima:
 * Yusuf Sugiono, [LinkedIn](https://www.linkedin.com/in/yusuf-sugiono-04b613185/).
 
 ### Z
+* Zaenal Alfian, [GitHub](https://github.com/astrocoding).
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zahro Saleh Artasya, [GitHub](https://github.com/ArtasyaZahro).
 * Zavier Ferodova Al Fitroh, [GitHub](https://github.com/zavierferodova).
