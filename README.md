@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* Hanliehae, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -185,6 +185,7 @@ Berikut daftar Volunter yang diterima:
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
 
+
 ### I
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
 * Ifaldy Prayanda Juarsa, [LinkedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
@@ -244,6 +245,7 @@ Berikut daftar Volunter yang diterima:
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
 * Mediana Arofah, [LinkedIn](https://www.linkedin.com/in/mediana-arofah-6824131b6/).
+* Melia Nova Kuntono, [Github](https://github.com/Hanliehae)
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
 * Miftahudin Akbar, [GitHub](https://www.github.com/miptah21/).
 * Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
