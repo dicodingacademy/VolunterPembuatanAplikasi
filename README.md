@@ -167,8 +167,6 @@ Berikut daftar Volunter yang diterima:
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
 * Febrian Chrisna Ardianto, [Linkedin](https://www.linkedin.com/in/febrian-chrisna-ardianto-1a14231a9/).
 
-
-
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Galih Sansabila, [LinkedIn](https://www.linkedin.com/in/galihsansabila/).
