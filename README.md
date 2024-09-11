@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* M. Alkautsar Fathur R., [GitHub](https://github.com/KA8976)).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
