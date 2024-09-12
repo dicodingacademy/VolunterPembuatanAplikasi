@@ -3,7 +3,7 @@ Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan ap
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
-**\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
+**\* Muhammad Syauqi Jazuli, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
@@ -320,6 +320,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* Muhammad Syauqi Jazuli, [Github](https://github.com/muhammadsyauqijazuli/) 
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
