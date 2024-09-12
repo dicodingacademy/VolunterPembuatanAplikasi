@@ -35,8 +35,10 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Ahmad Siddiq, [LinkedIn](https://www.linkedin.com/in/ahmad-siddiq-528092230/).
+* Annisa Firardiansyah
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
+* Aldi Yoga Setiawan, [LinkedIn](https://www.linkedin.com/in/aldi-yoga-setiawan/)
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/)
