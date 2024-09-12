@@ -324,6 +324,7 @@ Berikut daftar Volunter yang diterima:
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
 * Najma, [LinkedIn](https://www.linkedin.com/in/najma-9537a2204/).
+* Naufal Rachman Syarif, [LinkedIn](https://www.linkedin.com/in/naufal-r-61b223142/).
 * Naufal Aldy Pradana, [GitHub](https://github.com/blitzkz23).
 * Naufan Irfanda, [GitHub](https://github.com/NaufanIr).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
