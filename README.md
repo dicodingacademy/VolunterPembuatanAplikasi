@@ -459,3 +459,4 @@ Berikut daftar Volunter yang diterima:
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/)
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
+* Zein Hasyim Aljufri, [LinkedIn](https://www.linkedin.com/in/zein-hasyim-aljufri-24698b216/).
