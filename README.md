@@ -154,6 +154,7 @@ Berikut daftar Volunter yang diterima:
 * Ferizco Agni, [LinkedIn](https://www.linkedin.com/in/ferizco-agni/).
 * Ferri Yusra, [usro-usri.vercel.app](https://usro-usri.vercel.app/).
 * Fiki Aviantono, [GitHub](https://github.com/fikia13).
+* Fikri Ardiansyah, [GitHub](https://github.com/Arzuza).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Fikry Zaky, [Github](https://github.com/fikrigoodfather).
