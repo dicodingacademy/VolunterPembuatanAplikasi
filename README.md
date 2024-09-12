@@ -341,6 +341,7 @@ Berikut daftar Volunter yang diterima:
 * Nurul Silpia, [LinkedIn](www.linkedin.com/in/nurul-silpia-3107/).
 
 ### O
+* Okta Ferilianty, [GitHub](https://github.com/OktaFeriliantyyyyy).
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 
