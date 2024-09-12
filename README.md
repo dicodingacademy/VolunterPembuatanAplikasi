@@ -86,6 +86,7 @@ Berikut daftar Volunter yang diterima:
 ### C
 * Cahyarani Adi Hanifah, [LinkedIn](www.linkedin.com/in/cahyaraniah).
 * Candra Julius Sinaga, [GitHub](https://github.com/candrajulius).
+* Catur Saputro, [LinkedIn](www.linkedin.com/in/catursptr0/).
 * Cefri Lupianto, [LinkedIn](https://www.linkedin.com/in/cefri-lupianto-290803174).
 * Chaira Q, [GitHub](https://github.com/hyraby).
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
