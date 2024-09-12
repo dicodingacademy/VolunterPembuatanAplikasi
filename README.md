@@ -133,6 +133,7 @@ Berikut daftar Volunter yang diterima:
 
 ### F
 * Fachry Husaini, [LinkedIn](https://www.linkedin.com/in/fachry-husaini-249387232/).
+* Fadhola Asandi Mardika Putra, [Linkedin](https://www.linkedin.com/in/fadhola-asandi-a814b321b/).
 * Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
 * Fahmi Nugroho Alibasyah, [LinkedIn](https://www.linkedin.com/in/fahmi-nugroho-7a1a6b1a0/).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
@@ -165,6 +166,7 @@ Berikut daftar Volunter yang diterima:
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
+
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
