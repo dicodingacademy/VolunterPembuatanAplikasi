@@ -393,6 +393,7 @@ Berikut daftar Volunter yang diterima:
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
+* Selena Gomez, [instagram](https://l.instagram.com/?u=https%3A%2F%2Flinktr.ee%2Fselenagomez&e=AT0pa1LfxmpyFGPC-aTMh-bnj6YGfAfeJawgObYCkU-GLIUb8bn6hWsZxPKfaQtCbeT1W95LgFNs3TbQo-XpaYNEni3xdNVahEKOUA).
 * Shelly Victory, [LinkedIn](https://www.linkedin.com/in/shellyvictory/).
 * Sindy Chairunisa, [LinkedIn](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
@@ -408,6 +409,7 @@ Berikut daftar Volunter yang diterima:
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 * Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 * Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
+  
 
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
