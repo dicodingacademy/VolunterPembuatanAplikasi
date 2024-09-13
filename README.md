@@ -35,7 +35,6 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Nurdiansah, [GitHub](https://github.com/nordeeen).
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Ahmad Siddiq, [LinkedIn](https://www.linkedin.com/in/ahmad-siddiq-528092230/).
-* Akmal rendiansyah, [Linkedin](https://www.linkedin.com/in/akmal-rendiansyah-001692176/).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
@@ -72,7 +71,8 @@ Berikut daftar Volunter yang diterima:
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
-* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
+* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
+* * Akmal rendiansyah, [Linkedin](https://www.linkedin.com/in/akmal-rendiansyah-001692176/).  
 
 ### B
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
