@@ -431,6 +431,7 @@ Berikut daftar Volunter yang diterima:
 * Uray Syaziman, [GitHub](https://github.com/syaziman2020).
 
 ### V
+* Verrel Angkasa, [LinkedIn](https://www.linkedin.com/in/verrel-angkasa-4b398723b/)
 * Via Triwahyuni, [GitHub](https://github.com/ViaChan/).
 * Victor Divo Mahendra, [victor-divo.github.io](https://victor-divo.github.io/).
 * Vini Jumatul Fitri, [LinkedIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/).
