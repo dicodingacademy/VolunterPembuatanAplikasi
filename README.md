@@ -372,6 +372,7 @@ Berikut daftar Volunter yang diterima:
 * Rijal Muhyidin, [LinkedIn](https://www.linkedin.com/in/rijalmyd/).
 * Riskaldo Latif, [GitHub](https://github.com/riskaldolatif).
 * Riswan Gani Padilah, [LinkedIn](https://www.linkedin.com/in/riswan-gani-padilah-652998209/).
+* Riyan Fazri Rahman, [GitHub](https://github.com/riyanfazrirahman).
 * Rizki Fauzian R, [GitHub](https://github.com/rizkiramadhanx).
 * Rizal Rahmat Ramadhan, [LinkedIn](https://www.linkedin.com/in/rizal-rahmat-ramadhan-7532a320b/).
 * Rizki Maulana, [GitHub](https://github.com/rmRizki/).
