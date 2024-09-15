@@ -186,6 +186,7 @@ Berikut daftar Volunter yang diterima:
 * Henly Forbesly, [GitHub](https://github.com/henlyforbesly).
 
 ### I
+* I Gusti Ngurah Agung Kade Dwi Arsana, [LinkedIn](https://www.linkedin.com/in/ngurah-agung-7a3231279/).
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
 * Ifaldy Prayanda Juarsa, [LinkedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
