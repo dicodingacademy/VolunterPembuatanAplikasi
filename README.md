@@ -203,6 +203,7 @@ Berikut daftar Volunter yang diterima:
 * Ivan Helmiyanto, [GitHub](https://github.com/Ivanhelmiyanto1)
 * Izzafi Ramdhani Al-kaff, [GitHub](https://github.com/zafiramdhani).
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
+* Ibnu Salim, [GitHub](https://github.com/MuhIbnuSalim).
 
 ### J
 * Jasti Ohanna, [LinkedIn](https://www.linkedin.com/in/jasti-ohanna-267463218/).
@@ -320,6 +321,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+  
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
