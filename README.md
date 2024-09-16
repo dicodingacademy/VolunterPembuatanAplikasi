@@ -388,6 +388,7 @@ Berikut daftar Volunter yang diterima:
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
+* Sandi Faisal Ferdiansyah, [GitHub](https://github.com/sndff).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
