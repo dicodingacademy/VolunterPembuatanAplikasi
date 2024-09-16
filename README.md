@@ -278,6 +278,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Alfyando, [LinkedIn](https://www.linkedin.com/in/alfyandoo/).
 * Muhammad Ali Akbar, [GitHub](https://github.com/aliakb13).
 * Muhammad Ali Yusuf, [LinkedIn](https://www.linkedin.com/in/muhammad-ali-yusuf-7623b91a3/).
+* Muhammad Alpim Alfa Rolis, [LinkedIn](www.linkedin.com/in/muhammad-alpim-alfa-rolis-945857221/).
 * Muhammad Arif Ambarita, [LinkedIn](www.linkedin.com/in/muhammadarif9245).
 * Muhammad Ariq Jagabaya, [LinkedIn](https://www.linkedin.com/in/muhammad-ariq-jagabaya-770/).
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
