@@ -459,3 +459,5 @@ Berikut daftar Volunter yang diterima:
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/)
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
+* Nico Berlinson Fernando, [Github] (https://www.linkedin.com/in/nicobfs/).
+
