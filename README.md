@@ -26,6 +26,7 @@ Berikut daftar Volunter yang diterima:
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Agung Setyo Nugroho, [LinkedIn](https://www.linkedin.com/in/agung-setyo-nugroho-7867241a1/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
+* Ahmad Aryyadi Setiawan, [LinkedIn](linkedin.com/in/ahmad-aryyadi-setiawan-1ba389248).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Ahmad Fikri Firdiansyah, [LinkedIn](https://www.linkedin.com/in/ahmad-fikri-firdiansyah-b51131173/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
