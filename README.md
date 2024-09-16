@@ -167,6 +167,7 @@ Berikut daftar Volunter yang diterima:
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
 
 ### G
+* Gabriel Octa Mahardika, [LinkedIn](https://www.linkedin.com/in/gabriel-octa-mahardika-a243b822a/).
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Galih Sansabila, [LinkedIn](https://www.linkedin.com/in/galihsansabila/).
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
