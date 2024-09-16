@@ -71,7 +71,8 @@ Berikut daftar Volunter yang diterima:
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
-* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
+* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
+* Azka Amalia, [LinkedIn](linkedin.com/in/azka-amalia-297a40311).
 
 ### B
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
@@ -459,4 +460,4 @@ Berikut daftar Volunter yang diterima:
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
 * Zulfa Khoirun Nisa, [LinkedIn](https://www.linkedin.com/in/zulfa-khoirun-nisa/)
 * Zulfazazalia Putri Candra Wati, [LinkedIn](www.linkedin.com/in/zulfaliaputri).
-* Azka Amalia, [LinkedIn](linkedin.com/in/azka-amalia-297a40311).
+
