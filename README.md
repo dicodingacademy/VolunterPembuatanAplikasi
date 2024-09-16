@@ -417,6 +417,7 @@ Berikut daftar Volunter yang diterima:
 * Tegar Naufal Hanip, [LinkedIn](https://www.linkedin.com/in/tegar-naufal-hanip-2b07761b9/).
 * Tederick Budiono, [GitHub](https://github.com/erickbdn).
 * Teja Semadi, [GitHub](https://github.com/tejaDEV14).
+* Teuku Reza Falefi,[LinkedIn](www.linkedin.com/in/teuku-reza-falefi-58200a249).
 * Theo Sepdianto, [LinkedIn](https://www.linkedin.com/in/theo-sepdianto-a203b4207/).
 * Theodorus Richard Anggarda, [GitHub](https://github.com/lBlanc99).
 * Thoriq Harizul Ahsan, [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/).
@@ -425,6 +426,7 @@ Berikut daftar Volunter yang diterima:
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 * Tri Putra Adimas Nugraha, [LinkedIn](https://linkedin.com/tri-putra-adimas-nugraha).
+  
 
 ### U
 * Ulfah Musahada Musyi, [Linkedin](https://www.linkedin.com/in/ulfah-musahada/).
