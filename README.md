@@ -350,8 +350,8 @@ Berikut daftar Volunter yang diterima:
 * Permana, [GitHub.com](https://github.com/Permana4131).
 * Prayoga Dinata, [LinkedIn](https://www.linkedin.com/in/prayoga-dinata-168780122/).
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
-
-### Q
+* Panji Wirya Pastika, [LinkedIn](https://www.linkedin.com/in/panji-wirya-pastika-765636261/)
+### Q_
 ### R
 * Rachel Tsania Mumtaz, [LinkedIn](https://www.linkedin.com/in/rachel-tsania-mumtaz).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
