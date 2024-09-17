@@ -162,6 +162,7 @@ Berikut daftar Volunter yang diterima:
 * Firmansyah Adi Nugroho, [GitHub](https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
 * Fitri Hanung Wibowo, [LinkedIn](https://www.linkedin.com/in/fitri-hanung-wibowo/).
+* Fitri Sagita, [LinkedIn](https://www.linkedin.com/in/fitri-sagita-4a530a210/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
