@@ -379,6 +379,7 @@ Berikut daftar Volunter yang diterima:
 * Rizki Muhammad Naufal Irsyad, [GitHub](https://github.com/nflirsyad).
 * Rizki Tetania Mahalang N, [LinkedIn](https://www.linkedin.com/in/rizki-tetania-m-65285512b).
 * Rizky Anugrah Hasibuan [LinkedIn](https://www.linkedin.com/in/rizky-anugrah-a72a01229/).
+* Rizkya Ayu, [Linkedin](https://www.linkedin.com/in/rizkya-ayu-dwi-andini-373797183/).
 * Rivaldi Agustinus Nugraha Siringoringo, [GitHub](https://github.com/ValdiANS/).
 * Robert, [LinkedIn](https://www.linkedin.com/in/robertheo-rt/).
 * Robertus Adrian, [GitHub](https://github.com/robertusAdrian).
