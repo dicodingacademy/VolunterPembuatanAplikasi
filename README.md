@@ -403,11 +403,12 @@ Berikut daftar Volunter yang diterima:
 * Steven Febrianto, [LinkedIn](https://www.linkedin.com/in/steven-febrianto-09b3701b3/).
 * Sudarminto Senlau, [LinkedIn](https://www.linkedin.com/in/sudarminto-senlau/).
 * Sulaiman, [LinkedIn](https://www.linkedin.com/in/sulaiman-a184a5208/).
+* Sultan Kautsar, [sultankautsar.com](https://sultankautsar.com/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Surya Rosauli Pasaribu, [GitHub](https://github.com/asterisros).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
-* Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 * Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
+* Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
