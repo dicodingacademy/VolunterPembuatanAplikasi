@@ -311,6 +311,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rif'an Dzulqornain, [GitHub](https://github.com/MuhammadRifan).
 * Muhammad Rio Ananta Firdaus, [LinkedIn](https://www.linkedin.con/in/rioananta).
 * Muhammad Rizal Wibowo, [LinkedIn](https://www.linkedin.com/in/m-rizal-wibowo/).
+* Muhamad Rizky , [GitHUB](https://github.com/MUHAMADRIZKY2)
 * Muhammad Rizky Maulana, [LinkedIn](https://www.linkedin.com/in/muhammad-rizky-maulana-198762170/).
 * Muhammad Syukron Abdillah,[GitHub](https://github.com/muhammadsyukron123)
 * Muhammad Wildan, [GitHub](https://github.com/MuhWilldan).
@@ -320,6 +321,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
