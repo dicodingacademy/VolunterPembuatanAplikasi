@@ -133,6 +133,7 @@ Berikut daftar Volunter yang diterima:
 
 ### F
 * Fachry Husaini, [LinkedIn](https://www.linkedin.com/in/fachry-husaini-249387232/).
+* Fadhil Hadrian A, [LinkedIn](https://www.linkedin.com/in/fhazzami).
 * Fahdi Labib, [LinkedIn](https://www.linkedin.com/in/fahdilabib/).
 * Fahmi Nugroho Alibasyah, [LinkedIn](https://www.linkedin.com/in/fahmi-nugroho-7a1a6b1a0/).
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
