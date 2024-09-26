@@ -393,6 +393,7 @@ Berikut daftar Volunter yang diterima:
 * Sarah Uli Octavia, [LinkedIn](https://www.linkedin.com/in/sarahoctavv/).
 * Seli Saputri, [GitHub](https://github.com/selyvalov).
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
+* Shinta Amalia, [LinkedIn](https://www.linkedin.com/in/shintaamaliaparadita)
 * Shelly Victory, [LinkedIn](https://www.linkedin.com/in/shellyvictory/).
 * Sindy Chairunisa, [LinkedIn](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/).
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
