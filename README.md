@@ -226,6 +226,7 @@ Berikut daftar Volunter yang diterima:
 
 ### L
 * Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
+* Labiba Adinda Zahwana, [LinkedIn](https://www.linkedin.com/in/labibaadinda).
 * Leonardus Aldian C.N, [LinkedIn](https://www.linkedin.com/in/leonardus-aldian-chrissan-novanto-30584b200/).
 * Lucky Akbar, [GitHub](https://github.com/luckyAkbar).
 * Luhung Damarran Achmad, [LinkedIn](https://www.linkedin.com/in/luhungachmad).
