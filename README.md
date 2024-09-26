@@ -44,6 +44,7 @@ Berikut daftar Volunter yang diterima:
 * Alfian Yusuf Abdullah, [GitHub](https://github.com/alfianyusufabdullah).
 * Alfiki Diastama Afan Firdaus, [LinkedIn](https://www.linkedin.com/in/alfiki/).
 * Ali Hasyim, [LinkedIn](https://www.linkedin.com/in/ali-hasyim-b88b431a6/).
+* Alif Nur Rahman Hakim [LinkedIn](https://www.linkedin.com/in/alif-hakim/).
 * Aloysius Alfa, [GitHub](https://www.github.com/liemlui/).
 * Alpha Fausta Ikrar Setyadi [LinkedIn](https://www.linkedin.com/in/alpha-fausta-ikrar-setyadi-81937a193/).
 * Alwan Dwi Putra, [LinkedIn](https://www.linkedin.com/in/alwandwiputra/).
