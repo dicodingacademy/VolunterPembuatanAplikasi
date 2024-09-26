@@ -62,6 +62,7 @@ Berikut daftar Volunter yang diterima:
 * Anthony Surya, [GitHub](https://www.github.com/suryaanthony2/).
 * Anugrah, [GitHub](https://github.com/AnugrahNunu).
 * Ardiansyah, [GitHub](https://github.com/Ardii122).
+* Ari Alghifari, [Github](https://github.com/arialghifari).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Arief Kurniawan [GitHub](https://github.com/arief-github).
