@@ -262,6 +262,7 @@ Berikut daftar Volunter yang diterima:
 * Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
 * Muh Fadhel, [GitHub](https://github.com/muhfadhel/).
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
+* Muhammad Arvanda Fildza Aliffa Putra, [GitHub](https://github.com/arvandza)
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
