@@ -6,7 +6,7 @@ Silakan gunakan format berikut:
 **\* Nama, [LinkedIn/GitHub/Website](Alamat URL).**  
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
-Berikut daftar Volunter yang diterima:
+Berikut daftar Volunter yang diterima
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
@@ -176,6 +176,7 @@ Berikut daftar Volunter yang diterima:
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
@@ -320,6 +321,7 @@ Berikut daftar Volunter yang diterima:
 * Mustika Anggraini, [GitHub](https://github.com/Mustika2005).
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
+* M. Zahran Yudha, [Github](https://github.com/captainPijay)
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
