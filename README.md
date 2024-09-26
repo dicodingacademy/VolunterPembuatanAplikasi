@@ -438,6 +438,7 @@ Berikut daftar Volunter yang diterima:
 * Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 
 ### W
+* Wangi Akbar Maulana Panuntun, [Linkedin](https://www.linkedin.com/in/wangi-akbar-maulana-panuntun/).
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
