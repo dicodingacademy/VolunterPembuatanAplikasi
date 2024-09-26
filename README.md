@@ -10,6 +10,7 @@ Berikut daftar Volunter yang diterima:
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
+* Abidjanna Zulfa Hamdika [Github](https://github.com/hufahamdika).  
 * Abighail Shafira Ihsani, [LinkedIn](https://www.linkedin.com/in/abighail-shafira-ihsani-99348920a/).
 * Abika Chairul Yusri, [LinkedIn](https://www.linkedin.com/in/abika-chairul-yusri-04215216b/).
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
