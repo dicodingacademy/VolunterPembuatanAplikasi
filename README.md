@@ -423,6 +423,7 @@ Berikut daftar Volunter yang diterima:
 * Three Harefa, [LinkedIn](https://www.linkedin.com/in/three-harefa-0a292a1a5/).
 * Tio Ramadhan, [LinkedIn](https://www.linkedin.com/in/tioramadhn/).
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
+* Toriq Nasrul Haq Sutisna, [LinkedIn](https://www.linkedin.com/in/toriq-nasrul-haq-sutisna-1a0aa2153/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 * Tri Putra Adimas Nugraha, [LinkedIn](https://linkedin.com/tri-putra-adimas-nugraha).
 
