@@ -27,6 +27,7 @@ Berikut daftar Volunter yang diterima:
 * Agung Setyo Nugroho, [LinkedIn](https://www.linkedin.com/in/agung-setyo-nugroho-7867241a1/).
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
+* Ahmad Fauzi Ariyanto, [Linkedin](www.linkedin.com/in/ahmadfauziariyanto).
 * Ahmad Fikri Firdiansyah, [LinkedIn](https://www.linkedin.com/in/ahmad-fikri-firdiansyah-b51131173/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Ahmad Jibril Hemdi, [GitHub](https://github.com/brilboy).
