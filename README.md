@@ -70,6 +70,7 @@ Berikut daftar Volunter yang diterima:
 * Arina Saffanah Zakiyyah, [GitHub](https://github.com/arinasaffanah)
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
+* Astriditiya Laila Nur Fadilah,[GitHub](https://github.com/astrid383).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
 
