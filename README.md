@@ -438,6 +438,7 @@ Berikut daftar Volunter yang diterima:
 * Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
 
 ### W
+* Wahyu Ariyadi, [GitHub](https://github.com/Void071202).
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
