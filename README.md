@@ -349,6 +349,7 @@ Berikut daftar Volunter yang diterima:
 * Paskah Prabu Wahyu Martinus, [LinkedIn](https://www.linkedin.com/in/paskahprabu21/).
 * Permana, [GitHub.com](https://github.com/Permana4131).
 * Prayoga Dinata, [LinkedIn](https://www.linkedin.com/in/prayoga-dinata-168780122/).
+* Pungky Bintang Alamsyach, [Linkedin](https://www.linkedin.com/in/pungkyba/).
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
 ### Q
