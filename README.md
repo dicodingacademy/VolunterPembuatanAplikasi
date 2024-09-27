@@ -246,6 +246,7 @@ Berikut daftar Volunter yang diterima:
 * Mediana Arofah, [LinkedIn](https://www.linkedin.com/in/mediana-arofah-6824131b6/).
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
 * Miftahudin Akbar, [GitHub](https://www.github.com/miptah21/).
+* Mirza Hisyam Maulana, [LinkedIn](https://www.linkedin.com/in/mirzahisyam/).
 * Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
 * Mochamad Yendra Priambada, [LinkedIn](https://www.linkedin.com/in/yendrapriambada/).
 * Moch. Septian Firmansyah [GitHub](https://github.com/firmanseptian).
