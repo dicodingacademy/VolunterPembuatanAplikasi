@@ -328,6 +328,7 @@ Berikut daftar Volunter yang diterima:
 * Naufan Irfanda, [GitHub](https://github.com/NaufanIr).
 * Ndaru Windra Sayidinaa, [GitHub](https://github.com/NdaruWindra).
 * Nidya Putri Andini, [LinkedIn](https://www.linkedin.com/in/nidya-putri-andini-707762181/).
+* Nindyo Satrio Mahamboro, [LinkedIn] (www.linkedin.com/in/nindyosm).
 * Ni Luh Melika Candra Widyani Mas, [LinkedIn](https://www.linkedin.com/in/melika-candra/).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
 * Noval Ramdhani, [LinkedIn](https://linkedin.com/in/novalramdhani).
