@@ -7,6 +7,7 @@ Silakan gunakan format berikut:
 _Catatan: Pastikan sesuai dengan urutan yang ada._
 
 Berikut daftar Volunter yang diterima:
+* Gilang Ramadhan, [Linkedin](https://www.linkedin.com/in/gilang-adhan/).
 ### A
 * Achmad Aqrom Roid N.H, [GitHub](https://github.com/AARNH).
 * Abdillah SAS, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
