@@ -161,6 +161,7 @@ Berikut daftar Volunter yang diterima:
 * Firma Mukarromah, [GitHub](https://github.com/FirmaMukarromah).
 * Firmansyah Adi Nugroho, [GitHub](https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi).
 * Firzha Ardhia, [LinkedIn](https://www.linkedin.com/in/firzharamadhan).
+* Firman Ikbar, [Github](https://github.com/arufars).
 * Fitri Hanung Wibowo, [LinkedIn](https://www.linkedin.com/in/fitri-hanung-wibowo/).
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
