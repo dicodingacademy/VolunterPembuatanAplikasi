@@ -38,6 +38,7 @@ Berikut daftar Volunter yang diterima:
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
+* Aldi Akbar Alimi, [Linkedin](https://www.linkedin.com/in/aldiakbaralimi/).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/)
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
