@@ -243,6 +243,7 @@ Berikut daftar Volunter yang diterima:
 * Mas 'Edi, [GitHub](https://github.com/eldy54).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
+* Maulana Yusuf Habibi, [LinkedIn](https://www.linkedin.com/in/maulana-yusuf-habibi-a062b0184/)
 * Mediana Arofah, [LinkedIn](https://www.linkedin.com/in/mediana-arofah-6824131b6/).
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
 * Miftahudin Akbar, [GitHub](https://www.github.com/miptah21/).
