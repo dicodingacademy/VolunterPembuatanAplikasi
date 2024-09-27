@@ -454,6 +454,7 @@ Berikut daftar Volunter yang diterima:
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
 * Zahro Saleh Artasya, [GitHub](https://github.com/ArtasyaZahro).
+* Zaki Satria Prayoga, [GitHub](https://github.com/ZkiStr/).
 * Zavier Ferodova Al Fitroh, [GitHub](https://github.com/zavierferodova).
 * Zianatul Muna, [GitHub](https://github.com/zianatulmuna).
 * Zuhrinada Maulia Annaba, [LinkedIn](https://www.linkedin.com/in/zuhrinada-annaba/).
