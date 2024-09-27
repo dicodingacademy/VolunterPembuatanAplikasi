@@ -1,5 +1,5 @@
 # Volunter Pembuatan Aplikasi
-Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).   
+Repository ini dvvvigunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).   
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
 
@@ -398,6 +398,7 @@ Berikut daftar Volunter yang diterima:
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
 * Sofyan Setiawan, [LinkedIn](https://www.linkedin.com/in/sofyan-setiawan-8b323878/).
 * Sopianah, [GitHub] (https://github.com/sopianah).
+* Sri Rahayu Indiani, [Linkedin](https://www.linkedin.com/in/sri-rahayu-indiani-352189245/).
 * Stefanus Dany S. S, [LinkedIn](https://www.linkedin.com/in/stefanusdany/).
 * Stheven Erlangga Sanjaya, [GitHub](https://github.com/stheven26)
 * Steven Febrianto, [LinkedIn](https://www.linkedin.com/in/steven-febrianto-09b3701b3/).
