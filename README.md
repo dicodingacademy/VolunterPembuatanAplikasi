@@ -128,6 +128,7 @@ Berikut daftar Volunter yang diterima:
 * Ela Amelia Sari, [GitHub](https://github.com/eas111).
 * Elmer Fiqi Tajusaladin, [LinkedIn](https://www.linkedin.com/in/elmerfiqi/).
 * Eric Firmansyah Sumanto [LinkedIn](https://www.linkedin.com/in/eric-firmansyah-573500172/).
+* Erlan Herlangga [LinkedIn](https://www.linkedin.com/in/erlan-herlangga-432bb5234).
 * Erpan Pamuji, [LinkedIn](https://www.linkedin.com/in/erpan-pamuji-176ba9187/).
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
 
