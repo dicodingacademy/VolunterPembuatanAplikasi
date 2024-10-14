@@ -61,12 +61,14 @@ Berikut daftar Volunter yang diterima:
 * Anjar Dwimursito, [GitHub](https://github.com/anjardm)
 * Annisa Gunawan, [LinkedIn](https://www.linkedin.com/in/annisa-gunawan-3509b8193/).
 * Anthony Surya, [GitHub](https://www.github.com/suryaanthony2/).
+* Anugrah, [GitHub](https://github.com/AnugrahNunu).
 * Ardiansyah, [GitHub](https://github.com/Ardii122).
 * Ariansyah Fadillah, [LinkedIn](https://www.linkedin.com/in/ariansyah-fadillah-0702141ab/).
 * Arief Aryudi Syidik, [LinkedIn](https://www.linkedin.com/in/ariefaryudisyidik/).
 * Arief Kurniawan [GitHub](https://github.com/arief-github).
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arfiansyah Sucitra, [GitHub](https://github.com/nietzid/).
+* Arina Saffanah Zakiyyah, [GitHub](https://github.com/arinasaffanah)
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
@@ -108,6 +110,7 @@ Berikut daftar Volunter yang diterima:
 * Dian Puspitasari, [LinkedIn](https://www.linkedin.com/in/puspita23dian/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
+* Dimas Febri Kuncoro, [GitHub](https://github.com/dimaskunc).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
 * Dinda Kalista Sarimu, [GitHub](https://github.com/dindakalista)
@@ -154,6 +157,7 @@ Berikut daftar Volunter yang diterima:
 * Fiki Aviantono, [GitHub](https://github.com/fikia13).
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
+* Fikry Zaky, [Github](https://github.com/fikrigoodfather).
 * Fina Enno Rizki Oktavia Putri, [LinkedIn](https://www.linkedin.com/in/fina-enno-rizki-oktavia-putri-99a081164).
 * Firma Mukarromah, [GitHub](https://github.com/FirmaMukarromah).
 * Firmansyah Adi Nugroho, [GitHub](https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi).
@@ -280,6 +284,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad As'ad Muyassir, [LinkedIn](https://www.linkedin.com/in/m-asad-m/).
 * Muhammad Aulia Alfani, [LinkedIn](https://www.linkedin.com/in/muhamamdauliaalfani/).
 * Muhammad Azar Nuzy, [LinkedIn](https://www.linkedin.com/in/muhammad-azar-nuzy-99681a212/).
+* Muhammad Bayu Faqih,  [LinkedIn](https://www.linkedin.com/in/muhammad-b-b88b68139/)
 * Muhammad Fajri Husaini, [LinkedIn](https://www.linkedin.com/in/m-fajri-husaini-716741215/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
