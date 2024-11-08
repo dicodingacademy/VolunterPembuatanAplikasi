@@ -112,6 +112,7 @@ Berikut daftar Volunter yang diterima:
 * Dimas Febri Kuncoro, [GitHub](https://github.com/dimaskunc).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
 * Dimas Wahyu Saputro, [GitHub](https://github.com/Dim-mas).
+* Dina Wulung Savitri, [LinkedIn](https://www.linkedin.com/in/dina-wulung-savitri58/).
 * Dinda Kalista Sarimu, [GitHub](https://github.com/dindakalista)
 * Dishanubari Pramudia, [LinkedIn](https://www.linkedin.com/in/dishanubari-pramudia-682409231/).
 * Dodi, [GitHub](https://github.com/dodichakill/).
