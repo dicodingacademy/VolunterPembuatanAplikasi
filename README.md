@@ -138,7 +138,7 @@ Berikut daftar Volunter yang diterima:
 * Fahrel Gibran Alghany, [LinkedIn](https://www.linkedin.com/in/fahrelga/).
 * Fahrendra Khoirul Ihtada, [LinkedIn](https://www.linkedin.com/in/fahrendra-khoirul-ihtada-763796205/).
 * Fahrul Razi, [LinkedIn](https://www.linkedin.com/in/fahrul-razi-a27111196/).
-* Faisal Rabbani Sitompul, [LinkedIn](www.linkedin.com/in/owlninj4).
+* Faisal Rabbani Sitompul, [LinkedIn](https://www.linkedin.com/in/owlninj4).
 * Falih Nur Andino, [LinkedIn](https://www.linkedin.com/in/falihnurandino/).
 * Farhan Ar Rafif Purba, [GitHub](https://github.com/farhanrafif).
 * Farid Alfajr Muhlis, [LinkedIn](https://www.linkedin.com/in/farid-alfajr-17b971209/).
