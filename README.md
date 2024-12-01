@@ -28,6 +28,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Arif Faizin, [LinkedIn](https://www.linkedin.com/in/arifaizin).
 * Ahmad Fauzi, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Ahmad Fikri Firdiansyah, [LinkedIn](https://www.linkedin.com/in/ahmad-fikri-firdiansyah-b51131173/).
+* Ahmad Hidayat, [LinkedIn](https://www.linkedin.com/in/yayat/).
 * Ahmad Imaduddin, [LinkedIn](https://www.linkedin.com/in/ahmad-imaduddin/).
 * Ahmad Jibril Hemdi, [GitHub](https://github.com/brilboy).
 * Ahmad Maulana S, [GitHub](https://github.com/AMLanas/).
