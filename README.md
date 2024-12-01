@@ -344,6 +344,7 @@ Berikut daftar Volunter yang diterima:
 * Oktavia Rahma Dwi Safitri, [GitHub](https://github.com/OktaviaRahmaa).
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
 
+
 ### P
 * Panji Ramadhan Hadjarati, [panjihadjarati.netlify.app](https://panjihadjarati.netlify.app/).
 * Paskah Prabu Wahyu Martinus, [LinkedIn](https://www.linkedin.com/in/paskahprabu21/).
@@ -440,6 +441,7 @@ Berikut daftar Volunter yang diterima:
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
+* Wisnu Prawira ,[GitHub](https://github.com/Wisnuprawira).
 
 ### X
 ### Y
