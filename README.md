@@ -384,7 +384,8 @@ Berikut daftar Volunter yang diterima:
 * Robertus Adrian, [GitHub](https://github.com/robertusAdrian).
 * Rozi Mulyadi, [LinkedIn](https://www.linkedin.com/in/rozi-mulyadi-0242/).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto).
-* Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
+* Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).  
+* Rayhan Zidane Achmad [Linkedin](www.linkedin.com/in/rayhan-zidane-achmad).
 
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
