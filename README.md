@@ -116,7 +116,7 @@ Berikut daftar Volunter yang diterima:
 * Dishanubari Pramudia, [LinkedIn](https://www.linkedin.com/in/dishanubari-pramudia-682409231/).
 * Dodi, [GitHub](https://github.com/dodichakill/).
 * Dwi Candra Permana, [GitHub](https://github.com/dwichan0905).
-* * Dwi Nur Cahya, [Linkedin](https://www.linkedin.com/in/dwiccah/).
+* Dwi Nur Cahya, [Linkedin](https://www.linkedin.com/in/dwiccah/).
 * Dwi Rezki Agung, [rezkiagung.com](https://dwi.rezkiagung.com).
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [LinkedIn](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
