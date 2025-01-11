@@ -53,6 +53,7 @@ Berikut daftar Volunter yang diterima:
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
 * Andi Raihan Arman, [LinkedIn](https://www.linkedin.com/in/andi-raihan-arman-96974b1b3/).
 * Andi Zulfikar Lavabetha, [LinkedIn](https://www.linkedin.com/in/andi-zulfikar-543982229/).
+* Andika Victor Tangkawarow, [GitHub](https://github.com/ninggen-ux)
 * Andri Siswanto, [LinkedIn](https://www.linkedin.com/in/andri-siswanto-b1a1191b0/).
 * Andrian Prasetya, [LinkedIn](https://www.linkedin.com/in/andrian-prasetya-9675331a5/).
 * Andre Suryana, [LinkedIn](https://www.linkedin.com/in/andresuryana/).
