@@ -145,6 +145,7 @@ Berikut daftar Volunter yang diterima:
 * Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
 * Faris Farhannurrachman, [GitHub](https://github.com/farisfarhann).
 * Faris Muhammad, [LinkedIn](https://www.linkedin.com/in/farisjadul1/).
+* Faris Hazim Supriyadi, [GitHub](https://github.com/SIRxRIS).
 * Fariz Kemal, [LinkedIn](https://www.linkedin.com/in/farizkemal/).
 * Farul Ahmad Wananda, [LinkedIn](https://www.linkedin.com/in/farulwananda/).
 * Fatah RobbySalam, [GitHub](https://github.com/fthrobby).
@@ -165,7 +166,7 @@ Berikut daftar Volunter yang diterima:
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
-* Faris Hazim Supriyadi, [LinkedIn](https://www.linkedin.com/in/chevalier-undefined-31a6a6324/)
+
 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
