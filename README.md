@@ -1,4 +1,4 @@
-# Volunter Pembuatan Aplikasi
+`# Volunter Pembuatan Aplikasi
 Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).   
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
@@ -21,6 +21,7 @@ Berikut daftar Volunter yang diterima:
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
 * Aditya Ananda Ramadhani, [LinkedIn](https://www.linkedin.com/in/aditya-ananda-ramadhani-85a900212/).
+* Aditya Primayudha, [LinkedIn](www.linkedin.com/in/aditya-primayudha/).
 * Adrian Michael Duha, [LinkedIn](https://www.linkedin.com/in/adrian-michael-duha-03560b206/).
 * Afif Osamaladen, [GitHub](https://github.com/AfifOsama).
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
