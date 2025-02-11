@@ -196,6 +196,7 @@ Berikut daftar Volunter yang diterima:
 * Imam Rois Budiman, [LinkedIn](https://www.linkedin.com/in/imam-rois-budiman-288b9118b)
 * Iqbal Febren Haryanto, [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
 * Iqbal Rafiud Dajat, [LinkedIn](https://www.linkedin.com/in/iqbal-r-d-346010195/).
+* Irfan Nur Fahrudin, [LinkedIn](https://www.linkedin.com/in/irfannurfahrudin/).
 * Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
 * Irvan Naufali Rahmanto, [LinkedIn](https://www.linkedin.com/in/irvanrahmanto/).
 * Isham Fakhri Rahman, [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139).
