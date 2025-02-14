@@ -49,6 +49,7 @@ Berikut daftar Volunter yang diterima:
 * Alwan Dwi Putra, [LinkedIn](https://www.linkedin.com/in/alwandwiputra/).
 * Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
 * Amar Musaddad, [LikedIn](https://www.linkedin.com/in/amar-musaddad-423240231/).
+* Anas, [Github](https://github.com/Myriadn).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
 * Andi Raihan Arman, [LinkedIn](https://www.linkedin.com/in/andi-raihan-arman-96974b1b3/).
