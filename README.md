@@ -307,6 +307,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Raihan Fais Sya'bani [LinkedIn](https://www.linkedin.com/in/mraihanfs/).
 * Muhammad Raihan RTT, [LinkedIn](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
 * Muhammad Ramadhan, [GitHub](https://github.com/MadhanRa).
+* Muhammad Rayhan Rasyad, [GitHub](https://github.com/MRayhanR2022)
 * Muhammad Rifqi, [GitHub](https://github.com/flotus24). 
 * Muhammad Rif'an Dzulqornain, [GitHub](https://github.com/MuhammadRifan).
 * Muhammad Rio Ananta Firdaus, [LinkedIn](https://www.linkedin.con/in/rioananta).
