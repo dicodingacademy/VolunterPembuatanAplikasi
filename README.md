@@ -147,6 +147,7 @@ Berikut daftar Volunter yang diterima:
 * Faris Muhammad, [LinkedIn](https://www.linkedin.com/in/farisjadul1/).
 * Fariz Kemal, [LinkedIn](https://www.linkedin.com/in/farizkemal/).
 * Farul Ahmad Wananda, [LinkedIn](https://www.linkedin.com/in/farulwananda/).
+* Fareza Ahmad Kurniawan, [GitHub](https://github.com/okamyz).
 * Fatah RobbySalam, [GitHub](https://github.com/fthrobby).
 * Fathan Azka Pradana, [LinkedIn](https://www.linkedin.com/in/fathan-azka-pradana-63a067207).
 * Fatih Inra Jaya, [LinkedIn](https://id.linkedin.com/in/fatih-inra-jaya).
