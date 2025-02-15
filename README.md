@@ -165,7 +165,7 @@ Berikut daftar Volunter yang diterima:
 * Foel Randhi Yoeliono, [LinkedIn](https://www.linkedin.com/in/foelrandhi/).
 * Fransiskus Ricardo, [LinkedIn](https://www.linkedin.com/in/fransiskus-ricardo-69ba71109/).
 * Fuad Syafa'at Muharram, [LinkedIn](https://www.linkedin.com/in/fuad-syafaat-muharram-5a718614a/).
-
+* Fikasaputri [Linkkedln](https://www.linkedin.com/in/fika-saputri-3799b6305?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Galih Sansabila, [LinkedIn](https://www.linkedin.com/in/galihsansabila/).
