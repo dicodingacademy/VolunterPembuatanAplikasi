@@ -352,6 +352,7 @@ Berikut daftar Volunter yang diterima:
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
 
 ### Q
+* Qonita Nadya Ramadhani, [GitHub](https://github.com/QonitaNadyaR).
 ### R
 * Rachel Tsania Mumtaz, [LinkedIn](https://www.linkedin.com/in/rachel-tsania-mumtaz).
 * Rafi Muhammad Yusuf Fahturahman, [LinkedIn](https://www.linkedin.com/in/rafi-muhammad-yusuf-fahturahman).
