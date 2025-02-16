@@ -395,6 +395,7 @@ Berikut daftar Volunter yang diterima:
 * Sekar Madu Kusumawardani, [LinkedIn](https://www.linkedin.com/in/sekarmk03).
 * Shelly Victory, [LinkedIn](https://www.linkedin.com/in/shellyvictory/).
 * Sindy Chairunisa, [LinkedIn](https://www.linkedin.com/in/sindy-chairunisa-b8716418a/).
+* Silky Afina Saly, [LinkedIn](https://www.linkedin.com/in/silky-afina-saly/)
 * Siti Salbyah, [LinkedIn](https://www.linkedin.com/in/siti-salbyah-26883b194/).
 * Sofyan Setiawan, [LinkedIn](https://www.linkedin.com/in/sofyan-setiawan-8b323878/).
 * Sopianah, [GitHub] (https://github.com/sopianah).
