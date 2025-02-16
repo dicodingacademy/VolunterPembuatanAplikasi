@@ -157,6 +157,7 @@ Berikut daftar Volunter yang diterima:
 * Fikri Helmi Setiawan, [LinkedIn](https://www.linkedin.com/in/fikrihelmi17/).
 * Fikri Yusrihan, [LinkedIn](https://www.linkedin.com/in/fikri-yusrihan/).
 * Fikry Zaky, [Github](https://github.com/fikrigoodfather).
+* Fina Dwi Aulia, [Github](https://github.com/FinaDwiAulia).
 * Fina Enno Rizki Oktavia Putri, [LinkedIn](https://www.linkedin.com/in/fina-enno-rizki-oktavia-putri-99a081164).
 * Firma Mukarromah, [GitHub](https://github.com/FirmaMukarromah).
 * Firmansyah Adi Nugroho, [GitHub](https://github.com/firmansyahadinugroho/VolunteerPembuatanAplikasi).
