@@ -411,6 +411,7 @@ Berikut daftar Volunter yang diterima:
 
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
+* Tanthy Tawaqalia W, [LinkedIn](https://www.linkedin.com/in/tanthyqaliaw/).
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
 * Tata Redha Al Fath. [LinkedIn](https://www.linkedin.com/in/tata-redha-al-fath-34034920a/).
 * Taufik Ramadhan, [LinkedIn](https://github.com/taufikrmdhan).
