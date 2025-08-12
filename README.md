@@ -449,6 +449,7 @@ Berikut daftar Volunter yang diterima:
 * Yonix Adhiraksa, [LinkedIn](https://www.linkedin.com/in/yonix-adhiraksa-1ab970141/).
 * Yovan Madina Fumasa, [LinkedIn](https://www.linkedin.com/in/yovan-madina-fumasa-7aa516149/).
 * Yudi Setiawan, [GitHub](https://github.com/coderjava/).
+* Yustianas Rombon, [GitHub](https://github.com/Rombon07).
 * Yusuf Sugiono, [LinkedIn](https://www.linkedin.com/in/yusuf-sugiono-04b613185/).
 
 ### Z
