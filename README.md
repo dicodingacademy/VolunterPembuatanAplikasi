@@ -331,6 +331,7 @@ Berikut daftar Volunter yang diterima:
 * Ni Luh Melika Candra Widyani Mas, [LinkedIn](https://www.linkedin.com/in/melika-candra/).
 * Novan Saputro, [LinkedIn](https://www.linkedin.com/in/novansaputro/).
 * Noval Ramdhani, [LinkedIn](https://linkedin.com/in/novalramdhani).
+* Novia Br, [GitHub](https://www.github.com/mynov7).
 * Nursalam, [LinkedIn](https://www.linkedin.com/in/nur-salam-ab7b6419a/).
 * Nur Alamsyah, [GitHub](https://github.com/alamisaja).
 * Nur Intan Aprilia, [GitHub](https://github.com/Intanaprilia).
