@@ -439,6 +439,7 @@ Berikut daftar Volunter yang diterima:
 
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
+* Wahyu Tri Cahya, [GitHub](https://github.com/yuriya-dev).
 * Wiweka Premana, [GitHub](https://github.com/wiwekapremana).
 
 ### X
