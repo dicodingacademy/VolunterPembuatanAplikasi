@@ -443,6 +443,7 @@ Berikut daftar Volunter yang diterima:
 
 ### X
 ### Y
+* Yediya Elshama Santosa, [GitHub](https://github.com/yediyaelshama00)
 * Yeremia Purba, [LinkedIn](https://www.linkedin.com/in/yeremia-purba-95997718b/).
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
