@@ -245,6 +245,7 @@ Berikut daftar Volunter yang diterima:
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
 * Mediana Arofah, [LinkedIn](https://www.linkedin.com/in/mediana-arofah-6824131b6/).
 * Melisa Kartika Sari, [LinkedIn](https://www.linkedin.com/in/melisa-kartika-b96080232/).
+* Metra Shandy, [GitHub](https://github.com/metrashandy). 
 * Miftahudin Akbar, [GitHub](https://www.github.com/miptah21/).
 * Mochan Putra Hendra, [LinkedIn](https://www.linkedin.com/in/mochan-putra/).
 * Mochamad Yendra Priambada, [LinkedIn](https://www.linkedin.com/in/yendrapriambada/).
