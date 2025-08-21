@@ -444,6 +444,7 @@ Berikut daftar Volunter yang diterima:
 ### X
 ### Y
 * Yeremia Purba, [LinkedIn](https://www.linkedin.com/in/yeremia-purba-95997718b/).
+* Yobby Novialdi, [GitHub](https://github.com/Tarac15).
 * Yoga Prasetia, [GitHub](https://github.com/yogaprasetia).
 * Yogi Delfiandra, [LinkedIn](https://www.linkedin.com/in/yogiidelfiandra/).
 * Yonix Adhiraksa, [LinkedIn](https://www.linkedin.com/in/yonix-adhiraksa-1ab970141/).
