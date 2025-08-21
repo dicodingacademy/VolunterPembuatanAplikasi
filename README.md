@@ -385,7 +385,7 @@ Berikut daftar Volunter yang diterima:
 * Rozi Mulyadi, [LinkedIn](https://www.linkedin.com/in/rozi-mulyadi-0242/).
 * Rudi Haryanto, [LinkedIn](https://www.linkedin.com/in/rudiharyanto).
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
-
+* Rio Sudrajat, [Linkedin](https://www.linkedin.com/in/rio-sudrajat-7472a5287/).
 ### S
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
