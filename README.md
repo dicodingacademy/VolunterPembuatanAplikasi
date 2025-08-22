@@ -59,6 +59,7 @@ Berikut daftar Volunter yang diterima:
 * Anggi Nurul Fitriyani Az-zahra [GitHub](https://github.com/anggiazahra).
 * Anjar Dwimursito, [GitHub](https://github.com/anjardm)
 * Annisa Gunawan, [LinkedIn](https://www.linkedin.com/in/annisa-gunawan-3509b8193/).
+* Annisa Nabila Mumtaz, [LinkedIn](https://www.linkedin.com/in/annisanabilamumtaz).
 * Anthony Surya, [GitHub](https://www.github.com/suryaanthony2/).
 * Anugrah, [GitHub](https://github.com/AnugrahNunu).
 * Ardiansyah, [GitHub](https://github.com/Ardii122).
