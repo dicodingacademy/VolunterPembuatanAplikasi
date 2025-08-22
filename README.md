@@ -217,6 +217,7 @@ Berikut daftar Volunter yang diterima:
 ### K
 * Kamarudin Anhar, [Kalibrr](https://cand-data.kalibrr.com/www.kalibrr.com/profile/88R4ENZFXB7RNPZ3XEJCMGP2LFEUMZPQ76JUKGD8-62e14e97.pdf).
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
+* Kasih Br Sinaga, [LinkedIn](https://www.linkedin.com/in/kasih-br-sinaga-aab874255?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app).
 * Kemal Yazid Fauzi, [GitHub](https://github.com/KemalYF).
 * Kennarddh, [GitHub](https://github.com/kennarddh).
 * Kevin Saputra, [LinkedIn](https://www.linkedin.com/in/kevin-purnama-saputra-7bb438a9/).
