@@ -97,6 +97,7 @@ Berikut daftar Volunter yang diterima:
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
 * Daniel Syahputra, [LinkedIn](https://www.linkedin.com/in/daniel-syahputra-purba-940999175/).
+* Daniysha Al Zurra [Linkedin](https://www.linkedin.com/in/daniysha-al-zurra-b1b34b37b/).
 * Dany Akmallun Ni'am, [GitHub](https://danyakmallun.github.io/webportfoli/).
 * Dean Alif Ahmad, [GitHub](https://github.com/deanalifahmad).
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
