@@ -365,6 +365,7 @@ Berikut daftar Volunter yang diterima:
 * Revyn Pradana Putra, [LinkedIn](https://www.linkedin.com/in/revyn-pradana-putra-136228215/).
 * Rey Sandy Alzamora [GitHub](https://github.com/Siegrain4).
 * Richard Sepriyadi Osman, [LinkedIn](https://www.linkedin.com/in/richardso54).
+* Richie Leonard Tjias, [LinkedIn](https://www.linkedin.com/in/richieleonard28).
 * Ridwan Febnur Asri Redinda, [GitHub](https://github.com/ridwanfbnr).
 * Rifky Manuel S., [LinkedIn](https://www.linkedin.com/in/rifky-satyana/).
 * Rifqi Hadi Firdaus, [LinkedIn](https://www.linkedin.com/in/ridius/).
