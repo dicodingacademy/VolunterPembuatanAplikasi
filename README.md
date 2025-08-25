@@ -169,6 +169,7 @@ Berikut daftar Volunter yang diterima:
 ### G
 * Gading Sectio Aryoseto, [LinkedIn](https://www.linkedin.com/in/gading-sectio-aryoseto-70a760216/).
 * Galih Sansabila, [LinkedIn](https://www.linkedin.com/in/galihsansabila/).
+* Ganesha Tania Pramesti [LinkendIn](https://www.linkedin.com/in/ganesha-pramesti-5b0922290/)
 * Garin Yudha Ramadika, [LinkedIn](https://www.linkedin.com/in/garinyr/).
 * Gesang Budiono, [GitHub](https://github.com/gesang909).
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
