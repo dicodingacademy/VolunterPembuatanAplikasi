@@ -453,6 +453,7 @@ Berikut daftar Volunter yang diterima:
 
 ### Z
 * Zaher Yusuf, [GitHub](https://github.com/1162002005jaher/).
+* Zahra Afifah F, [GitHub](https://github.com/zahraafh)
 * Zahro Saleh Artasya, [GitHub](https://github.com/ArtasyaZahro).
 * Zavier Ferodova Al Fitroh, [GitHub](https://github.com/zavierferodova).
 * Zianatul Muna, [GitHub](https://github.com/zianatulmuna).
