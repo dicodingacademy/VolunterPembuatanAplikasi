@@ -189,7 +189,7 @@ Berikut daftar Volunter yang diterima:
 * Ida Bagus Bayu Mahayana, [GitHub](https://github.com/idabagusbayu).
 * Ifaldy Prayanda Juarsa, [LinkedIn](https://www.linkedin.com/in/ifaldy-prayanda-3263a2186/).
 * Ikram Maulana, [LinkedIn](https://www.linkedin.com/in/ikram-maulana-54a152217/).
-* Ilmi Suciani Sinambela, [LinkedIn](https://www.linkedin.com/in/ilmi-suciani-sinambela-188541286).
+* Ilmi Suciani, [LinkedIn](https://www.linkedin.com/in/ilmi-suciani-sinambela-188541286).
 * Indira Maretta Hulu, [LinkedIn](https://www.linkedin.com/in/indira-hulu-baa0691a0/).
 * Indratama Pangasian Manalu, [GitHub](https://github.com/ianindratama).
 * Indrawan Mulyadi, [LinkedIn](www.linkedin.com/in/indrawan-mulyadi-7b0b961aa/).
