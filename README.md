@@ -89,6 +89,7 @@ Berikut daftar Volunter yang diterima:
 * Cefri Lupianto, [LinkedIn](https://www.linkedin.com/in/cefri-lupianto-290803174).
 * Chaira Q, [GitHub](https://github.com/hyraby).
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
+* Clifford Immanuel Halim [GitHub](https://github.com/CliffordImmanuel).
 
 ### D
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
