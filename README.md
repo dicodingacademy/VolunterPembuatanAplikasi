@@ -426,6 +426,7 @@ Berikut daftar Volunter yang diterima:
 * Titanio Yudista, [LinkedIn](https://www.linkedin.com/in/titanio-yudista-153b79192/).
 * Tri Prasetyo, [LinkedIn](https://www.linkedin.com/in/tri-prasetyo-704515116/).
 * Tri Putra Adimas Nugraha, [LinkedIn](https://linkedin.com/tri-putra-adimas-nugraha).
+* Tsabita Putri Ramadhany, [LinkedIn](https://www.linkedin.com/in/tsabita-putri-ramadhany/).
 
 ### U
 * Ulfah Musahada Musyi, [Linkedin](https://www.linkedin.com/in/ulfah-musahada/).
