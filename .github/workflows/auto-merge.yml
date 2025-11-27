@@ -34,8 +34,8 @@ jobs:
           exit 0
 
       - name: Cek konten README untuk kata terlarang
-        uses: actions/github-script@v7
         id: content-check
+        uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
@@ -50,7 +50,7 @@ jobs:
 
             const readmeFile = files.find(f => f.filename === 'README.md');
             if (!readmeFile || !readmeFile.patch) {
-              core.info("Tidak ada patch untuk README.md, skip.");
+              core.info("Tidak ada patch untuk README.md, skip auto-merge.");
               return;
             }
 
@@ -64,7 +64,7 @@ jobs:
               "kampret",
               "tai",
               "bangsat"
-              // tambah sendiri di sini kata2 SARA / tidak pantas
+              // tambah sendiri kata-kata SARA / tidak pantas di sini
             ];
             // =============================================
 
@@ -76,15 +76,13 @@ jobs:
             }
 
       - name: Auto-merge PR jika aman
-        needs: []
-        if: success() # hanya kalau step sebelumnya tidak gagal
+        if: ${{ !cancelled() && success() }}
         uses: actions/github-script@v7
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
           script: |
             const pr = context.payload.pull_request;
 
-            // Refresh status mergeable
             const { data: refreshed } = await github.rest.pulls.get({
               owner: context.repo.owner,
               repo: context.repo.repo,
