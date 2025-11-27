@@ -1,0 +1,104 @@
+name: Auto-merge volunteer PR (safe)
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    # Jangan jalan kalau PR masih draft
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Pastikan hanya README yang berubah
+        id: files
+        uses: tj-actions/changed-files@v45
+        with:
+          files: |
+            README.md
+
+      - name: Stop kalau ada file lain yang berubah
+        if: steps.files.outputs.only_changed != 'true'
+        run: |
+          echo "PR ini mengubah file selain README.md, tidak akan di-auto-merge."
+          exit 0
+
+      - name: Cek konten README untuk kata terlarang
+        uses: actions/github-script@v7
+        id: content-check
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+
+            // Ambil file yang berubah di PR
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            const readmeFile = files.find(f => f.filename === 'README.md');
+            if (!readmeFile || !readmeFile.patch) {
+              core.info("Tidak ada patch untuk README.md, skip.");
+              return;
+            }
+
+            const patch = readmeFile.patch.toLowerCase();
+
+            // ====== EDIT BAGIAN INI SESUAI KEBUTUHAN ======
+            const bannedWords = [
+              "bodoh",
+              "goblok",
+              "anjing",
+              "kampret",
+              "tai",
+              "bangsat"
+              // tambah sendiri di sini kata2 SARA / tidak pantas
+            ];
+            // =============================================
+
+            const hit = bannedWords.find(w => patch.includes(w));
+            if (hit) {
+              core.setFailed(`Ditemukan kata terlarang: "${hit}" di perubahan README. PR tidak akan di-auto-merge.`);
+            } else {
+              core.info("Tidak ada kata terlarang yang terdeteksi di patch README.");
+            }
+
+      - name: Auto-merge PR jika aman
+        needs: []
+        if: success() # hanya kalau step sebelumnya tidak gagal
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+
+            // Refresh status mergeable
+            const { data: refreshed } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            if (refreshed.mergeable) {
+              core.info(`Merging PR #${pr.number}...`);
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                merge_method: 'squash',
+              });
+            } else {
+              core.info(`PR #${pr.number} tidak mergeable (conflict / dsb), skip.`);
+            }
