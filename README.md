@@ -36,6 +36,7 @@ Berikut daftar Volunter yang diterima:
 * Ahmad Rauf Syahputra, [LinkedIn](linkedin.com/in/ahmad-rauf-syahputra-063177205).
 * Ahmad Siddiq, [LinkedIn](https://www.linkedin.com/in/ahmad-siddiq-528092230/).
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
+* Akbar Siddiq, [LinkedIn](https://www.linkedin.com/in/akbarsiddiq/).
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
@@ -261,7 +262,6 @@ Berikut daftar Volunter yang diterima:
 * Muchamad Aidil Fatriansyah, [LinkedIn](https://www.linkedin.com/in/aidil-fatriansyah-6120a9220/).
 * Muchamad Riky Fardiyan, [GitHub](https://github.com/Rickkun11).
 * Muh Fadhel, [GitHub](https://github.com/muhfadhel/).
-* Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
