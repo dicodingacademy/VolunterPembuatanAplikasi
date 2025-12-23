@@ -234,6 +234,7 @@ Berikut daftar Volunter yang diterima:
 
 ### M
 * M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
+* M. Dwi Pratama, [LinkedIn](https://www.linkedin.com/in/m-dwi-pratama).
 * M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
