@@ -304,6 +304,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Rafie Chautie, [LinkedIn](https://www.linkedin.com/in/rafie-chautie-2039301a7/).
 * Muhammad Rafli, [LinkedIn](https://www.linkedin.com/in/muhammad-rafli-4588201b2/).
 * Muhammad Raihan Ekaputra, [Mathworks](https://www.mathworks.com/matlabcentral/profile/authors/19557924?s_tid=gn_comm).
+* Muhammad Raihan Rifki Asdhar, [LinkedIn](https://www.linkedin.com/in/muhammad-raihan-rifki-asdhar/)
 * Muhammad Raihan Fais Sya'bani [LinkedIn](https://www.linkedin.com/in/mraihanfs/).
 * Muhammad Raihan RTT, [LinkedIn](https://www.linkedin.com/in/muhammad-raihan-ramzy-taufik-tamir-296758213/).
 * Muhammad Ramadhan, [GitHub](https://github.com/MadhanRa).
