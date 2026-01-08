@@ -102,6 +102,7 @@ Berikut daftar Volunter yang diterima:
 * Dedy Setiawan, [LinkedIn](https://www.linkedin.com/in/dedystiawan/).
 * Denada Reskia Febrianti, [LinkedIn](https://www.linkedin.com/in/denada-reskia/).
 * Desi Sunyahni, [LinkedIn](https://www.linkedin.com/in/desi-sunyahni/).
+* Desti Mustika Safitri, [LinkedIn](https://www.linkedin.com/in/destimustikaa/).
 * Deva Ega Marinda, [LinkedIn](https://www.linkedin.com/in/devaem/).
 * Devaldi Caliesta Octadiani, [GitHub](https://github.com/devaldicaliesta).
 * Dewa Yudha, [Ladang Tekno](https://www.ladangtekno.com/p/contact.html).
