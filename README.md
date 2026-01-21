@@ -20,6 +20,7 @@ Berikut daftar Volunter yang diterima:
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
 * Adilla Syafira Putri, [LinkedIn](https://www.linkedin.com/in/adilla-syafira-755708172/).
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
+* Aditya Imam Zuhdi, [LinkedIn](https://www.linkedin.com/in/izaditya/).
 * Aditya Ananda Ramadhani, [LinkedIn](https://www.linkedin.com/in/aditya-ananda-ramadhani-85a900212/).
 * Adrian Michael Duha, [LinkedIn](https://www.linkedin.com/in/adrian-michael-duha-03560b206/).
 * Afif Osamaladen, [GitHub](https://github.com/AfifOsama).
