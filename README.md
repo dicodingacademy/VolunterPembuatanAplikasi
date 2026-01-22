@@ -74,6 +74,7 @@ Berikut daftar Volunter yang diterima:
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
 
 ### B
+* Bagus Budi Satoto, [LinkedIn](https://www.linkedin.com/in/bagussatoto/),[GitHub](https://github.com/bagussatoto),[Bio-Link](https://bio-bagus.netlify.app/).
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 * Bela Eka Putri [GitHub](https://github.com/belaekaputri).
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
