@@ -179,6 +179,7 @@ Berikut daftar Volunter yang diterima:
 
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
+* Harry Sion Tarigan, [LinkedIn](https://www.linkedin.com/in/harrytarigan/).
 * Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
 * Havizh As Haq, [LinkedIn](https://www.linkedin.com/in/havizh-as-haq-398677222/).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
