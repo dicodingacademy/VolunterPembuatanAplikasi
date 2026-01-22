@@ -175,6 +175,7 @@ Berikut daftar Volunter yang diterima:
 * Ghiyas Ash-Shidiqie, [LinkedIn](https://www.linkedin.com/in/ghiyasash-shidiqie/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
+* Gusnaldi Kristiadi Syah, [LinkedIn](https://www.linkedin.com/in/tristiadis/)
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
 
 ### H
