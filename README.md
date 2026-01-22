@@ -67,7 +67,8 @@ Berikut daftar Volunter yang diterima:
 * Arief Kurniawan [GitHub](https://github.com/arief-github).
 * Arif Dewangga, [LinkedIn](https://www.linkedin.com/in/dewanggaarif).
 * Arfiansyah Sucitra, [GitHub](https://github.com/nietzid/).
-* Arina Saffanah Zakiyyah, [GitHub](https://github.com/arinasaffanah)
+* Arina Saffanah Zakiyyah, [GitHub](https://github.com/arinasaffanah).
+* Arindra Rifky Saputra, [LinkedIn](https://www.linkedin.com/in/arindra-rifky-saputra/).
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
