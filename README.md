@@ -292,6 +292,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Fharid Akbar , [LinkedIn](www.linkedin.com/in/muhammad-fharid-akbar-24b9ab160).
 * Muhammad Hafiz Fadlillah, [LinkedIn](https://www.linkedin.com/in/hafiz-muhammad-095417202/).
 * Muhammad Hamdan, [Instagram](https://www.instagram.com/m._.hamdan/).
+* Muhammad Hanif Ardhiansyah, [LinkedIn](https://www.linkedin.com/in/hanif-ardhiansyah).
 * Muhammad Ilham Adhim, [LinkedIn](https://www.linkedin.com/in/muhammad-ilham-adhim-6a7308174/).
 * Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
 * Muhammad Juan Pradana, [LinkedIn](https://www.linkedin.com/in/muhammad-juan-pradana-0868771a7/).
