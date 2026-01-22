@@ -211,6 +211,7 @@ Berikut daftar Volunter yang diterima:
 * Jodi Putra Pratama,[GitHub](https://github.com/Jodiputra24).
 * Joko Ardiyanto, [LinkedIn](https://www.linkedin.com/in/joko-a-b848a0131).
 * Jolie Felicia, [LinkedIn](https://www.linkedin.com/in/jolie-felicia-186900218/).
+* Jonathan Immanuel, [GitHub](https://github.com/andreasjonathanimm/).
 * Jordano Darmawan, [LinkedIn](https://www.linkedin.com/in/jordanoid/).
 * Juan, [LinkedIn](https://www.linkedin.com/in/camejuanm)
 
