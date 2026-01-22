@@ -22,6 +22,7 @@ Berikut daftar Volunter yang diterima:
 * Aditya Akhmad Dinan Jatnika, [LinkedIn](https://www.linkedin.com/in/adityajatnika/).
 * Aditya Ananda Ramadhani, [LinkedIn](https://www.linkedin.com/in/aditya-ananda-ramadhani-85a900212/).
 * Adrian Michael Duha, [LinkedIn](https://www.linkedin.com/in/adrian-michael-duha-03560b206/).
+* Adrian Juansyah Hasan, [GitHub](https://github.com/T-skyCode)
 * Afif Osamaladen, [GitHub](https://github.com/AfifOsama).
 * Agung Kristanto, [LinkedIn](https://www.linkedin.com/in/agungkris15/).
 * Agung Setyo Nugroho, [LinkedIn](https://www.linkedin.com/in/agung-setyo-nugroho-7867241a1/).
