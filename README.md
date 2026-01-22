@@ -130,6 +130,7 @@ Berikut daftar Volunter yang diterima:
 * Eric Firmansyah Sumanto [LinkedIn](https://www.linkedin.com/in/eric-firmansyah-573500172/).
 * Erpan Pamuji, [LinkedIn](https://www.linkedin.com/in/erpan-pamuji-176ba9187/).
 * Erwin Sudrajat R, [LinkedIn](https://www.linkedin.com/in/erwin-sudrajat-rubiyanto-8803bb1b7).
+* Ezra Jon Freddy Pakpahan, [Github](https://github.com/Ezan220401).
 
 ### F
 * Fachry Husaini, [LinkedIn](https://www.linkedin.com/in/fachry-husaini-249387232/).
