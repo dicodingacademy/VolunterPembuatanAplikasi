@@ -48,6 +48,7 @@ Berikut daftar Volunter yang diterima:
 * Alpha Fausta Ikrar Setyadi [LinkedIn](https://www.linkedin.com/in/alpha-fausta-ikrar-setyadi-81937a193/).
 * Alwan Dwi Putra, [LinkedIn](https://www.linkedin.com/in/alwandwiputra/).
 * Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
+* Ananda Risqi Hidayatullah, [Linkedin].(https://github.com/RisqiAnanda)
 * Amar Musaddad, [LikedIn](https://www.linkedin.com/in/amar-musaddad-423240231/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
