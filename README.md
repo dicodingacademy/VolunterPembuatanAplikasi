@@ -93,6 +93,7 @@ Berikut daftar Volunter yang diterima:
 ### D
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
 * Daffa Fikri Alfiansyah, [LinkedIn](https://www.linkedin.com/in/daffa-dappo-53abaa22b/).
+* Dalila Fatharani, [LinkedIn](https://www.linkedin.com/in/dalilafatharani/).
 * Dandi Irwanto, [LinkedIn](https://www.linkedin.com/in/dandiir/).
 * Danil Syah, [LinkedIn](https://www.linkedin.com/in/danil-syah-arihardjo-b06abb126/).
 * Daniel Siburian, [LinkedIn](https://www.linkedin.com/in/siburian-channel-b699881b9/).
