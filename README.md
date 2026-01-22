@@ -215,6 +215,7 @@ Berikut daftar Volunter yang diterima:
 * Juan, [LinkedIn](https://www.linkedin.com/in/camejuanm)
 
 ### K
+* Kadek Ari Dharmika, [LinkedIn](https://www.linkedin.com/in/ari-dharmika-3ab9a71b6/)
 * Kamarudin Anhar, [Kalibrr](https://cand-data.kalibrr.com/www.kalibrr.com/profile/88R4ENZFXB7RNPZ3XEJCMGP2LFEUMZPQ76JUKGD8-62e14e97.pdf).
 * Kanzul Fiqri, [GitHub](https://github.com/KanzulF).
 * Kemal Yazid Fauzi, [GitHub](https://github.com/KemalYF).
@@ -223,6 +224,7 @@ Berikut daftar Volunter yang diterima:
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kharisma Adrienufa, [LinkedIn](www.linkedin.com/in/kharisma-adrienufa-6b8814222)
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
+
 
 ### L
 * Labib Hibatullah, [LinkedIn](https://www.linkedin.com/in/labibhiba).
