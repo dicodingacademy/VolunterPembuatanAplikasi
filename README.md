@@ -143,6 +143,7 @@ Berikut daftar Volunter yang diterima:
 * Farid Alfajr Muhlis, [LinkedIn](https://www.linkedin.com/in/farid-alfajr-17b971209/).
 * Farid Reynaldi, [GitHub](https://github.com/faridfr45).
 * Faris Adnan Lugas, [LinkedIn](https://www.linkedin.com/in/faris-adnan-lugas-7835b31a3/).
+* Faris Afra Mu'taz, [LinkedIn](https://www.linkedin.com/in/faris-afra/).
 * Faris Farhannurrachman, [GitHub](https://github.com/farisfarhann).
 * Faris Muhammad, [LinkedIn](https://www.linkedin.com/in/farisjadul1/).
 * Fariz Kemal, [LinkedIn](https://www.linkedin.com/in/farizkemal/).
