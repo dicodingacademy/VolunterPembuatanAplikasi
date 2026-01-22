@@ -193,7 +193,8 @@ Berikut daftar Volunter yang diterima:
 * Indratama Pangasian Manalu, [GitHub](https://github.com/ianindratama).
 * Indrawan Mulyadi, [LinkedIn](www.linkedin.com/in/indrawan-mulyadi-7b0b961aa/).
 * Imamuzzaki Abu Salam, [LinkedIn](https://www.linkedin.com/in/imamuzzaki-abu-salam/).
-* Imam Rois Budiman, [LinkedIn](https://www.linkedin.com/in/imam-rois-budiman-288b9118b)
+* Imam Rois Budiman, [LinkedIn](https://www.linkedin.com/in/imam-rois-budiman-288b9118b).
+* Insania Cindy P. F, [LinkedIn](https://www.linkedin.com/in/insaniacindy/).
 * Iqbal Febren Haryanto, [LinkedIn](https://www.linkedin.com/in/iqbal-febren-537728221/).
 * Iqbal Rafiud Dajat, [LinkedIn](https://www.linkedin.com/in/iqbal-r-d-346010195/).
 * Irpan Kurniawan SP, [GitHub](https://github.com/irpanksp).
