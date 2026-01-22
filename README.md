@@ -200,6 +200,7 @@ Berikut daftar Volunter yang diterima:
 * Irvan Naufali Rahmanto, [LinkedIn](https://www.linkedin.com/in/irvanrahmanto/).
 * Isham Fakhri Rahman, [LinkedIn](https://www.linkedin.com/in/isham-fakhri-5393ab139).
 * Isroq Atun Nisa, [GitHub](https://github.com/nisaisroq).
+* Istighfar Salma, [Linkedin](https://www.linkedin.com/in/istighfarsalmasuminar/).
 * Ivan Helmiyanto, [GitHub](https://github.com/Ivanhelmiyanto1)
 * Izzafi Ramdhani Al-kaff, [GitHub](https://github.com/zafiramdhani).
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
