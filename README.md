@@ -80,6 +80,7 @@ Berikut daftar Volunter yang diterima:
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
 * Bimantara Majid, [LinkedIn](https://www.linkedin.com/in/bimantara-m-88b3a7206/).
 * Brian Kheng, [GitHub](https://github.com/BrianKheng).
+* Bryan Athallah, [GitHub](https://github.com/BAMBAROO).
 * Budi Liauw, [GitHub](https://github.com/budiliauw87/).
 * Budiyono, [LinkedIn](https://www.linkedin.com/in/budi-yono-8752669b/).
 
