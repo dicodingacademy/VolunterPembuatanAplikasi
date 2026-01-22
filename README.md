@@ -108,6 +108,7 @@ Berikut daftar Volunter yang diterima:
 * Dhafa Defrita Rama Yudistira, [LinkedIn](www.linkedin.com/in/dhafad).
 * Dian Puspitasari, [LinkedIn](https://www.linkedin.com/in/puspita23dian/).
 * Dhia Shahab, [GitHub](https://github.com/dhiashahab).
+* Dhiya Annisa Febriza, [LinkedIn](https://www.linkedin.com/in/dhiyaannisafebriza/).
 * Dimas Budi Utomo, [GitHub](https://github.com/dimas708).
 * Dimas Febri Kuncoro, [GitHub](https://github.com/dimaskunc).
 * Dimas Maulana Dwi Saputra, [dmds.dev](https://dmds.dev/).
