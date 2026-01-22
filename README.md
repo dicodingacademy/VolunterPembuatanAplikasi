@@ -287,6 +287,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Fajri Husaini, [LinkedIn](https://www.linkedin.com/in/m-fajri-husaini-716741215/).
 * Mohammad Fahmi, [LinkedIn](https://www.linkedin.com/in/mohammad-fahmi-57593a195/).
 * Muhammad Fakhrurrozi Sutisna, [LinkedIn](https://www.linkedin.com/in/mfakhrurrozis/).
+* Muhammad Farrel Putra Pambudi, [LinkedIn](https://www.linkedin.com/in/farrelputrapambudi/).
 * Muhammad Farroos Al-Ammaar, [LinkedIn](https://www.linkedin.com/in/muhammad-farroos/).
 * Muhammad Fauzi Maulana, [LinkedIn](https://www.linkedin.com/in/fauzimaulana/).
 * Muhammad Fharid Akbar , [LinkedIn](www.linkedin.com/in/muhammad-fharid-akbar-24b9ab160).
