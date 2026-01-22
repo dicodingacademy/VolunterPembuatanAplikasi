@@ -203,7 +203,8 @@ Berikut daftar Volunter yang diterima:
 * Ivan Helmiyanto, [GitHub](https://github.com/Ivanhelmiyanto1)
 * Izzafi Ramdhani Al-kaff, [GitHub](https://github.com/zafiramdhani).
 * Izzat An nafs, [LinkedIn](https://www.linkedin.com/in/izzat-an-nafs-a7b9a9145/).
-
+* Ikbal Fadilah, [Linkedin](https://www.linkedin.com/in/ikbal-fadilah-a60154239/).
+  
 ### J
 * Jasti Ohanna, [LinkedIn](https://www.linkedin.com/in/jasti-ohanna-267463218/).
 * Jessi K. M. J. Ropa, [GitHub](https://github.com/jessiropa).
