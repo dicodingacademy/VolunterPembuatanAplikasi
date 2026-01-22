@@ -264,6 +264,7 @@ Berikut daftar Volunter yang diterima:
 * Muhamad Abdul Aziz, [LinkedIn](https://www.linkedin.com/in/muhamad-abdul-aziz-6b9a46160/).
 * Muhamad Azis, [GitHub](https://github.com/muhamadAzis32/).
 * Muhamad Dendy Agustian, [LinkedIn](linkedin.com/in/dendimuhmd/).
+* Muhammad Fauzan, [LinkedIn](https://www.linkedin.com/in/muhammad-fauzan-16279a274/).
 * Muhamad Dian Rahendra, [LinkedIn](https://www.linkedin.com/in/muanra217/).
 * Muhamad Fauzan, [LinkedIn](https://www.linkedin.com/in/muhamad-fauzan12/)
 * Muhamad Iksan, [LinkedIn](https://www.linkedin.com/in/muhamad-iksan-6a9a88232/).
