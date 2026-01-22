@@ -73,7 +73,8 @@ Berikut daftar Volunter yang diterima:
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
 * Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
 
-### B
+### B  
+* Bakkah Maulana Mashur, [Github](https://github.com/bakkah-m).  
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 * Bela Eka Putri [GitHub](https://github.com/belaekaputri).
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
