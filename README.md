@@ -296,6 +296,7 @@ Berikut daftar Volunter yang diterima:
 * Muhammad Jibrail Natadilaga, [GitHub](https://github.com/Jibrail0398).
 * Muhammad Juan Pradana, [LinkedIn](https://www.linkedin.com/in/muhammad-juan-pradana-0868771a7/).
 * Muhammad Mishbahul Munir, [LinkedIn](https://www.linkedin.com/in/muhammad-mishbahul-munir-b32227136/).
+* Muhammad Naufal Prayoga, [GitHub](https://github.com/cfzlnaufal/).
 * Muhammad Nitis Jatnika Permana, [LinkedIn](https://www.linkedin.com/in/muhammad-nitis-039ba8203/).
 * Muhammad Nazir Azhari, [LinkedIn](https://www.linkedin.com/in/muhammad-nazir-azhari-55aa021a9/).
 * Muhammad Pazrin Andreanor, [GitHub](https://github.com/ryfazrin).
