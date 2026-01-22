@@ -173,6 +173,7 @@ Berikut daftar Volunter yang diterima:
 * Gesang Budiono, [GitHub](https://github.com/gesang909).
 * Ghina Salma Susilo, [GitHub](https://github.com/Ghinasalma05/).
 * Ghiyas Ash-Shidiqie, [LinkedIn](https://www.linkedin.com/in/ghiyasash-shidiqie/).
+* Gilang Hansagita, [GitHub](https://github.com/ghansagita98/).
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
