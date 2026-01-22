@@ -75,6 +75,7 @@ Berikut daftar Volunter yang diterima:
 
 ### B
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
+* Baharudin Nur Hidayat, [LinkedIn](https://www.linkedin.com/in/baharudin-nur-hidayat-432522203/).
 * Bela Eka Putri [GitHub](https://github.com/belaekaputri).
 * Bima Ary Widiatmaja, [LinkeIn](https://www.linkedin.com/in/bima-ary-widiatmaja-310a49133/).
 * Bima Pramudya Asaddulloh, [LinkedIn](https://www.linkedin.com/in/prambima).
