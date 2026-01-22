@@ -240,6 +240,7 @@ Berikut daftar Volunter yang diterima:
 * Mar Atun Nabilah Chaniago, [LinkedIn](https://www.linkedin.com/in/mar-atun-nabilah-chaniago-928b72217/).
 * Marchelia Naba, [LinkedIn](https://www.linkedin.com/in/marchelianaba/).
 * Marvel Natanael S, [GitHub](https://www.github.com/marvel-natanael).
+* Marwan Hasbun Nur, [LinkedIn](https://www.linkedin.com/in/marwan-hasbun-nur/).
 * Mas 'Edi, [GitHub](https://github.com/eldy54).
 * Masrizal Eka Yulianto, [LinkedIn](https://www.linkedin.com/in/masrizaleka/).
 * Maulana Ahmad Maliki, [LinkedIn](https://www.linkedin.com/in/lanaahm/).
