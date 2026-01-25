@@ -233,7 +233,8 @@ Berikut daftar Volunter yang diterima:
 * Lutfhi Adam Alghani, [GitHub](https://github.com/ALghani04).
 
 ### M
-* M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
+* Michael Sanjaya, [LinkedIn](https://www.linkedin.com/in/michael-sanjaya-2ba85328a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+*  M. Akbar Husein Siregar, [Personal Profile](https://akbarhusein.github.io/).
 * M. Fadhil Kumawa Putra [GitHub](https://github.com/devilslayer79).
 * M. Sabran Fauzan [LinkedIn](https://www.linkedin.com/in/msfauzan/).
 * M. Safii, [GitHub](https://github.com/msafii85).
