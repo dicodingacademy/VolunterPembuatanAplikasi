@@ -351,6 +351,7 @@ Berikut daftar Volunter yang diterima:
 * Permana, [GitHub.com](https://github.com/Permana4131).
 * Prayoga Dinata, [LinkedIn](https://www.linkedin.com/in/prayoga-dinata-168780122/).
 * Putri Benedicta, [LinkedIn](https://www.linkedin.com/in/putribenedicta/).
+* Putra Abdi Yatma, [LinkedIn](www.linkedin.com/in/putra-abdi-yatma-5152042b0).
 
 ### Q
 ### R
