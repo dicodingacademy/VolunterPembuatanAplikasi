@@ -409,6 +409,7 @@ Berikut daftar Volunter yang diterima:
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 * Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 * Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
+* Silvana Yulia Damara, [LinkedIn](https://www.linkedin.com/in/silvana-yulia-damara-bb1121271/).
 
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
