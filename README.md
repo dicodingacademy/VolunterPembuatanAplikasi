@@ -408,8 +408,8 @@ Berikut daftar Volunter yang diterima:
 * Surya Rosauli Pasaribu, [GitHub](https://github.com/asterisros).
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 * Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
-* Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
-
+* Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).  
+* Sabrina Ganeshswara Putri, [LinkedIn](https://www.linkedin.com/in/sabrina-ganeshswara-putri-0a94582b8/).  
 ### T
 * Tabitha Hanna, [LinkedIn](https://www.linkedin.com/in/tabitha-hanna/).
 * Tanti Cahya Herdiyani, [GitHub](https://github.com/tantiich/).
