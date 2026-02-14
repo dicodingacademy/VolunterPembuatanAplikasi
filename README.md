@@ -321,6 +321,7 @@ Berikut daftar Volunter yang diterima:
 * Musmuliadi, [GitHub](https://smbrang.github.io/musmuliadi/).
 * Mutiara Nur Indah Sari, [GitHub](https://github.com/mutiaranis).
 * marihot Siregar, [Github](https://github.com/ucok28).
+* M Fadhil Muzaffar Guci, [LinkedIn](https://www.linkedin.com/in/fadhil-muzaffar-4837b4280/).
 
 ### N
 * Nabil Abidi, [GitHub](https://github.com/nabilabidi).
