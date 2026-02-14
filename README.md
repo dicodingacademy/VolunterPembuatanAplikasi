@@ -124,6 +124,7 @@ Berikut daftar Volunter yang diterima:
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
 * Edward Simanjuntak, [GitHub](https://github.com/edsmjtk).
+* Eka Safari, [LinkedIn](https://www.linkedin.com/in/eka-safari).
 * Eko Bagus Yanuar, [LinkedIn](https://www.linkedin.com/in/eko-bagus-yanuar-611086193/).
 * Ela Amelia Sari, [GitHub](https://github.com/eas111).
 * Elmer Fiqi Tajusaladin, [LinkedIn](https://www.linkedin.com/in/elmerfiqi/).
