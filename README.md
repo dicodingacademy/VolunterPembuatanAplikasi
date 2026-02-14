@@ -1,4 +1,4 @@
-# Volunter Pembuatan Aplikasi
+<img width="1185" height="532" alt="image" src="https://github.com/user-attachments/assets/84382b2e-ed20-40d9-86cb-0fac1c0f722e" /># Volunter Pembuatan Aplikasi
 Repository ini digunakan sebagai sayembara pencarian volunter untuk pembuatan aplikasi [Dicoding](www.dicoding.com).   
 Jika Anda tertarik untuk menjadi Volunter, silakan lakukan PR(pull-request) pada berkas ini ya.  
 Silakan gunakan format berikut:
@@ -38,6 +38,7 @@ Berikut daftar Volunter yang diterima:
 * Aida Muhdina, [LinkedIn](https://www.linkedin.com/in/aida-muhdina-7917a2164/).
 * Alan Emilio Admaja, [LinkedIn](https://www.linkedin.com/in/alan-emilio-admaja-61569021b/).
 * Aldes Vandero Napitu, [GitHub](https://github.com/aldes07).
+* Aldi Pramudya, [GitHub](https://github.com/stezd).
 * Aldion Sumampouw, [LinkedIn](https://www.linkedin.com/in/aldion-sumampouw/).
 * Aldo Andika, [Linkedin](https://www.linkedin.com/in/Aldo-Andika/)
 * Alfadila Anas, [GeoIT.dev](https://geoit.dev).
