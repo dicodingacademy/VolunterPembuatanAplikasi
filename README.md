@@ -437,6 +437,7 @@ Berikut daftar Volunter yang diterima:
 * Vini Jumatul Fitri, [LinkedIn](https://www.linkedin.com/in/vini-jumatul-fitri-303190179/).
 * Vinna Setiawan, [Github](https://github.com/vinnaseti).
 * Virgiawan Teguh Kusuma, [LinkedIn](https://www.linkedin.com/in/virgiawankusuma/).
+* Vina Widiasari, [LinkedIn](https://www.linkedin.com/in/vina-widiasari/).
 
 ### W
 * Wahyu Suseno, [LinkedIn](https://www.linkedin.com/in/suseno-wahyus/).
