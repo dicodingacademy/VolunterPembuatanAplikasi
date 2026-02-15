@@ -15,6 +15,7 @@ Berikut daftar Volunter yang diterima:
 * Abrar Wiryawan, [GitHub](https://github.com/wiryadev).
 * Achmad Hendarsyah, [Github](https://github.com/eruDev0).
 * Achsanu Amala, [LinkedIn](https://www.linkedin.com/in/achsanu-amala-933a36216/).
+* Achmad Rifan, [LinkedIn](https://www.linkedin.com/in/achmadrifan/)
 * Adam Arnap, [LinkedIn](https://www.linkedin.com/in/abdillah-s-a-s-0a554892/).
 * Ade Adam Nisa Sabrina, [LinkedIn](https://www.linkedin.com/in/adeadamnisa/).
 * Ade Rahmat Jatnika, [GitHub](https://github.com/arachmatz).
