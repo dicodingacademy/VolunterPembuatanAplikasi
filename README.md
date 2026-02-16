@@ -406,6 +406,7 @@ Berikut daftar Volunter yang diterima:
 * Sulaiman, [LinkedIn](https://www.linkedin.com/in/sulaiman-a184a5208/).
 * Sukma Ramadhan Asri, [GitHub](https://github.com/onedayxzn).
 * Surya Rosauli Pasaribu, [GitHub](https://github.com/asterisros).
+* Suyeni Meisyalena, [GitHub](https://github.com/suyenimeisyalena)
 * Syaiful Bahri, [LinkedIn](https://www.linkedin.com/in/syaifulbahri16/).
 * Syarapudin, [LinkedIn](https://www.linkedin.com/in/Syarap-udin-b87354725/).
 * Syamil Taqiyuddin Ayyasy, [LinkedIn](https://www.linkedin.com/in/syamil-taqiyuddin-ayyasy-7a5792149/).
