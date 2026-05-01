@@ -1,0 +1,199 @@
+name: Auto-merge volunteer PR (safe)
+
+on:
+  pull_request:
+    types: [opened, reopened, synchronize, ready_for_review]
+    branches:
+      - main
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  auto-merge:
+    # Jangan jalan kalau PR masih draft
+    if: github.event.pull_request.draft == false
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1) Cek file yang berubah
+      - name: Cek file yang berubah
+        id: files-check
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            const fileNames = files.map(f => f.filename);
+            core.info(`Files changed: ${fileNames.join(", ") || "(none)"}`);
+
+            const onlyReadme =
+              fileNames.length > 0 &&
+              fileNames.every(name => name === "README.md");
+
+            core.setOutput("only_readme", onlyReadme ? "true" : "false");
+            core.setOutput(
+              "has_readme_patch",
+              files.some(f => f.filename === "README.md" && !!f.patch) ? "true" : "false"
+            );
+
+            if (!onlyReadme) {
+              const body = [
+                "👋 Terima kasih sudah submit PR!",
+                "",
+                "Workflow auto-merge **tidak dijalankan** karena PR ini mengubah file **selain `README.md`**.",
+                "",
+                "Repo ini mengaktifkan auto-merge hanya untuk PR yang:",
+                "- Mengubah *hanya* file `README.md`",
+                "- Berisi penambahan data volunteer sesuai format",
+                "",
+                "Silakan cek kembali perubahanmu ya 🙏"
+              ].join("\n");
+
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body,
+              });
+
+              core.info("PR mengubah file selain README.md, auto-merge dimatikan (tapi check tetap sukses).");
+              return; // penting: JANGAN setFailed
+            }
+
+      # 2) Cek konten README: kata terlarang + format
+      - name: Cek konten README (kata terlarang & format)
+        if: steps.files-check.outputs.only_readme == 'true' && steps.files-check.outputs.has_readme_patch == 'true'
+        id: content-check
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+
+            const { data: files } = await github.rest.pulls.listFiles({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            const readmeFile = files.find(f => f.filename === "README.md");
+            if (!readmeFile || !readmeFile.patch) {
+              core.info("Tidak ada patch untuk README.md, skip auto-merge.");
+              return;
+            }
+
+            const patchLower = readmeFile.patch.toLowerCase();
+
+            // 1) Kata terlarang
+            const bannedWords = [
+              "bodoh",
+              "goblok",
+              "anjing",
+              "kampret",
+              "tai",
+              "bangsat"
+              // tambah kata lain di sini kalau perlu
+            ];
+
+            const hit = bannedWords.find(w => patchLower.includes(w));
+            if (hit) {
+              const body = [
+                "⚠️ Auto-merge dibatalkan.",
+                "",
+                `Ditemukan kata terlarang: **\"${hit}\"** di perubahan README.`,
+                "",
+                "Silakan hapus / ganti kata tersebut, lalu push ulang perubahanmu 🙏"
+              ].join("\n");
+
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body,
+              });
+
+              core.setFailed(`Kata terlarang terdeteksi: ${hit}`);
+              return;
+            }
+
+            // 2) Cek format baris baru
+            const addedLines = readmeFile.patch
+              .split("\n")
+              .filter(line => line.startsWith("+") && !line.startsWith("+++"))
+              .map(line => line.substring(1));
+
+            const invalidLines = addedLines.filter(line => {
+              const trimmed = line.trim();
+              if (trimmed === "") return false;
+              if (!trimmed.startsWith("* ")) return true;
+              if (!(trimmed.includes("[") && trimmed.includes("]("))) return true;
+              return false;
+            });
+
+            if (invalidLines.length > 0) {
+              const list = invalidLines.map(l => `- \`${l}\``).join("\n");
+
+              const body = [
+                "⚠️ Auto-merge dibatalkan karena format belum sesuai.",
+                "",
+                "Mohon pastikan setiap entry baru mengikuti format:",
+                "",
+                "```markdown",
+                "* Nama Lengkap - [Platform](https://link-kamu.com)",
+                "```",
+                "",
+                "Baris yang terdeteksi belum sesuai:",
+                list
+              ].join("\n");
+
+              await github.rest.issues.createComment({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: pr.number,
+                body,
+              });
+
+              core.setFailed("Format entry volunteer belum sesuai.");
+              return;
+            }
+
+            core.info("Tidak ada kata terlarang dan format sudah sesuai. Lanjut ke auto-merge.");
+
+      # 3) Auto-merge PR jika semua pengecekan lolos
+      - name: Auto-merge PR jika aman
+        if: ${{ !cancelled() && success() }}
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const pr = context.payload.pull_request;
+
+            const { data: refreshed } = await github.rest.pulls.get({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              pull_number: pr.number,
+            });
+
+            if (refreshed.mergeable) {
+              core.info(`Merging PR #${pr.number}...`);
+              await github.rest.pulls.merge({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                pull_number: pr.number,
+                merge_method: "squash",
+              });
+            } else {
+              core.info(`PR #${pr.number} tidak mergeable (conflict / dsb), skip.`);
+            }
