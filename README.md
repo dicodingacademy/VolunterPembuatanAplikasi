@@ -178,8 +178,9 @@ Berikut daftar Volunter yang diterima:
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
 
 ### H
-* Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
 * Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
+* Hariz Hussain, [Linkedin](https://www.linkedin.com/in/hariz-hussain-2a2779416/).
+* Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
 * Havizh As Haq, [LinkedIn](https://www.linkedin.com/in/havizh-as-haq-398677222/).
 * Hendradito, [LinkedIn](https://www.linkedin.com/in/hendraditodwia/).
 * Hendri Permana, [LinkedIn](https://www.linkedin.com/in/hendripermana/).
