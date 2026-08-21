@@ -176,7 +176,8 @@ Berikut daftar Volunter yang diterima:
 * Gilang Ramadhan, [LinkedIn](https://www.linkedin.com/in/gilang-adhan/).
 * Gisela Sanggaria, [GitHub](https://github.com/giselasanggaria).
 * Grace Dita Hutasoit, [LinkedIn](https://www.linkedin.com/in/grace-asmr/).
-
+* Grivin William Revel, [LinkedIn](https://www.linkedin.com/in/grivin-w-1215a22b0/).
+  
 ### H
 * Harris Kurniadi Sumbogo, [LinkedIn](https://www.linkedin.com/in/harris-sumbogo/).
 * Hanif Muhammad Irsyad, [LinkedIn](https://www.linkedin.com/in/hanifirsyad/).
