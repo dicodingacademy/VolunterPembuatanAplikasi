@@ -388,6 +388,7 @@ Berikut daftar Volunter yang diterima:
 * Rusdia Hamid, [LinkedIn](https://www.linkedin.com/in/rusdia-hamid-a81175186/).
 
 ### S
+* Salman Dzaky Mujahid, [LinkedIn](https://www.linkedin.com/in/salman-dzaky-mujahid-53a776358/).
 * Sandrian Yulian Firmansyah Noorihsan, [LinkedIn](https://www.linkedin.com/in/sandrianyulianfn/).
 * Sandy Julianto, [LinkedIn](www.linkedin.com/in/sandy-julianto-a624b8234/).
 * Sang Putu Yoga Pramana, [LinkedIn](https://www.linkedin.com/in/yoga-pramana-a77b3b1a1/).
