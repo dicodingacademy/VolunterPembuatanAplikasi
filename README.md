@@ -91,6 +91,7 @@ Berikut daftar Volunter yang diterima:
 * Chandra Wijaya, [LinkedIn](https://www.linkedin.com/in/chandra-wijaya-931a721bb).
 
 ### D
+* Daniel Steven Setyawan, [LinkedIn](https://www.linkedin.com/in/daniel-steven-setyawan-63280b333/).
 * Daffa Ananda Pratama Resyaly, [LinkedIn](https://www.linkedin.com/in/daffa-ananda/).
 * Daffa Fikri Alfiansyah, [LinkedIn](https://www.linkedin.com/in/daffa-dappo-53abaa22b/).
 * Dandi Irwanto, [LinkedIn](https://www.linkedin.com/in/dandiir/).
