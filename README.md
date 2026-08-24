@@ -120,6 +120,7 @@ Berikut daftar Volunter yang diterima:
 * Dyelvio Wijaya, [GitHub](https://github.com/DyelvioWijaya).
 * Dzakwan Daffa Ramdhana, [LinkedIn](https://www.linkedin.com/in/dzakwan-daffa-ramdhana-b8ab22134/).
 * D'Riski Maulana, [LinkedIn](https://www.linkedin.com/in/driskimaulana/).
+* Danendra Dharma, [LinkedIn](https://www.linkedin.com/in/danendra-dharma-b5890b40a/).
 
 ### E
 * Edwin Tantawi, [edwintantawi.vercel.app](https://edwintantawi.vercel.app/).
