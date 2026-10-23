@@ -222,6 +222,7 @@ Berikut daftar Volunter yang diterima:
 * Kevin Saputra, [LinkedIn](https://www.linkedin.com/in/kevin-purnama-saputra-7bb438a9/).
 * Khairul Aqram, [GitHub](https://kh21rul.github.io/).
 * Kharisma Adrienufa, [LinkedIn](www.linkedin.com/in/kharisma-adrienufa-6b8814222)
+* Komang Satria Bagas Bramantara [GitHub] (https://github.com/reamura87)
 * Kurnia, [LinkedIn](https://www.linkedin.com/in/kurnia-sari-sitanggang-75133317a/).
 
 ### L
