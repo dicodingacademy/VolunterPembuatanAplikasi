@@ -49,6 +49,7 @@ Berikut daftar Volunter yang diterima:
 * Alwan Dwi Putra, [LinkedIn](https://www.linkedin.com/in/alwandwiputra/).
 * Aman swasono, [LinkedIn](https://www.linkedin.com/in/aman-swasono-ba17761a5/)
 * Amar Musaddad, [LikedIn](https://www.linkedin.com/in/amar-musaddad-423240231/).
+* Anda, [LinkedIn](https://www.linkedin.com/in/anda-ida-809354297/).
 * Andi Alfian Bahtiar, [LinkedIn](https://www.linkedin.com/in/anddfian).
 * Andi Muh. Yusran, [LinkedIn](https://www.linkedin.com/in/andi-uccank-59144a174/).
 * Andi Raihan Arman, [LinkedIn](https://www.linkedin.com/in/andi-raihan-arman-96974b1b3/).
@@ -71,8 +72,8 @@ Berikut daftar Volunter yang diterima:
 * Arrizky Hasya Pratama, [LinkedIn](https://www.linkedin.com/in/arrizky-hasya-pratama-b58316216/).
 * Asep Ridwan, [LinkedIn](https://www.linkedin.com/in/ahmad-fauzi-9b4aaa113/).
 * Aurel Chesya Berliana, [LinkedIn](https://www.linkedin.com/in/aurel-chesya-berliana-b27728151/).
-* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/). 
-
+* Aziz Agus Nugroho [LinkedIn](https://www.linkedin.com/in/aziz-agus-nugroho-55b315147/).
+  
 ### B
 * Baso Arfan Efendy, [LinkedIn](https://linkedin.com/in/baso-arfan-efendy-2570111b3).
 * Bela Eka Putri [GitHub](https://github.com/belaekaputri).
